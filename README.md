@@ -6,3 +6,5 @@
 - [getleon](https://getleon.ai/) `Leon is your open-source personal assistant who can live on your server.`
 - [Open AI Whisper](https://github.com/openai/whisper) `Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multi-task model that can perform multilingual speech recognition as well as speech translation and language identification.`
 - [lightning echo](https://lightning.ai/echo/view/home) `Transcription. simple and open-source.` [more lightning apps](https://lightning.ai/apps)
+- [markcopy ai](https://www.markcopy.ai/) `Write Content 10x Faster`
+- [unschooler](https://unschooler.me/) `Personal AI-mentor helps you to find and pursue a new career.`
