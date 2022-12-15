@@ -8,3 +8,4 @@
 - [lightning echo](https://lightning.ai/echo/view/home) `Transcription. simple and open-source.` [more lightning apps](https://lightning.ai/apps)
 - [markcopy ai](https://www.markcopy.ai/) `Write Content 10x Faster`
 - [unschooler](https://unschooler.me/) `Personal AI-mentor helps you to find and pursue a new career.`
+- [withpoly](https://withpoly.com/) `Generate 3D Design Assets in Seconds with AI`
