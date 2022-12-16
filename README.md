@@ -9,3 +9,13 @@
 - [markcopy ai](https://www.markcopy.ai/) `Write Content 10x Faster`
 - [unschooler](https://unschooler.me/) `Personal AI-mentor helps you to find and pursue a new career.`
 - [withpoly](https://withpoly.com/) `Generate 3D Design Assets in Seconds with AI`
+
+## writing tools
+- [grammarly](https://www.grammarly.com/) `Compose bold, clear, mistake-free writing with Grammarly’s AI-powered writing assistant.`
+- [copy ai](https://www.copy.ai/) `Write better marketing copy and content with AI`
+
+## design tools
+- [beautiful ai](https://www.beautiful.ai/) `Presentation software that designs for you.`
+
+## miscellaneous
+- [interview-warmup by google](https://grow.google/certificates/interview-warmup/)
