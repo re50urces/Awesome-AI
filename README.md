@@ -25,7 +25,9 @@
 - [chibi ai](https://chibi.ai/) `Now anyone can have a writing assistant.`
 - [copysmith](https://copysmith.ai/) `Copysmith is the AI content creation solution for Enterprise & eCommerce`
 - [copymatic ai](https://copymatic.ai/) `Generate Content & Copy In Seconds with AI`
-
+- [hypotenuse](https://www.hypotenuse.ai/?ref=awesomeAI) `Let AI write your content in seconds. Without writer’s block.`
+- [longshot ai](https://www.longshot.ai/) `Create blogs that humans and search engines love using Artificial Intelligence`
+- [unbounce smart copy](https://unbounce.com/product/smart-copy/) `Wherever You Type, Smart Copy Writes`
 
 ## video tools
 - [runway](https://runwayml.com/) `Everything you need to make content, fast.`
@@ -33,6 +35,7 @@
 - [synthesia](https://www.synthesia.io/) `Create videos from plain text in minutes`
 - [descript](https://www.descript.com/) `All-in-one video & audio editing, as easy as a doc.`
 - [typecast ai](https://typecast.ai/) `Video creation made simple with AI voices and avatars`
+- [bhuman ai](https://www.bhuman.ai/) `Produce a single video and personalize it for thousands of recipients. Deliver over any channel and measure results instantly.`
 
 ## audio tools
 - [play ht](https://play.ht/) `AI powered text to voice generator`
@@ -49,6 +52,11 @@
 - [facet ai](https://facet.ai/) `Facet is the first AI-powered image editor, empowering artists to do what they do best: create.`
 - [remove bg](https://www.remove.bg/) `Remove backgrounds 100% automatically in 5 seconds with one click`
 - [remini ai](https://remini.ai/) `The only photo enhancer you'll ever need`
+- [avatar ai](https://avatarai.me/) `Create your own photorealistic AI Avatars`
+- [photosonic](https://photosonic.writesonic.com/) `The AI that paints your dreams with pixels - for FREE.`
+- [ai picasso](https://aipicasso.studio.site/) `Create Art with Powerful AI`
+- [upscale](https://www.upscale.media/) `Upscale and Enhance Your Images for FREE`
+- [ai image enlarger](https://imglarger.com/) `All-in-one AI toolkits help you enhance and upscale images. Increases image resolution without losing quality`
 
 ## commerce tools
 - [syte ai](https://www.syte.ai/) `The World's #1 Product Discovery Platform for eCommerce`
@@ -68,10 +76,12 @@
 - [hotpot ai](https://hotpot.ai/) `Hotpot helps you create amazing graphics, pictures, and text.`
 - [pixray text to image / pixel art](https://pixray.gob.io/)
 - [designs ai](https://designs.ai/) `Create logos, videos, banners, mockups with A.I. in 2 minutes`
+- [durable website builder](https://durable.co/ai-website-builder) `Build a website in 30 seconds using artificial intelligence`
+- [makelogo ai](https://makelogoai.com/) `Uniques logos, for less than a coffee`
 
 ## Coding tools
 - [GitHub copilot](https://github.com/features/copilot) `Your AI pair programmer`
-
+- [tabnine](https://www.tabnine.com/) `AI assistant for software developers`
 
 ## miscellaneous
 - [interview-warmup by google](https://grow.google/certificates/interview-warmup/)
@@ -86,3 +96,6 @@
 - [co:here ai](https://cohere.ai/) `Making NLP part of every developer's toolkit`
 - [open ai](https://openai.com/api/) `Build next-gen apps with OpenAI’s powerful models.`
 - [zyro ai tools](https://zyro.com/tools) `Free AI tools to set your business up for success`
+- [personal ai](https://www.personal.ai/) `Generate new ideas, recall key concepts, and write original content and at the speed of thought.`
+- [monterey ai](https://www.monterey.ai/) `Copilot for Product Development`
+- [kalendar ai](https://www.kalendar.ai/) `Book new revenue on autopilot with AI  `
