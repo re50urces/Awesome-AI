@@ -10,7 +10,6 @@
 - [rytr](https://rytr.me/?ref=awesomeAI) `Rytr - Best AI Writer, Content Generator & Writing Assistant`
 - [simplified ai-writer](https://simplified.com/ai-writer/?ref=awesomeAI) `Write Instant Marketing Copy with the Free AI Copywriting Generator`
 - [frase](https://www.frase.io/?ref=awesomeAI) `Frase | Best SEO Content Optimization Tool & AI Writer`
-- [grammarly](https://www.grammarly.com/?ref=awesomeAI) `Compose bold, clear, mistake-free writing with Grammarly’s AI-powered writing assistant.`
 - [requstory](https://requstory.com/?ref=awesomeAI) `WRITE BETTER USER STORIES.`
 - [marketmuse](https://www.marketmuse.com/?ref=awesomeAI) `AI Content Planning and Optimization Software`
 - [wordtune](https://www.wordtune.com/?ref=awesomeAI) `Your thoughts in words`
@@ -28,7 +27,19 @@
 - [hypotenuse](https://www.hypotenuse.ai/?ref=awesomeAI) `Let AI write your content in seconds. Without writer’s block.`
 - [longshot ai](https://www.longshot.ai/?ref=awesomeAI) `Create blogs that humans and search engines love using Artificial Intelligence`
 - [unbounce smart copy](https://unbounce.com/product/smart-copy/?ref=awesomeAI) `Wherever You Type, Smart Copy Writes`
-- [scalenut](https://www.scalenut.com/?ref=awesomeAI)
+- [scalenut](https://www.scalenut.com/?ref=awesomeAI) `Tell Better Stories at Scale`
+- [NeuralText](https://www.neuraltext.com/?ref=awesomeAI) `NeuralText - AI Writing Assistant and tools for SEO`
+- [closerscopy](https://www.closerscopy.com/?ref=awesomeAI) `AI Copywriting Robot - ClosersCopy`
+- [inkforall](https://inkforall.com/?ref=awesomeAI) `INK – World’s Best AI Content Assistant for Marketing & SEO`
+- [peppertype](https://www.peppertype.ai/?ref=awesomeAI) `Create Quality Content Faster`
+- [ai-writer](https://ai-writer.com/?ref=awesomeAI) `AI-Writer is the most accurate content generation platform, using state-of-the-art AI writing models to generate articles from just a headline.`
+- [GetGenie](https://getgenie.ai/?ref=awesomeAI) `The WordPress AI SuperApp for Content & SEO | GetGenie`
+- [Article Forge](https://www.articleforge.com/?ref=awesomeAI) `High quality, AI content generator - Article Forge`
+- [ProWritingAid](https://prowritingaid.com/?ref=awesomeAI) `ProWritingAid: AI Writing Assistant Software`
+- [QuillBot](https://quillbot.com/?ref=awesomeAI) `QuillBot's AI-powered paraphrasing tool will enhance your writing`
+- [WriterZen](https://writerzen.net/?ref=awesomeAI) `Proficient SEO Content Workflow Software`
+- [Writecream](https://www.writecream.com/?ref=awesomeAI) `Writecream - Best AI Writer & Content Generator - Writecream`
+- [outranking](https://www.outranking.io/?ref=awesomeAI) `Outranking helps content teams achieve predictable content success with AI assistance.`
 
 ## video tools
 - [runway](https://runwayml.com/?ref=awesomeAI) `Everything you need to make content, fast.`
@@ -63,6 +74,10 @@
 - [syte ai](https://www.syte.ai/?ref=awesomeAI) `The World's #1 Product Discovery Platform for eCommerce`
 - [nureply](https://nureply.com/?ref=awesomeAI) `Get 2.4x More Replies and Revenue with Cold Emails Powered by Advanced AI`
 - [zia by zoho](https://www.zoho.com/zia/?ref=awesomeAI) `Meet Zia, the AI-powered assistant for your business`
+- [Adzis app](https://app.adzis.com/?ref=awesomeAI) `AI Content Generator App for eCommerce - Adzis`
+- [ocaya](https://www.ocoya.com/?ref=awesomeAI) `Become a Social Media Genius`
+- [On-Page.ai](https://on-page.ai/?ref=awesomeAI) `On-Page SEO Optimization Tool Helps You Rank - On-Page.ai`
+- [sapling](https://sapling.ai/?ref=awesomeAI) `AI messaging assistant for customer-facing teams. Respond twice as fast.`
 
 ## design tools
 - [beautiful ai](https://www.beautiful.ai/?ref=awesomeAI) `Presentation software that designs for you.`
