@@ -58,8 +58,9 @@
 - [upscale](https://www.upscale.media/) `Upscale and Enhance Your Images for FREE`
 - [ai image enlarger](https://imglarger.com/) `All-in-one AI toolkits help you enhance and upscale images. Increases image resolution without losing quality`
 
-## commerce tools
+## commerce & marketing tools
 - [syte ai](https://www.syte.ai/) `The World's #1 Product Discovery Platform for eCommerce`
+- [nureply](https://nureply.com/) `Get 2.4x More Replies and Revenue with Cold Emails Powered by Advanced AI`
 
 ## design tools
 - [beautiful ai](https://www.beautiful.ai/) `Presentation software that designs for you.`
