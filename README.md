@@ -48,6 +48,9 @@
 - [descript](https://www.descript.com/?ref=awesomeAI) `All-in-one video & audio editing, as easy as a doc.`
 - [typecast ai](https://typecast.ai/?ref=awesomeAI) `Video creation made simple with AI voices and avatars`
 - [bhuman ai](https://www.bhuman.ai/?ref=awesomeAI) `Produce a single video and personalize it for thousands of recipients. Deliver over any channel and measure results instantly.`
+- [Jellysmack](https://jellysmack.com/) `Creator Content Amplification & Solutions | Jellysmack`
+- [plask](https://plask.ai/) `AI-powered Mocap Animation Tool`
+- [Rokoko video](https://www.rokoko.com/products/video) `Rokoko Video Free AI motion capture`
 
 ## audio tools
 - [play ht](https://play.ht/?ref=awesomeAI) `AI powered text to voice generator`
