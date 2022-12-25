@@ -103,6 +103,7 @@
 ## Coding tools
 - [GitHub copilot](https://github.com/features/copilot/?ref=awesomeAI) `Your AI pair programmer`
 - [tabnine](https://www.tabnine.com/?ref=awesomeAI) `AI assistant for software developers`
+- [deepOpinion](https://go.deepopinion.ai/?ref=awesomeAI) `No-code AI for automation professionals`
 
 ## miscellaneous
 - [interview-warmup by google](https://grow.google/certificates/interview-warmup/?ref=awesomeAI)
@@ -119,4 +120,5 @@
 - [zyro ai tools](https://zyro.com/tools/?ref=awesomeAI) `Free AI tools to set your business up for success`
 - [personal ai](https://www.personal.ai/?ref=awesomeAI) `Generate new ideas, recall key concepts, and write original content and at the speed of thought.`
 - [monterey ai](https://www.monterey.ai/?ref=awesomeAI) `Copilot for Product Development`
-- [kalendar ai](https://www.kalendar.ai/?ref=awesomeAI) `Book new revenue on autopilot with AI  `
+- [kalendar ai](https://www.kalendar.ai/?ref=awesomeAI) `Book new revenue on autopilot with AI`
+- [akkio](https://www.akkio.com/?ref=awesomeAI) `Modern Business Runs on AI`
