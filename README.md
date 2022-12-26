@@ -42,6 +42,7 @@
 - [outranking](https://www.outranking.io/?ref=awesomeAI) `Outranking helps content teams achieve predictable content success with AI assistance.`
 
 ## video tools
+- [veed io](https://www.veed.io/?ref=awesomeAI) `VEED - Edit, Record & Livestream Video - Online`
 - [runway](https://runwayml.com/?ref=awesomeAI) `Everything you need to make content, fast.`
 - [Fliki](https://fliki.ai/?ref=awesomeAI) `Turn text into videos with AI voices`
 - [synthesia](https://www.synthesia.io/?ref=awesomeAI) `Create videos from plain text in minutes`
@@ -54,6 +55,12 @@
 - [Topaz Video AI](https://www.topazlabs.com/topaz-video-ai/?ref=awesomeAI) `Production-grade AI models for professional use cases`
 - [Steve AI](https://www.steve.ai/?ref=awesomeAI) `Free AI Video Maker App | Online Video Making Software Tool`
 - [elai](https://elai.io/?ref=awesomeAI) `Create AI videos from just text.`
+- [pictory](https://pictory.ai/?ref=awesomeAI) `Video Marketing Made EASY`
+- [Lumen5](https://lumen5.com/?ref=awesomeAI) `Lumen5 - Video Maker | Create Videos Online in Minutes`
+- [wisecut](https://www.wisecut.video/?ref=awesomeAI) `Wisecut | Automatic Video Editor`
+- [synths video](https://synths.video/?ref=awesomeAI) `Convert articles into video in 1-click`
+- [invideo](https://invideo.io/?ref=awesomeAI) `Create publish-worthy videos on day one`
+- [GliaCloud](https://www.gliacloud.com/en/?ref=awesomeAI) `Generate videos from news content, social posts, live sport events, and statistical data in minutes!`
 
 ## audio tools
 - [play ht](https://play.ht/?ref=awesomeAI) `AI powered text to voice generator`
@@ -64,6 +71,7 @@
 - [assemblyai](https://www.assemblyai.com/?ref=awesomeAI) `Transcribe and understand audio with a single AI-powered API`
 - [songdonkey](https://songdonkey.ai/?ref=awesomeAI) `Extract vocals and instruments with artificial intelligence`
 - [krisp ai](https://krisp.ai/?ref=awesomeAI) `Krisp’s AI removes background voices, noises and echo from all your calls, giving you peace of mind.`
+- [aloud](https://aloud.area120.google.com/?ref=awesomeAI) `Aloud - dubbing for everyone`
 
 ## images tools
 - [letsenhance](https://letsenhance.io/?ref=awesomeAI) `Automatic AI editor to increase image resolution without losing quality`
@@ -75,6 +83,8 @@
 - [ai picasso](https://aipicasso.studio.site/?ref=awesomeAI) `Create Art with Powerful AI`
 - [upscale](https://www.upscale.media/?ref=awesomeAI) `Upscale and Enhance Your Images for FREE`
 - [ai image enlarger](https://imglarger.com/?ref=awesomeAI) `All-in-one AI toolkits help you enhance and upscale images. Increases image resolution without losing quality`
+- [DeOldify](https://github.com/jantic/DeOldify/?ref=awesomeAI) `A Deep Learning based project for colorizing and restoring old images (and video!)`
+- [imagecolorizer](https://imagecolorizer.com/?ref=awesomeAI) `We use AI technology to restore old photos automatically`
 
 ## commerce & marketing tools
 - [syte ai](https://www.syte.ai/?ref=awesomeAI) `The World's #1 Product Discovery Platform for eCommerce`
