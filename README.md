@@ -40,6 +40,7 @@
 - [WriterZen](https://writerzen.net/?ref=awesomeAI) `Proficient SEO Content Workflow Software`
 - [Writecream](https://www.writecream.com/?ref=awesomeAI) `Writecream - Best AI Writer & Content Generator - Writecream`
 - [outranking](https://www.outranking.io/?ref=awesomeAI) `Outranking helps content teams achieve predictable content success with AI assistance.`
+- [lately](https://www.lately.ai/?ref=awesomeAI) `Spend 84% Less Time Writing Content`
 
 ## video tools
 - [veed io](https://www.veed.io/?ref=awesomeAI) `VEED - Edit, Record & Livestream Video - Online`
@@ -61,6 +62,7 @@
 - [synths video](https://synths.video/?ref=awesomeAI) `Convert articles into video in 1-click`
 - [invideo](https://invideo.io/?ref=awesomeAI) `Create publish-worthy videos on day one`
 - [GliaCloud](https://www.gliacloud.com/en/?ref=awesomeAI) `Generate videos from news content, social posts, live sport events, and statistical data in minutes!`
+- [synthesys](https://synthesys.io/ai-video/?ref=awesomeAI) `Transform Your Text to a Realistic Virtual Video`
 
 ## audio tools
 - [play ht](https://play.ht/?ref=awesomeAI) `AI powered text to voice generator`
@@ -94,6 +96,14 @@
 - [ocaya](https://www.ocoya.com/?ref=awesomeAI) `Become a Social Media Genius`
 - [On-Page.ai](https://on-page.ai/?ref=awesomeAI) `On-Page SEO Optimization Tool Helps You Rank - On-Page.ai`
 - [sapling](https://sapling.ai/?ref=awesomeAI) `AI messaging assistant for customer-facing teams. Respond twice as fast.`
+- [heyday](https://heyday.hootsuite.com/?ref=awesomeAI) `Drive more e-commerce sales and deliver five-star customer service at scale with our conversational AI chatbot.`
+- [linkfluence](https://www.linkfluence.com/?ref=awesomeAI) `Enterprise Social Intelligence at Scale`
+- [phrasee](https://phrasee.co/?ref=awesomeAI) `Get more clicks, conversions, and customers with AI-optimized content`
+- [human marketing](https://ai.human.marketing/?ref=awesomeAI) `AI Marketing Software That Gets Predictably Better Results`
+- [acrolinx](https://www.acrolinx.com/?ref=awesomeAI) `The road to happy customers is paved with amazing content`
+- [marketmuse](https://www.marketmuse.com/?ref=awesomeAI) `Most content strategies are built on generic data and opinions.`
+- [liveperson](https://www.liveperson.com/?ref=awesomeAI) `Conversational AI that’s anything but artificial`
+- [albert](https://albert.ai/?ref=awesomeAI) `albert is your self-learning digital marketing ally`
 
 ## design tools
 - [beautiful ai](https://www.beautiful.ai/?ref=awesomeAI) `Presentation software that designs for you.`
@@ -112,6 +122,12 @@
 - [designs ai](https://designs.ai/?ref=awesomeAI) `Create logos, videos, banners, mockups with A.I. in 2 minutes`
 - [durable website builder](https://durable.co/ai-website-builder/?ref=awesomeAI) `Build a website in 30 seconds using artificial intelligence`
 - [makelogo ai](https://makelogoai.com/?ref=awesomeAI) `Uniques logos, for less than a coffee`
+- [nightcafe](https://creator.nightcafe.studio/?ref=awesomeAI) `Create amazing artworks using the power of Artificial Intelligence.`
+- [DALL·E 2 ](https://openai.com/dall-e-2/?ref=awesomeAI) `DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language.` 
+- [deep dream generator](https://deepdreamgenerator.com/?ref=awesomeAI) `HUMAN AI COLLABORATION`
+- [dream ai](https://dream.ai/?ref=awesomeAI) `High Quality Artwork In Seconds`
+- [starryai](https://starryai.com/?ref=awesomeAI) `Create Art with AI`
+- [artbreeder](https://www.artbreeder.com/?ref=awesomeAI) `craft ai art like never before`
 
 ## Coding tools
 - [GitHub copilot](https://github.com/features/copilot/?ref=awesomeAI) `Your AI pair programmer`
@@ -135,3 +151,4 @@
 - [monterey ai](https://www.monterey.ai/?ref=awesomeAI) `Copilot for Product Development`
 - [kalendar ai](https://www.kalendar.ai/?ref=awesomeAI) `Book new revenue on autopilot with AI`
 - [akkio](https://www.akkio.com/?ref=awesomeAI) `Modern Business Runs on AI`
+- [cortex](https://www.meetcortex.com/?ref=awesomeAI) `Enhance Your Creative with Powerful AI`
