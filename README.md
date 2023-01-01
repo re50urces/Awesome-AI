@@ -41,6 +41,7 @@
 - [Writecream](https://www.writecream.com/?ref=awesomeAI) `Writecream - Best AI Writer & Content Generator - Writecream`
 - [outranking](https://www.outranking.io/?ref=awesomeAI) `Outranking helps content teams achieve predictable content success with AI assistance.`
 - [lately](https://www.lately.ai/?ref=awesomeAI) `Spend 84% Less Time Writing Content`
+- [wordai](https://wordai.com/?ref=awesomeAI) `10x Your Content Output With AI.`
 
 ## video tools
 - [veed io](https://www.veed.io/?ref=awesomeAI) `VEED - Edit, Record & Livestream Video - Online`
@@ -63,6 +64,7 @@
 - [invideo](https://invideo.io/?ref=awesomeAI) `Create publish-worthy videos on day one`
 - [GliaCloud](https://www.gliacloud.com/en/?ref=awesomeAI) `Generate videos from news content, social posts, live sport events, and statistical data in minutes!`
 - [synthesys](https://synthesys.io/ai-video/?ref=awesomeAI) `Transform Your Text to a Realistic Virtual Video`
+- [beey](https://www.beey.io/en/?ref=awesomeAI) `Beey.io – Beey automatically converts your audio and video files to text.`
 
 ## audio tools
 - [play ht](https://play.ht/?ref=awesomeAI) `AI powered text to voice generator`
@@ -74,6 +76,14 @@
 - [songdonkey](https://songdonkey.ai/?ref=awesomeAI) `Extract vocals and instruments with artificial intelligence`
 - [krisp ai](https://krisp.ai/?ref=awesomeAI) `Krisp’s AI removes background voices, noises and echo from all your calls, giving you peace of mind.`
 - [aloud](https://aloud.area120.google.com/?ref=awesomeAI) `Aloud - dubbing for everyone`
+- [listnr](https://www.listnr.tech/?ref=awesomeAI) `Generate realistic Text to Speech (TTS) audio using our AI Voice Generator with the best synthetic voices.` 
+- [lovo](https://www.lovo.ai/) `LOVO AI | Free Text to Speech Online with Natural Voices`
+- [speechelo](https://speechelo.com/) `Instantly Generate Voice from Text 100% Human-Sounding voiceover with only 3 clicks!`
+- [bigspeak](https://bigspeak.ai/) `Generate English speech from text`
+- [speechify](https://speechify.com/) `Power through docs, articles, PDFs, email — anything you read — by listening with our leading text-to-speech reader.`
+- [sonix ai](https://sonix.ai/) `Automatically convert audio and video to text: Fast, Accurate, & Affordable | Sonix`
+- [speak ai](https://speakai.co/) `Get transcription, research, data analysis and NLP software from Speak Ai`
+- [rev com](https://www.rev.com/) `Transcribe Speech to Text`
 
 ## images tools
 - [letsenhance](https://letsenhance.io/?ref=awesomeAI) `Automatic AI editor to increase image resolution without losing quality`
