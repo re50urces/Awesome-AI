@@ -77,13 +77,18 @@
 - [krisp ai](https://krisp.ai/?ref=awesomeAI) `Krisp’s AI removes background voices, noises and echo from all your calls, giving you peace of mind.`
 - [aloud](https://aloud.area120.google.com/?ref=awesomeAI) `Aloud - dubbing for everyone`
 - [listnr](https://www.listnr.tech/?ref=awesomeAI) `Generate realistic Text to Speech (TTS) audio using our AI Voice Generator with the best synthetic voices.` 
-- [lovo](https://www.lovo.ai/) `LOVO AI | Free Text to Speech Online with Natural Voices`
-- [speechelo](https://speechelo.com/) `Instantly Generate Voice from Text 100% Human-Sounding voiceover with only 3 clicks!`
-- [bigspeak](https://bigspeak.ai/) `Generate English speech from text`
-- [speechify](https://speechify.com/) `Power through docs, articles, PDFs, email — anything you read — by listening with our leading text-to-speech reader.`
-- [sonix ai](https://sonix.ai/) `Automatically convert audio and video to text: Fast, Accurate, & Affordable | Sonix`
-- [speak ai](https://speakai.co/) `Get transcription, research, data analysis and NLP software from Speak Ai`
-- [rev com](https://www.rev.com/) `Transcribe Speech to Text`
+- [lovo](https://www.lovo.ai/?ref=awesomeAI) `LOVO AI | Free Text to Speech Online with Natural Voices`
+- [speechelo](https://speechelo.com/?ref=awesomeAI) `Instantly Generate Voice from Text 100% Human-Sounding voiceover with only 3 clicks!`
+- [bigspeak](https://bigspeak.ai/?ref=awesomeAI) `Generate English speech from text`
+- [speechify](https://speechify.com/?ref=awesomeAI) `Power through docs, articles, PDFs, email — anything you read — by listening with our leading text-to-speech reader.`
+- [sonix ai](https://sonix.ai/?ref=awesomeAI) `Automatically convert audio and video to text: Fast, Accurate, & Affordable | Sonix`
+- [speak ai](https://speakai.co/?ref=awesomeAI) `Get transcription, research, data analysis and NLP software from Speak Ai`
+- [rev com](https://www.rev.com/?ref=awesomeAI) `Transcribe Speech to Text`
+- [scribie](https://scribie.com/?ref=awesomeAI) `Audio/Video Transcription | 99% Accuracy, 12-HR Turnaround`
+- [verbit](https://verbit.ai/?ref=awesomeAI) `Captioning & Transcription That’s Built for Business`
+- [fireflies](https://fireflies.ai/?ref=awesomeAI) `Automatically record and transcribe meetings`
+- [otter](https://otter.ai/?ref=awesomeAI) `Capture and share insights from your meetings`
+- [voicera](https://www.voicera.co/?ref=awesomeAI) `Give voice to your articles and blogs.`
 
 ## images tools
 - [letsenhance](https://letsenhance.io/?ref=awesomeAI) `Automatic AI editor to increase image resolution without losing quality`
