@@ -144,6 +144,7 @@
 - [dream ai](https://dream.ai/?ref=awesomeAI) `High Quality Artwork In Seconds`
 - [starryai](https://starryai.com/?ref=awesomeAI) `Create Art with AI`
 - [artbreeder](https://www.artbreeder.com/?ref=awesomeAI) `craft ai art like never before`
+- [looka](https://looka.com/) `Use Looka's AI-powered platform to design a logo and build a brand you love.`
 
 ## Coding tools
 - [GitHub copilot](https://github.com/features/copilot/?ref=awesomeAI) `Your AI pair programmer`
