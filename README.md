@@ -89,6 +89,7 @@
 - [fireflies](https://fireflies.ai/?ref=awesomeAI) `Automatically record and transcribe meetings`
 - [otter](https://otter.ai/?ref=awesomeAI) `Capture and share insights from your meetings`
 - [voicera](https://www.voicera.co/?ref=awesomeAI) `Give voice to your articles and blogs.`
+- [revoicer](https://revoicer.com/?ref=awesomeAI) `The most realistic AI Text To Speech online`
 
 ## images tools
 - [letsenhance](https://letsenhance.io/?ref=awesomeAI) `Automatic AI editor to increase image resolution without losing quality`
