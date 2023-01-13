@@ -102,6 +102,7 @@
 - [ai image enlarger](https://imglarger.com/?ref=awesomeAI) `All-in-one AI toolkits help you enhance and upscale images. Increases image resolution without losing quality`
 - [DeOldify](https://github.com/jantic/DeOldify/?ref=awesomeAI) `A Deep Learning based project for colorizing and restoring old images (and video!)`
 - [imagecolorizer](https://imagecolorizer.com/?ref=awesomeAI) `We use AI technology to restore old photos automatically`
+- [evoto](https://www.evoto.ai/?ref=awesomeAI) `EVOTO, AI-powered Image Editor`
 
 ## commerce & marketing tools
 - [syte ai](https://www.syte.ai/?ref=awesomeAI) `The World's #1 Product Discovery Platform for eCommerce`
