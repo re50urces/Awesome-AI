@@ -42,6 +42,7 @@
 - [outranking](https://www.outranking.io/?ref=awesomeAI) `Outranking helps content teams achieve predictable content success with AI assistance.`
 - [lately](https://www.lately.ai/?ref=awesomeAI) `Spend 84% Less Time Writing Content`
 - [wordai](https://wordai.com/?ref=awesomeAI) `10x Your Content Output With AI.`
+- [craftly](https://www.craftly.ai/?ref=awesomeAI) `Changing the way the world writes.`
 
 ## video tools
 - [veed io](https://www.veed.io/?ref=awesomeAI) `VEED - Edit, Record & Livestream Video - Online`
@@ -106,6 +107,7 @@
 - [evoto](https://www.evoto.ai/?ref=awesomeAI) `EVOTO, AI-powered Image Editor`
 - [imagineme](https://imagineme.app/ref/3/?ref=awesomeAI) `Personal AI Art Generator`
 
+
 ## commerce & marketing tools
 - [syte ai](https://www.syte.ai/?ref=awesomeAI) `The World's #1 Product Discovery Platform for eCommerce`
 - [nureply](https://nureply.com/?ref=awesomeAI) `Get 2.4x More Replies and Revenue with Cold Emails Powered by Advanced AI`
@@ -146,7 +148,13 @@
 - [dream ai](https://dream.ai/?ref=awesomeAI) `High Quality Artwork In Seconds`
 - [starryai](https://starryai.com/?ref=awesomeAI) `Create Art with AI`
 - [artbreeder](https://www.artbreeder.com/?ref=awesomeAI) `craft ai art like never before`
-- [looka](https://looka.com/) `Use Looka's AI-powered platform to design a logo and build a brand you love.`
+- [looka](https://looka.com/?ref=awesomeAI) `Use Looka's AI-powered platform to design a logo and build a brand you love.`
+- [logoAI](https://www.logoai.com/?ref=awesomeAI) `Let AI-powered logo maker generate your new logo, create matching stationery, and design a brand you love!`
+- [logomaster AI](https://logomaster.ai/?ref=awesomeAI) `Powered by AI,logomaster.ai helps business owners create beautiful logos.`
+- [durable](https://durable.co/?ref=awesomeAI) `The AI website builder that generates an entire business website with images and copy in seconds.`
+- [midjourney](https://midjourney.com/?ref=awesomeAI)
+- [magicstudio](https://magicstudio.com/?ref=awesomeAI) `Powered by AI, Created by You`
+- [pfpmaker](https://pfpmaker.com/?ref=awesomeAI) `Make your new profile picture with AI`
 
 ## Coding tools
 - [GitHub copilot](https://github.com/features/copilot/?ref=awesomeAI) `Your AI pair programmer`
@@ -171,3 +179,6 @@
 - [kalendar ai](https://www.kalendar.ai/?ref=awesomeAI) `Book new revenue on autopilot with AI`
 - [akkio](https://www.akkio.com/?ref=awesomeAI) `Modern Business Runs on AI`
 - [cortex](https://www.meetcortex.com/?ref=awesomeAI) `Enhance Your Creative with Powerful AI`
+- [validatorAI](https://www.validatorai.com/?ref=awesomeAI) `Validate and receive constructive feedback on any startup idea, powered by AI!`
+- [naming magic](https://www.namingmagic.com/?ref=awesomeAI) `Use AI to name your company and find a domain.`
+- [poised](https://www.poised.com/?ref=awesomeAI) `Poised is the AI-powered communication coach that helps you speak with confidence and clarity.`
