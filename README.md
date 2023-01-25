@@ -157,6 +157,11 @@
 - [magicstudio](https://magicstudio.com/?ref=awesomeAI) `Powered by AI, Created by You`
 - [pfpmaker](https://pfpmaker.com/?ref=awesomeAI) `Make your new profile picture with AI`
 - [uizard](https://uizard.io/?ref=awesomeAI) `Uizard | App, Web, & UI Design Made Easy | Powered By AI`
+- [ando](https://ando.studio/?ref=awesomeAI) `Your AI design copilot.`
+- [pixelz](https://pixelz.ai/?ref=awesomeAI) `PIXELZ AI AVATAR & IMAGE GENERATOR`
+- [makelogoai](https://makelogo.ai/?ref=awesomeAI) `Make Unique logos with AI.`
+- [flair](https://withflair.ai/?ref=awesomeAI) `the AI Design Tool for Branded Content.`
+- [magician](https://magician.design/?ref=awesomeAI) `A magical design tool for Figma powered by AI.`
 
 ## Coding tools
 - [GitHub copilot](https://github.com/features/copilot/?ref=awesomeAI) `Your AI pair programmer`
