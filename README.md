@@ -43,6 +43,7 @@
 - [lately](https://www.lately.ai/?ref=awesomeAI) `Spend 84% Less Time Writing Content`
 - [wordai](https://wordai.com/?ref=awesomeAI) `10x Your Content Output With AI.`
 - [craftly](https://www.craftly.ai/?ref=awesomeAI) `Changing the way the world writes.`
+- [SEO AI](https://seo.ai/?ref=awesomeAI) `The #1 AI Writer For SEO`
 
 ## video tools
 - [veed io](https://www.veed.io/?ref=awesomeAI) `VEED - Edit, Record & Livestream Video - Online`
@@ -155,6 +156,7 @@
 - [midjourney](https://midjourney.com/?ref=awesomeAI)
 - [magicstudio](https://magicstudio.com/?ref=awesomeAI) `Powered by AI, Created by You`
 - [pfpmaker](https://pfpmaker.com/?ref=awesomeAI) `Make your new profile picture with AI`
+- [uizard](https://uizard.io/?ref=awesomeAI) `Uizard | App, Web, & UI Design Made Easy | Powered By AI`
 
 ## Coding tools
 - [GitHub copilot](https://github.com/features/copilot/?ref=awesomeAI) `Your AI pair programmer`
