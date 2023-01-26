@@ -44,6 +44,8 @@
 - [wordai](https://wordai.com/?ref=awesomeAI) `10x Your Content Output With AI.`
 - [craftly](https://www.craftly.ai/?ref=awesomeAI) `Changing the way the world writes.`
 - [SEO AI](https://seo.ai/?ref=awesomeAI) `The #1 AI Writer For SEO`
+- [content at scale](https://contentatscale.ai/) `AI Content Generator for Quality SEO Long Form Blog Posts`
+- [jenni](https://jenni.ai/) `Supercharge your writing with jenni AI`
 
 ## video tools
 - [veed io](https://www.veed.io/?ref=awesomeAI) `VEED - Edit, Record & Livestream Video - Online`
@@ -189,3 +191,5 @@
 - [validatorAI](https://www.validatorai.com/?ref=awesomeAI) `Validate and receive constructive feedback on any startup idea, powered by AI!`
 - [naming magic](https://www.namingmagic.com/?ref=awesomeAI) `Use AI to name your company and find a domain.`
 - [poised](https://www.poised.com/?ref=awesomeAI) `Poised is the AI-powered communication coach that helps you speak with confidence and clarity.`
+- [mem](https://get.mem.ai/) `Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.`
+- [tome](https://beta.tome.app/) `Unlock your best work with Tome's AI-powered storytelling format.`
