@@ -46,6 +46,7 @@
 - [SEO AI](https://seo.ai/?ref=awesomeAI) `The #1 AI Writer For SEO`
 - [content at scale](https://contentatscale.ai/) `AI Content Generator for Quality SEO Long Form Blog Posts`
 - [jenni](https://jenni.ai/) `Supercharge your writing with jenni AI`
+- [Taskade](https://taskade.com/) `AI outlining and mind mapping tool for teams with real-time editing and chat.`
 
 ## video tools
 - [veed io](https://www.veed.io/?ref=awesomeAI) `VEED - Edit, Record & Livestream Video - Online`
