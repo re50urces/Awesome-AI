@@ -170,6 +170,7 @@
 - [GitHub copilot](https://github.com/features/copilot/?ref=awesomeAI) `Your AI pair programmer`
 - [tabnine](https://www.tabnine.com/?ref=awesomeAI) `AI assistant for software developers`
 - [deepOpinion](https://go.deepopinion.ai/?ref=awesomeAI) `No-code AI for automation professionals`
+- [Flatlogic](https://flatlogic.com/blog/chatgpt-flatlogic-generate-fully-functioning-web-apps-based-on-description) `generate fully-functioning web apps in minutes with OpenAI, simply by describing the app in English! `
 
 ## miscellaneous
 - [interview-warmup by google](https://grow.google/certificates/interview-warmup/?ref=awesomeAI)
