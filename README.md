@@ -165,6 +165,7 @@
 - [makelogoai](https://makelogo.ai/?ref=awesomeAI) `Make Unique logos with AI.`
 - [flair](https://withflair.ai/?ref=awesomeAI) `the AI Design Tool for Branded Content.`
 - [magician](https://magician.design/?ref=awesomeAI) `A magical design tool for Figma powered by AI.`
+- [Galileo AI](https://www.usegalileo.ai/) `Galileo AI creates delightful, editable UI designs from a simple text description. It empowers you to design faster than ever.`
 
 ## Coding tools
 - [GitHub copilot](https://github.com/features/copilot/?ref=awesomeAI) `Your AI pair programmer`
@@ -195,3 +196,4 @@
 - [poised](https://www.poised.com/?ref=awesomeAI) `Poised is the AI-powered communication coach that helps you speak with confidence and clarity.`
 - [mem](https://get.mem.ai/) `Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.`
 - [tome](https://beta.tome.app/) `Unlock your best work with Tome's AI-powered storytelling format.`
+- [custom GPT](https://customgpt.ai/) `Build Your Own ChatBOT With Your Data`
