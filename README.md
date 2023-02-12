@@ -110,6 +110,7 @@
 - [imagecolorizer](https://imagecolorizer.com/?ref=awesomeAI) `We use AI technology to restore old photos automatically`
 - [evoto](https://www.evoto.ai/?ref=awesomeAI) `EVOTO, AI-powered Image Editor`
 - [imagineme](https://imagineme.app/ref/3/?ref=awesomeAI) `Personal AI Art Generator`
+- [restorephotos.io](https://www.restorephotos.io/) `Restoring old photos using AI for everyone.`
 
 
 ## commerce & marketing tools
