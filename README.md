@@ -167,6 +167,7 @@
 - [flair](https://withflair.ai/?ref=awesomeAI) `the AI Design Tool for Branded Content.`
 - [magician](https://magician.design/?ref=awesomeAI) `A magical design tool for Figma powered by AI.`
 - [Galileo AI](https://www.usegalileo.ai/) `Galileo AI creates delightful, editable UI designs from a simple text description. It empowers you to design faster than ever.`
+- [stockimg](https://stockimg.ai/) `AI image generation for teams - You can easily generate AI logo, AI book covers, AI posters and more - Stockimg AI`
 
 ## Coding tools
 - [GitHub copilot](https://github.com/features/copilot/?ref=awesomeAI) `Your AI pair programmer`
