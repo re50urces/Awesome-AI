@@ -44,9 +44,9 @@
 - [wordai](https://wordai.com/?ref=awesomeAI) `10x Your Content Output With AI.`
 - [craftly](https://www.craftly.ai/?ref=awesomeAI) `Changing the way the world writes.`
 - [SEO AI](https://seo.ai/?ref=awesomeAI) `The #1 AI Writer For SEO`
-- [content at scale](https://contentatscale.ai/) `AI Content Generator for Quality SEO Long Form Blog Posts`
-- [jenni](https://jenni.ai/) `Supercharge your writing with jenni AI`
-- [Taskade](https://taskade.com/) `AI outlining and mind mapping tool for teams with real-time editing and chat.`
+- [content at scale](https://contentatscale.ai/?ref=awesomeAI) `AI Content Generator for Quality SEO Long Form Blog Posts`
+- [jenni](https://jenni.ai/?ref=awesomeAI) `Supercharge your writing with jenni AI`
+- [Taskade](https://taskade.com/?ref=awesomeAI) `AI outlining and mind mapping tool for teams with real-time editing and chat.`
 
 ## video tools
 - [veed io](https://www.veed.io/?ref=awesomeAI) `VEED - Edit, Record & Livestream Video - Online`
@@ -70,6 +70,8 @@
 - [GliaCloud](https://www.gliacloud.com/en/?ref=awesomeAI) `Generate videos from news content, social posts, live sport events, and statistical data in minutes!`
 - [synthesys](https://synthesys.io/ai-video/?ref=awesomeAI) `Transform Your Text to a Realistic Virtual Video`
 - [beey](https://www.beey.io/en/?ref=awesomeAI) `Beey.io – Beey automatically converts your audio and video files to text.`
+- [papercup](https://www.papercup.com/?ref=awesomeAI) `AI Powered Dubbing`
+- [clipdrop](https://clipdrop.co/?ref=awesomeAI) `Create stunning visuals in seconds`
 
 ## audio tools
 - [play ht](https://play.ht/?ref=awesomeAI) `AI powered text to voice generator`
@@ -95,6 +97,7 @@
 - [otter](https://otter.ai/?ref=awesomeAI) `Capture and share insights from your meetings`
 - [voicera](https://www.voicera.co/?ref=awesomeAI) `Give voice to your articles and blogs.`
 - [revoicer](https://revoicer.com/?ref=awesomeAI) `The most realistic AI Text To Speech online`
+- [elevenlabs](https://beta.elevenlabs.io/?ref=awesomeAI) `The most realistic and versatile AI speech software, ever. Eleven brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling.`
 
 ## images tools
 - [letsenhance](https://letsenhance.io/?ref=awesomeAI) `Automatic AI editor to increase image resolution without losing quality`
@@ -110,7 +113,8 @@
 - [imagecolorizer](https://imagecolorizer.com/?ref=awesomeAI) `We use AI technology to restore old photos automatically`
 - [evoto](https://www.evoto.ai/?ref=awesomeAI) `EVOTO, AI-powered Image Editor`
 - [imagineme](https://imagineme.app/ref/3/?ref=awesomeAI) `Personal AI Art Generator`
-- [restorephotos.io](https://www.restorephotos.io/) `Restoring old photos using AI for everyone.`
+- [restorephotos.io](https://www.restorephotos.io/?ref=awesomeAI) `Restoring old photos using AI for everyone.`
+- [booth ai](https://www.booth.ai/?ref=awesomeAI) `Create pro quality product photography with AI`
 
 
 ## commerce & marketing tools
@@ -129,6 +133,7 @@
 - [marketmuse](https://www.marketmuse.com/?ref=awesomeAI) `Most content strategies are built on generic data and opinions.`
 - [liveperson](https://www.liveperson.com/?ref=awesomeAI) `Conversational AI that’s anything but artificial`
 - [albert](https://albert.ai/?ref=awesomeAI) `albert is your self-learning digital marketing ally`
+- [clickable](https://www.clickable.so/?ref=awesomeAI) `Generate ads in seconds with AI`
 
 ## design tools
 - [beautiful ai](https://www.beautiful.ai/?ref=awesomeAI) `Presentation software that designs for you.`
@@ -166,8 +171,8 @@
 - [makelogoai](https://makelogo.ai/?ref=awesomeAI) `Make Unique logos with AI.`
 - [flair](https://withflair.ai/?ref=awesomeAI) `the AI Design Tool for Branded Content.`
 - [magician](https://magician.design/?ref=awesomeAI) `A magical design tool for Figma powered by AI.`
-- [Galileo AI](https://www.usegalileo.ai/) `Galileo AI creates delightful, editable UI designs from a simple text description. It empowers you to design faster than ever.`
-- [stockimg](https://stockimg.ai/) `AI image generation for teams - You can easily generate AI logo, AI book covers, AI posters and more - Stockimg AI`
+- [Galileo AI](https://www.usegalileo.ai/?ref=awesomeAI) `Galileo AI creates delightful, editable UI designs from a simple text description. It empowers you to design faster than ever.`
+- [stockimg](https://stockimg.ai/?ref=awesomeAI) `AI image generation for teams - You can easily generate AI logo, AI book covers, AI posters and more - Stockimg AI`
 
 ## Coding tools
 - [GitHub copilot](https://github.com/features/copilot/?ref=awesomeAI) `Your AI pair programmer`
@@ -196,6 +201,7 @@
 - [validatorAI](https://www.validatorai.com/?ref=awesomeAI) `Validate and receive constructive feedback on any startup idea, powered by AI!`
 - [naming magic](https://www.namingmagic.com/?ref=awesomeAI) `Use AI to name your company and find a domain.`
 - [poised](https://www.poised.com/?ref=awesomeAI) `Poised is the AI-powered communication coach that helps you speak with confidence and clarity.`
-- [mem](https://get.mem.ai/) `Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.`
-- [tome](https://beta.tome.app/) `Unlock your best work with Tome's AI-powered storytelling format.`
-- [custom GPT](https://customgpt.ai/) `Build Your Own ChatBOT With Your Data`
+- [mem](https://get.mem.ai/?ref=awesomeAI) `Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.`
+- [tome](https://beta.tome.app/?ref=awesomeAI) `Unlock your best work with Tome's AI-powered storytelling format.`
+- [custom GPT](https://customgpt.ai/?ref=awesomeAI) `Build Your Own ChatBOT With Your Data`
+- [rationale](https://rationale.jina.ai/?ref=awesomeAI) `a revolutionary AI to assist business owners, managers, and individuals in making tough decisions.`
