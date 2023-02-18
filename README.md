@@ -47,6 +47,8 @@
 - [content at scale](https://contentatscale.ai/?ref=awesomeAI) `AI Content Generator for Quality SEO Long Form Blog Posts`
 - [jenni](https://jenni.ai/?ref=awesomeAI) `Supercharge your writing with jenni AI`
 - [Taskade](https://taskade.com/?ref=awesomeAI) `AI outlining and mind mapping tool for teams with real-time editing and chat.`
+- [wordkraft](https://wordkraft.ai/) `Create High-Quality Content Instantly With AI`
+- [merlin](https://merlin.foyer.work/) `Open AI’s GPT powered extension to use anywhere!`
 
 ## video tools
 - [veed io](https://www.veed.io/?ref=awesomeAI) `VEED - Edit, Record & Livestream Video - Online`
