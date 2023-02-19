@@ -49,6 +49,7 @@
 - [Taskade](https://taskade.com/?ref=awesomeAI) `AI outlining and mind mapping tool for teams with real-time editing and chat.`
 - [wordkraft](https://wordkraft.ai/) `Create High-Quality Content Instantly With AI`
 - [merlin](https://merlin.foyer.work/) `Open AI’s GPT powered extension to use anywhere!`
+- [kickresume](https://www.kickresume.com/en/) `Let artificial intelligence write your resume.`
 
 ## video tools
 - [veed io](https://www.veed.io/?ref=awesomeAI) `VEED - Edit, Record & Livestream Video - Online`
