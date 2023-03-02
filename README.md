@@ -208,3 +208,4 @@
 - [tome](https://beta.tome.app/?ref=awesomeAI) `Unlock your best work with Tome's AI-powered storytelling format.`
 - [custom GPT](https://customgpt.ai/?ref=awesomeAI) `Build Your Own ChatBOT With Your Data`
 - [rationale](https://rationale.jina.ai/?ref=awesomeAI) `a revolutionary AI to assist business owners, managers, and individuals in making tough decisions.`
+- [roomGPT.io](https://www.roomgpt.io/) `Generating dream rooms using AI for everyone.`
