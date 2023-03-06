@@ -209,3 +209,5 @@
 - [custom GPT](https://customgpt.ai/?ref=awesomeAI) `Build Your Own ChatBOT With Your Data`
 - [rationale](https://rationale.jina.ai/?ref=awesomeAI) `a revolutionary AI to assist business owners, managers, and individuals in making tough decisions.`
 - [roomGPT.io](https://www.roomgpt.io/) `Generating dream rooms using AI for everyone.`
+- [addcontext](https://addcontext.xyz/) `Context is your AI-powered assistant for learning from your favorite websites, e-books, podcasts, videos, and more.`
+- [context](https://usecontext.io/) `A brain for your business.`
