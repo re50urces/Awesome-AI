@@ -119,6 +119,8 @@
 - [restorephotos.io](https://www.restorephotos.io/?ref=awe50meAI) `Restoring old photos using AI for everyone.`
 - [booth ai](https://www.booth.ai/?ref=awe50meAI) `Create pro quality product photography with AI`
 - [phosus](https://phosus.com/?ref=awe50meAI) `AI-Powered Image Enhancement Tools and API Provider | Phosus`
+- [Vance.AI](https://vance.ai/) `Upscale Image with AI`
+
 
 
 ## commerce & marketing tools
@@ -178,12 +180,14 @@
 - [Galileo AI](https://www.usegalileo.ai/?ref=awe50meAI) `Galileo AI creates delightful, editable UI designs from a simple text description. It empowers you to design faster than ever.`
 - [stockimg](https://stockimg.ai/?ref=awe50meAI) `AI image generation for teams - You can easily generate AI logo, AI book covers, AI posters and more - Stockimg AI`
 - [pixlr](https://pixlr.com/?ref=awe50meAI) `AI powered photo editor, animation and design.`
+- [brandmark](https://brandmark.io/) `Brandmark Logo Maker - the most advanced AI logo design tool`
 
 ## Coding tools
 - [GitHub copilot](https://github.com/features/copilot/?ref=awe50meAI) `Your AI pair programmer`
 - [tabnine](https://www.tabnine.com/?ref=awe50meAI) `AI assistant for software developers`
 - [deepOpinion](https://go.deepopinion.ai/?ref=awe50meAI) `No-code AI for automation professionals`
-- [Flatlogic](https://flatlogic.com/blog/chatgpt-flatlogic-generate-fully-functioning-web-apps-based-on-description) `generate fully-functioning web apps in minutes with OpenAI, simply by describing the app in English! `
+- [Flatlogic](https://flatlogic.com/blog/chatgpt-flatlogic-generate-fully-functioning-web-apps-based-on-description) `generate fully-functioning web apps in minutes with OpenAI, simply by describing the app in English!`
+- [Fronty](https://fronty.com/) `convert image to HTML CSS`
 
 ## miscellaneous
 - [interview-warmup by google](https://grow.google/certificates/interview-warmup/?ref=awe50meAI)
@@ -213,3 +217,9 @@
 - [roomGPT.io](https://www.roomgpt.io/?ref=awe50meAI) `Generating dream rooms using AI for everyone.`
 - [addcontext](https://addcontext.xyz/?ref=awe50meAI) `Context is your AI-powered assistant for learning from your favorite websites, e-books, podcasts, videos, and more.`
 - [context](https://usecontext.io/?ref=awe50meAI) `A brain for your business.`
+
+## color tools
+- [colormind](http://colormind.io/) `Colormind - the AI powered color palette generator`
+- [Huemint](https://huemint.com/) `AI color palette generator`
+- [khroma](https://www.khroma.co/) `Khroma - The AI color tool for designers`
+
