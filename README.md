@@ -1,5 +1,5 @@
 # Awesome AI
-> curated list artificial intelligence tools around the web
+> A curated list of awesome things related to artificial intelligence (AI).
 
 
 ## writing tools
@@ -47,9 +47,11 @@
 - [content at scale](https://contentatscale.ai/?ref=awe50meAI) `AI Content Generator for Quality SEO Long Form Blog Posts`
 - [jenni](https://jenni.ai/?ref=awe50meAI) `Supercharge your writing with jenni AI`
 - [Taskade](https://taskade.com/?ref=awe50meAI) `AI outlining and mind mapping tool for teams with real-time editing and chat.`
-- [wordkraft](https://wordkraft.ai/) `Create High-Quality Content Instantly With AI`
-- [merlin](https://merlin.foyer.work/) `Open AI’s GPT powered extension to use anywhere!`
-- [kickresume](https://www.kickresume.com/en/) `Let artificial intelligence write your resume.`
+- [wordkraft](https://wordkraft.ai/?ref=awe50meAI) `Create High-Quality Content Instantly With AI`
+- [merlin](https://merlin.foyer.work/?ref=awe50meAI) `Open AI’s GPT powered extension to use anywhere!`
+- [kickresume](https://www.kickresume.com/en/?ref=awe50meAI) `Let artificial intelligence write your resume.`
+- [AISEO](https://aiseo.ai/?ref=awe50meAI) `AISEO - AI writing assistant, Copywriting & Paraphrasing Tool`
+- [yaara.ai](https://yaara.ai/?ref=awe50meAI) `The Future Of Writing is Finally Here`
 
 ## video tools
 - [veed io](https://www.veed.io/?ref=awe50meAI) `VEED - Edit, Record & Livestream Video - Online`
@@ -75,6 +77,8 @@
 - [beey](https://www.beey.io/en/?ref=awe50meAI) `Beey.io – Beey automatically converts your audio and video files to text.`
 - [papercup](https://www.papercup.com/?ref=awe50meAI) `AI Powered Dubbing`
 - [clipdrop](https://clipdrop.co/?ref=awe50meAI) `Create stunning visuals in seconds`
+- [Friday](https://www.heyfriday.ai/home) `Less Writing, More Inspiration.`
+- [Movio](https://www.movio.la/?ref=awe50meAI) `Create Engaging Videos 10x Faster with AI`
 
 ## audio tools
 - [play ht](https://play.ht/?ref=awe50meAI) `AI powered text to voice generator`
@@ -119,9 +123,7 @@
 - [restorephotos.io](https://www.restorephotos.io/?ref=awe50meAI) `Restoring old photos using AI for everyone.`
 - [booth ai](https://www.booth.ai/?ref=awe50meAI) `Create pro quality product photography with AI`
 - [phosus](https://phosus.com/?ref=awe50meAI) `AI-Powered Image Enhancement Tools and API Provider | Phosus`
-- [Vance.AI](https://vance.ai/) `Upscale Image with AI`
-
-
+- [Vance.AI](https://vance.ai/?ref=awe50meAI) `Upscale Image with AI`
 
 ## commerce & marketing tools
 - [syte ai](https://www.syte.ai/?ref=awe50meAI) `The World's #1 Product Discovery Platform for eCommerce`
@@ -140,6 +142,7 @@
 - [liveperson](https://www.liveperson.com/?ref=awe50meAI) `Conversational AI that’s anything but artificial`
 - [albert](https://albert.ai/?ref=awe50meAI) `albert is your self-learning digital marketing ally`
 - [clickable](https://www.clickable.so/?ref=awe50meAI) `Generate ads in seconds with AI`
+- [Robin](https://www.hellorobin.ai/?ref=awe50meAI) `The Future of Sales Automation.`
 
 ## design tools
 - [beautiful ai](https://www.beautiful.ai/?ref=awe50meAI) `Presentation software that designs for you.`
@@ -180,14 +183,26 @@
 - [Galileo AI](https://www.usegalileo.ai/?ref=awe50meAI) `Galileo AI creates delightful, editable UI designs from a simple text description. It empowers you to design faster than ever.`
 - [stockimg](https://stockimg.ai/?ref=awe50meAI) `AI image generation for teams - You can easily generate AI logo, AI book covers, AI posters and more - Stockimg AI`
 - [pixlr](https://pixlr.com/?ref=awe50meAI) `AI powered photo editor, animation and design.`
-- [brandmark](https://brandmark.io/) `Brandmark Logo Maker - the most advanced AI logo design tool`
+- [brandmark](https://brandmark.io/?ref=awe50meAI) `Brandmark Logo Maker - the most advanced AI logo design tool`
+- [illustroke](https://illustroke.com/?ref=awe50meAI) `Stunning vector illustrations from text prompts`
+- [slides AI](https://www.slidesai.io/?ref=awe50meAI) `Create Presentations Slides with AI in seconds`
+- [Cleanup.pictures](https://cleanup.pictures/?ref=awe50meAI) `Remove any unwanted object, defect, people or text from your pictures in seconds`
+- [SnapEdit](https://snapedit.app/?ref=awe50meAI) `Remove Object from photo`
+- [UI-AI](https://ui-ai.com/) `User Interface Artificial Intelligence`
+- [Whimsical AI for Mind Maps](https://whimsical.com/ai-mind-maps/?ref=awe50meAI) `Fresh ideas at your fingertips`
 
 ## Coding tools
 - [GitHub copilot](https://github.com/features/copilot/?ref=awe50meAI) `Your AI pair programmer`
 - [tabnine](https://www.tabnine.com/?ref=awe50meAI) `AI assistant for software developers`
 - [deepOpinion](https://go.deepopinion.ai/?ref=awe50meAI) `No-code AI for automation professionals`
 - [Flatlogic](https://flatlogic.com/blog/chatgpt-flatlogic-generate-fully-functioning-web-apps-based-on-description) `generate fully-functioning web apps in minutes with OpenAI, simply by describing the app in English!`
-- [Fronty](https://fronty.com/) `convert image to HTML CSS`
+- [Fronty](https://fronty.com/?ref=awe50meAI) `convert image to HTML CSS`
+- [SourceAI](https://sourceai.dev/?ref=awe50meAI) `Ai-Powered Code Generator`
+
+## color tools
+- [colormind](http://colormind.io/?ref=awe50meAI) `Colormind - the AI powered color palette generator`
+- [Huemint](https://huemint.com/?ref=awe50meAI) `AI color palette generator`
+- [khroma](https://www.khroma.co/?ref=awe50meAI) `Khroma - The AI color tool for designers`
 
 ## miscellaneous
 - [interview-warmup by google](https://grow.google/certificates/interview-warmup/?ref=awe50meAI)
@@ -217,9 +232,5 @@
 - [roomGPT.io](https://www.roomgpt.io/?ref=awe50meAI) `Generating dream rooms using AI for everyone.`
 - [addcontext](https://addcontext.xyz/?ref=awe50meAI) `Context is your AI-powered assistant for learning from your favorite websites, e-books, podcasts, videos, and more.`
 - [context](https://usecontext.io/?ref=awe50meAI) `A brain for your business.`
-
-## color tools
-- [colormind](http://colormind.io/) `Colormind - the AI powered color palette generator`
-- [Huemint](https://huemint.com/) `AI color palette generator`
-- [khroma](https://www.khroma.co/) `Khroma - The AI color tool for designers`
-
+- [tl;dv](https://tldv.io/?ref=awe50meAI) `AI-Powered Meeting Recorder for Zoom and Google Meet - tl;dv`
+- [ttree](https://ttree.ai/?ref=awe50meAI) `A fulfilling job is one step closer to a more inspiring and purposeful life. At ttree, we build AI-powered technology to match talent with the best opportunities out there.`
