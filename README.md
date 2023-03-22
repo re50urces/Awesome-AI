@@ -52,6 +52,9 @@
 - [kickresume](https://www.kickresume.com/en/?ref=awe50meAI) `Let artificial intelligence write your resume.`
 - [AISEO](https://aiseo.ai/?ref=awe50meAI) `AISEO - AI writing assistant, Copywriting & Paraphrasing Tool`
 - [yaara.ai](https://yaara.ai/?ref=awe50meAI) `The Future Of Writing is Finally Here`
+- [ChatGPT Writer](https://chatgptwriter.ai/?ref=Awe50meAI) `Free Chrome extension to generate entire emails and messages using ChatGPT AI. All sites are supported and enhanced support for Gmail.`
+- [FocusFlow](https://focusflow.ai/?ref=awe50meAI) `Track your daily progress, highlights, and improvements in just 20 seconds.`
+- [NovelAI](https://novelai.net/?ref=awe50meAI) `The AI Storyteller`
 
 ## video tools
 - [veed io](https://www.veed.io/?ref=awe50meAI) `VEED - Edit, Record & Livestream Video - Online`
@@ -79,6 +82,7 @@
 - [clipdrop](https://clipdrop.co/?ref=awe50meAI) `Create stunning visuals in seconds`
 - [Friday](https://www.heyfriday.ai/home) `Less Writing, More Inspiration.`
 - [Movio](https://www.movio.la/?ref=awe50meAI) `Create Engaging Videos 10x Faster with AI`
+- [clip.fm](https://www.clip.fm/?ref=awe50meAI) `Turn podcasts into viral clips with one click.`
 
 ## audio tools
 - [play ht](https://play.ht/?ref=awe50meAI) `AI powered text to voice generator`
@@ -124,6 +128,7 @@
 - [booth ai](https://www.booth.ai/?ref=awe50meAI) `Create pro quality product photography with AI`
 - [phosus](https://phosus.com/?ref=awe50meAI) `AI-Powered Image Enhancement Tools and API Provider | Phosus`
 - [Vance.AI](https://vance.ai/?ref=awe50meAI) `Upscale Image with AI`
+- [Image Creator from Microsoft Bing](https://www.bing.com/images/create/?ref=awe50meAI) `Create images from words with AI`
 
 ## commerce & marketing tools
 - [syte ai](https://www.syte.ai/?ref=awe50meAI) `The World's #1 Product Discovery Platform for eCommerce`
@@ -143,6 +148,7 @@
 - [albert](https://albert.ai/?ref=awe50meAI) `albert is your self-learning digital marketing ally`
 - [clickable](https://www.clickable.so/?ref=awe50meAI) `Generate ads in seconds with AI`
 - [Robin](https://www.hellorobin.ai/?ref=awe50meAI) `The Future of Sales Automation.`
+- [cody](https://www.meetcody.ai/?ref=awe50meAI) `Cody is an intelligent AI assistant like ChatGPT – with the added benefit of being able to train it on your business, your team, your processes, and your clients with your own knowledge base. Use Cody to support your team, answer questions, help with creative work, troubleshoot issues, and brainstorm ideas.`
 
 ## design tools
 - [beautiful ai](https://www.beautiful.ai/?ref=awe50meAI) `Presentation software that designs for you.`
@@ -191,6 +197,10 @@
 - [UI-AI](https://ui-ai.com/) `User Interface Artificial Intelligence`
 - [Whimsical AI for Mind Maps](https://whimsical.com/ai-mind-maps/?ref=awe50meAI) `Fresh ideas at your fingertips`
 - [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html/?ref=Awe50meAI) `AI Art Generator`
+- [AILab Tools](https://www.ailabtools.com/?ref=awe50meAI)
+- [IMGCREATOR](https://imgcreator.zmo.ai/?ref=awe50meAI0) `All-in-one AI Design Art Generator`
+- [vizcom](https://www.vizcom.ai/?ref=awe50meAI) `see your drawings come to life in seconds.`
+- [storyd](https://www.storyd.ai/?ref=awe50meAI) `AI POWERED PRESENTATIONS`
 
 ## Coding tools
 - [GitHub copilot](https://github.com/features/copilot/?ref=awe50meAI) `Your AI pair programmer`
@@ -200,11 +210,13 @@
 - [Fronty](https://fronty.com/?ref=awe50meAI) `convert image to HTML CSS`
 - [SourceAI](https://sourceai.dev/?ref=awe50meAI) `Ai-Powered Code Generator`
 - [Microapp](https://www.microapp.ai/build) `AI-Powered Component Generator`
+- [GitFluence](https://www.gitfluence.com/?ref=awe50meAI) `Find the Git Command You Need Now!`
 
 ## color tools
 - [colormind](http://colormind.io/?ref=awe50meAI) `Colormind - the AI powered color palette generator`
 - [Huemint](https://huemint.com/?ref=awe50meAI) `AI color palette generator`
 - [khroma](https://www.khroma.co/?ref=awe50meAI) `Khroma - The AI color tool for designers`
+- [ColorGPT](https://colorgpt.vercel.app/?ref=awe50meAI) `Generating color name captured from real-world using AI`
 
 ## miscellaneous
 - [interview-warmup by google](https://grow.google/certificates/interview-warmup/?ref=awe50meAI)
@@ -236,3 +248,9 @@
 - [context](https://usecontext.io/?ref=awe50meAI) `A brain for your business.`
 - [tl;dv](https://tldv.io/?ref=awe50meAI) `AI-Powered Meeting Recorder for Zoom and Google Meet - tl;dv`
 - [ttree](https://ttree.ai/?ref=awe50meAI) `A fulfilling job is one step closer to a more inspiring and purposeful life. At ttree, we build AI-powered technology to match talent with the best opportunities out there.`
+- [bardeen](https://www.bardeen.ai/?ref=awe50meAI) `Automate your manual tasks`
+- [HUMATA](https://www.humata.ai/?ref=awe50meAI) `Ask AI anything about your files`
+- [Onesta](https://www.onestafinance.com/?ref=awe50meAI) `Take control of your Financial Future`
+- [Where To AI!](https://www.wheretoai.com/?ref=awe50meAI) `Welcome to Where To AI! Through the power of AI you will discover new destinations, create unforgettable memories and find the best places to stay.`
+- [castmagic](https://www.castmagic.io/?ref=awe50meAI) `Podcast show notes & content in a click`
+- [AI Gift For You](https://aigiftforyou.com/?ref=awe50meAI) `AI Gift For You - Finding the perfect gift just got easier!`
