@@ -190,6 +190,7 @@
 - [SnapEdit](https://snapedit.app/?ref=awe50meAI) `Remove Object from photo`
 - [UI-AI](https://ui-ai.com/) `User Interface Artificial Intelligence`
 - [Whimsical AI for Mind Maps](https://whimsical.com/ai-mind-maps/?ref=awe50meAI) `Fresh ideas at your fingertips`
+- [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html/?ref=Awe50meAI) `AI Art Generator`
 
 ## Coding tools
 - [GitHub copilot](https://github.com/features/copilot/?ref=awe50meAI) `Your AI pair programmer`
@@ -198,6 +199,7 @@
 - [Flatlogic](https://flatlogic.com/blog/chatgpt-flatlogic-generate-fully-functioning-web-apps-based-on-description) `generate fully-functioning web apps in minutes with OpenAI, simply by describing the app in English!`
 - [Fronty](https://fronty.com/?ref=awe50meAI) `convert image to HTML CSS`
 - [SourceAI](https://sourceai.dev/?ref=awe50meAI) `Ai-Powered Code Generator`
+- [Microapp](https://www.microapp.ai/build) `AI-Powered Component Generator`
 
 ## color tools
 - [colormind](http://colormind.io/?ref=awe50meAI) `Colormind - the AI powered color palette generator`
