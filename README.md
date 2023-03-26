@@ -211,12 +211,15 @@
 - [SourceAI](https://sourceai.dev/?ref=awe50meAI) `Ai-Powered Code Generator`
 - [Microapp](https://www.microapp.ai/build) `AI-Powered Component Generator`
 - [GitFluence](https://www.gitfluence.com/?ref=awe50meAI) `Find the Git Command You Need Now!`
+- [bloop.](https://bloop.ai/) `bloop is a code-search engine that uses GPT-4 to answer questions about your code. Search both your local and remote repositories with natural language, regex and filtered queries.`
+- [codium](https://www.codium.ai/) `Generating meaningful tests for busy devs`
 
 ## color tools
 - [colormind](http://colormind.io/?ref=awe50meAI) `Colormind - the AI powered color palette generator`
 - [Huemint](https://huemint.com/?ref=awe50meAI) `AI color palette generator`
 - [khroma](https://www.khroma.co/?ref=awe50meAI) `Khroma - The AI color tool for designers`
 - [ColorGPT](https://colorgpt.vercel.app/?ref=awe50meAI) `Generating color name captured from real-world using AI`
+- [Chroma AI](https://chroma.szhao.dev/?ref=awe50meAI) `Generate gradients based on your mood`
 
 ## miscellaneous
 - [interview-warmup by google](https://grow.google/certificates/interview-warmup/?ref=awe50meAI)
