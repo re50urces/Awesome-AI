@@ -1,6 +1,18 @@
 # Awesome AI
 > A curated list of awesome things related to artificial intelligence (AI).
 
+## conversational AI
+- [ChatGPT](https://chat.openai.com/?ref=awe50meAI)
+- [Chat D-ID](https://chat.d-id.com/?ref=awe50meAI)
+- [Dialogflow](https://cloud.google.com/dialogflow/?ref=awe50meAI)
+- [Watson Assistant](https://www.ibm.com/products/watson-assistant/?ref=awe50meAI)
+- [Microsoft Bot Framework](https://dev.botframework.com/?ref=awe50meAI)
+- [Rasa](https://rasa.com/?ref=awe50meAI) `Conversational AI Platform | Superior Customer Experiences Start Here`
+- [botpress](https://botpress.com/?ref=awe50meAI)
+- [TARS](https://hellotars.com/?ref=awe50meAI)
+- [Landbot AI](https://landbot.io/ai/?ref=awe50meAI)
+- [SnatchBot](https://snatchbot.me/?ref=awe50meAI)
+- [Botstar](https://www.botstar.com/)
 
 ## writing tools
 - [grammarly](https://www.grammarly.com/?ref=awe50meAI) `Compose bold, clear, mistake-free writing with Grammarly’s AI-powered writing assistant.`
@@ -83,6 +95,7 @@
 - [Friday](https://www.heyfriday.ai/home) `Less Writing, More Inspiration.`
 - [Movio](https://www.movio.la/?ref=awe50meAI) `Create Engaging Videos 10x Faster with AI`
 - [clip.fm](https://www.clip.fm/?ref=awe50meAI) `Turn podcasts into viral clips with one click.`
+- [D-ID](https://www.d-id.com/) `Digital People Text-to-Video`
 
 ## audio tools
 - [play ht](https://play.ht/?ref=awe50meAI) `AI powered text to voice generator`
@@ -109,6 +122,7 @@
 - [voicera](https://www.voicera.co/?ref=awe50meAI) `Give voice to your articles and blogs.`
 - [revoicer](https://revoicer.com/?ref=awe50meAI) `The most realistic AI Text To Speech online`
 - [elevenlabs](https://beta.elevenlabs.io/?ref=awe50meAI) `The most realistic and versatile AI speech software, ever. Eleven brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling.`
+- [soundraw](https://soundraw.io/?ref=awe50meAI) `AI Music Generator`
 
 ## images tools
 - [letsenhance](https://letsenhance.io/?ref=awe50meAI) `Automatic AI editor to increase image resolution without losing quality`
