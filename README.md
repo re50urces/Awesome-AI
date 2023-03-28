@@ -67,6 +67,8 @@
 - [ChatGPT Writer](https://chatgptwriter.ai/?ref=Awe50meAI) `Free Chrome extension to generate entire emails and messages using ChatGPT AI. All sites are supported and enhanced support for Gmail.`
 - [FocusFlow](https://focusflow.ai/?ref=awe50meAI) `Track your daily progress, highlights, and improvements in just 20 seconds.`
 - [NovelAI](https://novelai.net/?ref=awe50meAI) `The AI Storyteller`
+- [narrato](https://narrato.io/) `AI Content Creation and Collaboration Platform`
+- [WriteMe](https://writeme.ai/) `WriteMe.ai - Ai Writer - Content Writing Assistant & Creator`
 
 ## video tools
 - [veed io](https://www.veed.io/?ref=awe50meAI) `VEED - Edit, Record & Livestream Video - Online`
@@ -96,8 +98,10 @@
 - [Movio](https://www.movio.la/?ref=awe50meAI) `Create Engaging Videos 10x Faster with AI`
 - [clip.fm](https://www.clip.fm/?ref=awe50meAI) `Turn podcasts into viral clips with one click.`
 - [D-ID](https://www.d-id.com/) `Digital People Text-to-Video`
+- [vidyo.ai](https://vidyo.ai/) `Make short videos from long ones instantly`
 
 ## audio tools
+- [Adobe Podcast](https://podcast.adobe.com/) `AI-powered audio recording and editing, all on the web`
 - [play ht](https://play.ht/?ref=awe50meAI) `AI powered text to voice generator`
 - [Murf AI](https://murf.ai/?ref=awe50meAI) `AI Voice Generator: Versatile Text to Speech Software | Murf AI`
 - [resemble ai](https://www.resemble.ai/?ref=awe50meAI) `Your Complete Generative Voice AI Toolkit`
@@ -123,6 +127,9 @@
 - [revoicer](https://revoicer.com/?ref=awe50meAI) `The most realistic AI Text To Speech online`
 - [elevenlabs](https://beta.elevenlabs.io/?ref=awe50meAI) `The most realistic and versatile AI speech software, ever. Eleven brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling.`
 - [soundraw](https://soundraw.io/?ref=awe50meAI) `AI Music Generator`
+- [VoicePen](https://voicepen.ai/) `Audio to Blog Post, in minutes`
+- [podcastle](https://podcastle.ai/) `The One-Stop Shop for Broadcast Storytelling`
+- [beatoven.ai](https://www.beatoven.ai/) `Create customisable royalty free music that elevates your story`
 
 ## images tools
 - [letsenhance](https://letsenhance.io/?ref=awe50meAI) `Automatic AI editor to increase image resolution without losing quality`
@@ -143,6 +150,7 @@
 - [phosus](https://phosus.com/?ref=awe50meAI) `AI-Powered Image Enhancement Tools and API Provider | Phosus`
 - [Vance.AI](https://vance.ai/?ref=awe50meAI) `Upscale Image with AI`
 - [Image Creator from Microsoft Bing](https://www.bing.com/images/create/?ref=awe50meAI) `Create images from words with AI`
+- [BlueWillow](https://www.bluewillow.ai/) `BlueWillow | Free AI Art Generator`
 
 ## commerce & marketing tools
 - [syte ai](https://www.syte.ai/?ref=awe50meAI) `The World's #1 Product Discovery Platform for eCommerce`
@@ -215,6 +223,7 @@
 - [IMGCREATOR](https://imgcreator.zmo.ai/?ref=awe50meAI0) `All-in-one AI Design Art Generator`
 - [vizcom](https://www.vizcom.ai/?ref=awe50meAI) `see your drawings come to life in seconds.`
 - [storyd](https://www.storyd.ai/?ref=awe50meAI) `AI POWERED PRESENTATIONS`
+- [PicWish](https://picwish.com/) `PicWish AI Photo Editor | Free Online Photo Editing Tools`
 
 ## Coding tools
 - [GitHub copilot](https://github.com/features/copilot/?ref=awe50meAI) `Your AI pair programmer`
