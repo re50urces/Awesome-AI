@@ -94,14 +94,14 @@
 - [beey](https://www.beey.io/en/?ref=awe50meAI) `Beey.io – Beey automatically converts your audio and video files to text.`
 - [papercup](https://www.papercup.com/?ref=awe50meAI) `AI Powered Dubbing`
 - [clipdrop](https://clipdrop.co/?ref=awe50meAI) `Create stunning visuals in seconds`
-- [Friday](https://www.heyfriday.ai/home) `Less Writing, More Inspiration.`
+- [Friday](https://www.heyfriday.ai/home/?ref=awe50meAI) `Less Writing, More Inspiration.`
 - [Movio](https://www.movio.la/?ref=awe50meAI) `Create Engaging Videos 10x Faster with AI`
 - [clip.fm](https://www.clip.fm/?ref=awe50meAI) `Turn podcasts into viral clips with one click.`
-- [D-ID](https://www.d-id.com/) `Digital People Text-to-Video`
-- [vidyo.ai](https://vidyo.ai/) `Make short videos from long ones instantly`
+- [D-ID](https://www.d-id.com/?ref=awe50meAI) `Digital People Text-to-Video`
+- [vidyo.ai](https://vidyo.ai/?ref=awe50meAI) `Make short videos from long ones instantly`
 
 ## audio tools
-- [Adobe Podcast](https://podcast.adobe.com/) `AI-powered audio recording and editing, all on the web`
+- [Adobe Podcast](https://podcast.adobe.com/?ref=awe50meAI) `AI-powered audio recording and editing, all on the web`
 - [play ht](https://play.ht/?ref=awe50meAI) `AI powered text to voice generator`
 - [Murf AI](https://murf.ai/?ref=awe50meAI) `AI Voice Generator: Versatile Text to Speech Software | Murf AI`
 - [resemble ai](https://www.resemble.ai/?ref=awe50meAI) `Your Complete Generative Voice AI Toolkit`
@@ -127,9 +127,9 @@
 - [revoicer](https://revoicer.com/?ref=awe50meAI) `The most realistic AI Text To Speech online`
 - [elevenlabs](https://beta.elevenlabs.io/?ref=awe50meAI) `The most realistic and versatile AI speech software, ever. Eleven brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling.`
 - [soundraw](https://soundraw.io/?ref=awe50meAI) `AI Music Generator`
-- [VoicePen](https://voicepen.ai/) `Audio to Blog Post, in minutes`
-- [podcastle](https://podcastle.ai/) `The One-Stop Shop for Broadcast Storytelling`
-- [beatoven.ai](https://www.beatoven.ai/) `Create customisable royalty free music that elevates your story`
+- [VoicePen](https://voicepen.ai/?ref=awe50meAI) `Audio to Blog Post, in minutes`
+- [podcastle](https://podcastle.ai/?ref=awe50meAI) `The One-Stop Shop for Broadcast Storytelling`
+- [beatoven.ai](https://www.beatoven.ai/?ref=awe50meAI) `Create customisable royalty free music that elevates your story`
 
 ## images tools
 - [letsenhance](https://letsenhance.io/?ref=awe50meAI) `Automatic AI editor to increase image resolution without losing quality`
@@ -223,7 +223,7 @@
 - [IMGCREATOR](https://imgcreator.zmo.ai/?ref=awe50meAI0) `All-in-one AI Design Art Generator`
 - [vizcom](https://www.vizcom.ai/?ref=awe50meAI) `see your drawings come to life in seconds.`
 - [storyd](https://www.storyd.ai/?ref=awe50meAI) `AI POWERED PRESENTATIONS`
-- [PicWish](https://picwish.com/) `PicWish AI Photo Editor | Free Online Photo Editing Tools`
+- [PicWish](https://picwish.com/?ref=awe50meAI) `PicWish AI Photo Editor | Free Online Photo Editing Tools`
 
 ## Coding tools
 - [GitHub copilot](https://github.com/features/copilot/?ref=awe50meAI) `Your AI pair programmer`
@@ -236,6 +236,7 @@
 - [GitFluence](https://www.gitfluence.com/?ref=awe50meAI) `Find the Git Command You Need Now!`
 - [bloop.](https://bloop.ai/) `bloop is a code-search engine that uses GPT-4 to answer questions about your code. Search both your local and remote repositories with natural language, regex and filtered queries.`
 - [codium](https://www.codium.ai/) `Generating meaningful tests for busy devs`
+- [drenaline](https://useadrenaline.com/app?ref=awe50meAI) `An AI-powered debugger` - [GitHub repository](https://github.com/shobrook/adrenaline/)
 
 ## color tools
 - [colormind](http://colormind.io/?ref=awe50meAI) `Colormind - the AI powered color palette generator`
@@ -280,3 +281,4 @@
 - [Where To AI!](https://www.wheretoai.com/?ref=awe50meAI) `Welcome to Where To AI! Through the power of AI you will discover new destinations, create unforgettable memories and find the best places to stay.`
 - [castmagic](https://www.castmagic.io/?ref=awe50meAI) `Podcast show notes & content in a click`
 - [AI Gift For You](https://aigiftforyou.com/?ref=awe50meAI) `AI Gift For You - Finding the perfect gift just got easier!`
+- [TimeGPT](https://timegpt.vercel.app/?ref=awe50meAI) `An AI-powered date and time converter. Enter a prompt to get started.` - [GitHub repository](https://github.com/Spiderpig86/TimeGPT)
