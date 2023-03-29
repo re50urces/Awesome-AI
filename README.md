@@ -13,6 +13,9 @@
 - [Landbot AI](https://landbot.io/ai/?ref=awe50meAI)
 - [SnatchBot](https://snatchbot.me/?ref=awe50meAI)
 - [Botstar](https://www.botstar.com/)
+- [Ask Your PDF](https://askyourpdf.com/)
+- [perplexity](https://www.perplexity.ai/)
+- [Hints](https://hints.so/) `AI Assistant that integrates with any software to perform tasks on your behalf`
 
 ## writing tools
 - [grammarly](https://www.grammarly.com/?ref=awe50meAI) `Compose bold, clear, mistake-free writing with Grammarly’s AI-powered writing assistant.`
@@ -69,6 +72,8 @@
 - [NovelAI](https://novelai.net/?ref=awe50meAI) `The AI Storyteller`
 - [narrato](https://narrato.io/) `AI Content Creation and Collaboration Platform`
 - [WriteMe](https://writeme.ai/) `WriteMe.ai - Ai Writer - Content Writing Assistant & Creator`
+- [Magical AI](https://www.getmagical.com/ai) `Call on Magical AI to do all the work stuff you hate doing. Create messages from scratch, update forms instantly, and automate annoying tasks—anywhere, anytime.`
+- [Bearly](https://bearly.ai/) `Bearly makes you 10x faster by adding the state of the art AI to your workflow. Reading, writing, and content creation all one shortcut away.`
 
 ## video tools
 - [veed io](https://www.veed.io/?ref=awe50meAI) `VEED - Edit, Record & Livestream Video - Online`
@@ -99,6 +104,7 @@
 - [clip.fm](https://www.clip.fm/?ref=awe50meAI) `Turn podcasts into viral clips with one click.`
 - [D-ID](https://www.d-id.com/?ref=awe50meAI) `Digital People Text-to-Video`
 - [vidyo.ai](https://vidyo.ai/?ref=awe50meAI) `Make short videos from long ones instantly`
+- [Rephrase Studio](https://www.rephrase.ai/studio/?ref=awe50meAI) `Rephrase Studio is a self-serve text-to-video generation platform that eliminates the complexity of video production, enabling you to create professional-looking videos at scale.`
 
 ## audio tools
 - [Adobe Podcast](https://podcast.adobe.com/?ref=awe50meAI) `AI-powered audio recording and editing, all on the web`
@@ -151,6 +157,7 @@
 - [Vance.AI](https://vance.ai/?ref=awe50meAI) `Upscale Image with AI`
 - [Image Creator from Microsoft Bing](https://www.bing.com/images/create/?ref=awe50meAI) `Create images from words with AI`
 - [BlueWillow](https://www.bluewillow.ai/) `BlueWillow | Free AI Art Generator`
+- [Nero AI](https://ai.nero.com/) `Enlarge your images without losing quality, automatically detect thousands of images and categorize your albums.`
 
 ## commerce & marketing tools
 - [syte ai](https://www.syte.ai/?ref=awe50meAI) `The World's #1 Product Discovery Platform for eCommerce`
@@ -224,6 +231,8 @@
 - [vizcom](https://www.vizcom.ai/?ref=awe50meAI) `see your drawings come to life in seconds.`
 - [storyd](https://www.storyd.ai/?ref=awe50meAI) `AI POWERED PRESENTATIONS`
 - [PicWish](https://picwish.com/?ref=awe50meAI) `PicWish AI Photo Editor | Free Online Photo Editing Tools`
+- [Figma AI](https://www.figmaai.io/?ref=awe50meAI) `Integrate GPT Chat into your Figma workflow`
+- [DreamStudio](https://beta.dreamstudio.ai/) `Tap into the power of our generative text-to-image suite to create new and unique designs.`
 
 ## Coding tools
 - [GitHub copilot](https://github.com/features/copilot/?ref=awe50meAI) `Your AI pair programmer`
@@ -246,6 +255,7 @@
 - [Chroma AI](https://chroma.szhao.dev/?ref=awe50meAI) `Generate gradients based on your mood`
 
 ## miscellaneous
+- [Browse AI](https://www.browse.ai/) `The easiest way to extract and monitor data from any website.`
 - [interview-warmup by google](https://grow.google/certificates/interview-warmup/?ref=awe50meAI)
 - [fastoutreach](https://www.fastoutreach.ai/?ref=awe50meAI) `The smartest AI personalization tool for entrepreneurs.`
 - [getleon](https://getleon.ai/?ref=awe50meAI) `Leon is your open-source personal assistant who can live on your server.`
@@ -282,3 +292,7 @@
 - [castmagic](https://www.castmagic.io/?ref=awe50meAI) `Podcast show notes & content in a click`
 - [AI Gift For You](https://aigiftforyou.com/?ref=awe50meAI) `AI Gift For You - Finding the perfect gift just got easier!`
 - [TimeGPT](https://timegpt.vercel.app/?ref=awe50meAI) `An AI-powered date and time converter. Enter a prompt to get started.` - [GitHub repository](https://github.com/Spiderpig86/TimeGPT)
+- [PromptPal](https://www.promptpal.net/) `The destination for the best prompts for marketers, writers, designers, and more to get the most out of ChatGPT`
+- [Harvey.](https://www.harvey.ai/) `Harvey | Generative AI for Elite Law Firms`
+- [Engage AI](https://getengageai.com/)
+- [Suggest AI](https://suggestai.co/) `Suggest AI is a machine learning powered personalization engine offering a product portfolio customized for online businesses`
