@@ -12,10 +12,11 @@
 - [TARS](https://hellotars.com/?ref=awe50meAI)
 - [Landbot AI](https://landbot.io/ai/?ref=awe50meAI)
 - [SnatchBot](https://snatchbot.me/?ref=awe50meAI)
-- [Botstar](https://www.botstar.com/)
-- [Ask Your PDF](https://askyourpdf.com/)
-- [perplexity](https://www.perplexity.ai/)
-- [Hints](https://hints.so/) `AI Assistant that integrates with any software to perform tasks on your behalf`
+- [Botstar](https://www.botstar.com/?ref=awe50meAI)
+- [Ask Your PDF](https://askyourpdf.com/?ref=awe50meAI)
+- [perplexity](https://www.perplexity.ai/?ref=awe50meAI)
+- [Hints](https://hints.so/?ref=awe50meAI) `AI Assistant that integrates with any software to perform tasks on your behalf`
+- [ChatSpot](https://chatspot.ai/?ref=awe50meAI) `ChatSpot = ChatGPT + the power of HubSpot CRM`
 
 ## writing tools
 - [grammarly](https://www.grammarly.com/?ref=awe50meAI) `Compose bold, clear, mistake-free writing with Grammarly’s AI-powered writing assistant.`
@@ -70,10 +71,10 @@
 - [ChatGPT Writer](https://chatgptwriter.ai/?ref=Awe50meAI) `Free Chrome extension to generate entire emails and messages using ChatGPT AI. All sites are supported and enhanced support for Gmail.`
 - [FocusFlow](https://focusflow.ai/?ref=awe50meAI) `Track your daily progress, highlights, and improvements in just 20 seconds.`
 - [NovelAI](https://novelai.net/?ref=awe50meAI) `The AI Storyteller`
-- [narrato](https://narrato.io/) `AI Content Creation and Collaboration Platform`
-- [WriteMe](https://writeme.ai/) `WriteMe.ai - Ai Writer - Content Writing Assistant & Creator`
-- [Magical AI](https://www.getmagical.com/ai) `Call on Magical AI to do all the work stuff you hate doing. Create messages from scratch, update forms instantly, and automate annoying tasks—anywhere, anytime.`
-- [Bearly](https://bearly.ai/) `Bearly makes you 10x faster by adding the state of the art AI to your workflow. Reading, writing, and content creation all one shortcut away.`
+- [narrato](https://narrato.io/?ref=awe50meAI) `AI Content Creation and Collaboration Platform`
+- [WriteMe](https://writeme.ai/?ref=awe50meAI) `WriteMe.ai - Ai Writer - Content Writing Assistant & Creator`
+- [Magical AI](https://www.getmagical.com/ai?ref=awe50meAI) `Call on Magical AI to do all the work stuff you hate doing. Create messages from scratch, update forms instantly, and automate annoying tasks—anywhere, anytime.`
+- [Bearly](https://bearly.ai/?ref=awe50meAI) `Bearly makes you 10x faster by adding the state of the art AI to your workflow. Reading, writing, and content creation all one shortcut away.`
 
 ## video tools
 - [veed io](https://www.veed.io/?ref=awe50meAI) `VEED - Edit, Record & Livestream Video - Online`
@@ -156,8 +157,8 @@
 - [phosus](https://phosus.com/?ref=awe50meAI) `AI-Powered Image Enhancement Tools and API Provider | Phosus`
 - [Vance.AI](https://vance.ai/?ref=awe50meAI) `Upscale Image with AI`
 - [Image Creator from Microsoft Bing](https://www.bing.com/images/create/?ref=awe50meAI) `Create images from words with AI`
-- [BlueWillow](https://www.bluewillow.ai/) `BlueWillow | Free AI Art Generator`
-- [Nero AI](https://ai.nero.com/) `Enlarge your images without losing quality, automatically detect thousands of images and categorize your albums.`
+- [BlueWillow](https://www.bluewillow.ai/?ref=awe50meAI) `BlueWillow | Free AI Art Generator`
+- [Nero AI](https://ai.nero.com/?ref=awe50meAI) `Enlarge your images without losing quality, automatically detect thousands of images and categorize your albums.`
 
 ## commerce & marketing tools
 - [syte ai](https://www.syte.ai/?ref=awe50meAI) `The World's #1 Product Discovery Platform for eCommerce`
@@ -232,7 +233,7 @@
 - [storyd](https://www.storyd.ai/?ref=awe50meAI) `AI POWERED PRESENTATIONS`
 - [PicWish](https://picwish.com/?ref=awe50meAI) `PicWish AI Photo Editor | Free Online Photo Editing Tools`
 - [Figma AI](https://www.figmaai.io/?ref=awe50meAI) `Integrate GPT Chat into your Figma workflow`
-- [DreamStudio](https://beta.dreamstudio.ai/) `Tap into the power of our generative text-to-image suite to create new and unique designs.`
+- [DreamStudio](https://beta.dreamstudio.ai/?ref=awe50meAI) `Tap into the power of our generative text-to-image suite to create new and unique designs.`
 
 ## Coding tools
 - [GitHub copilot](https://github.com/features/copilot/?ref=awe50meAI) `Your AI pair programmer`
@@ -246,6 +247,7 @@
 - [bloop.](https://bloop.ai/) `bloop is a code-search engine that uses GPT-4 to answer questions about your code. Search both your local and remote repositories with natural language, regex and filtered queries.`
 - [codium](https://www.codium.ai/) `Generating meaningful tests for busy devs`
 - [drenaline](https://useadrenaline.com/app?ref=awe50meAI) `An AI-powered debugger` - [GitHub repository](https://github.com/shobrook/adrenaline/)
+- [AI CODE](https://aicode-weld.vercel.app/?ref=awe50meAI) `Turn text into HTML&CSS with AI`
 
 ## color tools
 - [colormind](http://colormind.io/?ref=awe50meAI) `Colormind - the AI powered color palette generator`
@@ -255,7 +257,7 @@
 - [Chroma AI](https://chroma.szhao.dev/?ref=awe50meAI) `Generate gradients based on your mood`
 
 ## miscellaneous
-- [Browse AI](https://www.browse.ai/) `The easiest way to extract and monitor data from any website.`
+- [Browse AI](https://www.browse.ai/?ref=awe50meAI) `The easiest way to extract and monitor data from any website.`
 - [interview-warmup by google](https://grow.google/certificates/interview-warmup/?ref=awe50meAI)
 - [fastoutreach](https://www.fastoutreach.ai/?ref=awe50meAI) `The smartest AI personalization tool for entrepreneurs.`
 - [getleon](https://getleon.ai/?ref=awe50meAI) `Leon is your open-source personal assistant who can live on your server.`
@@ -292,7 +294,7 @@
 - [castmagic](https://www.castmagic.io/?ref=awe50meAI) `Podcast show notes & content in a click`
 - [AI Gift For You](https://aigiftforyou.com/?ref=awe50meAI) `AI Gift For You - Finding the perfect gift just got easier!`
 - [TimeGPT](https://timegpt.vercel.app/?ref=awe50meAI) `An AI-powered date and time converter. Enter a prompt to get started.` - [GitHub repository](https://github.com/Spiderpig86/TimeGPT)
-- [PromptPal](https://www.promptpal.net/) `The destination for the best prompts for marketers, writers, designers, and more to get the most out of ChatGPT`
-- [Harvey.](https://www.harvey.ai/) `Harvey | Generative AI for Elite Law Firms`
-- [Engage AI](https://getengageai.com/)
-- [Suggest AI](https://suggestai.co/) `Suggest AI is a machine learning powered personalization engine offering a product portfolio customized for online businesses`
+- [PromptPal](https://www.promptpal.net/?ref=awe50meAI) `The destination for the best prompts for marketers, writers, designers, and more to get the most out of ChatGPT`
+- [Harvey.](https://www.harvey.ai/?ref=awe50meAI) `Harvey | Generative AI for Elite Law Firms`
+- [Engage AI](https://getengageai.com/?ref=awe50meAI)
+- [Suggest AI](https://suggestai.co/?ref=awe50meAI) `Suggest AI is a machine learning powered personalization engine offering a product portfolio customized for online businesses`
