@@ -313,3 +313,4 @@
 - [Suggest AI](https://suggestai.co/?ref=awe50meAI) `Suggest AI is a machine learning powered personalization engine offering a product portfolio customized for online businesses`
 - [Reflect](https://reflect.app/?ref=awe50reAI)
 - [waitroom](https://waitroom.com/?ref=awe50meAI) `The solution to better meetings`
+- [Domains GPT](https://oneword.domains/domains-gpt/?ref=awe50meAI) `Generate brandable & memorable domain names using AI. Powered by OpenAI and Vercel Edge Functions.`
