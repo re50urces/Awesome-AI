@@ -19,6 +19,8 @@
 - [ChatSpot](https://chatspot.ai/?ref=awe50meAI) `ChatSpot = ChatGPT + the power of HubSpot CRM`
 - [AskThee?](https://askthee.vercel.app/?ref=awe50meAI) `Ever wanted to ask a question to a big thinker, artist or scientist? now is your chance.`
 - [Ai Chat from User.com](https://www.user.com/en/ai-chat/?ref=awe50meAI) `Automate your customer support instantly with AI`
+- [ChatPDF](https://www.chatpdf.com/) `Chat with any PDF!`
+- [Chatbase](https://www.chatbase.co/) `Train ChatGPT on your data and add it to your website`
 
 ## writing tools
 - [Cohesive](https://cohesive.so/?ref=awe50meAI) `Create magical content with the most powerful AI editor`
@@ -314,3 +316,4 @@
 - [Reflect](https://reflect.app/?ref=awe50reAI)
 - [waitroom](https://waitroom.com/?ref=awe50meAI) `The solution to better meetings`
 - [Domains GPT](https://oneword.domains/domains-gpt/?ref=awe50meAI) `Generate brandable & memorable domain names using AI. Powered by OpenAI and Vercel Edge Functions.`
+- [Gamma](https://gamma.app/) `A new medium for presenting ideas. Powered by AI.`
