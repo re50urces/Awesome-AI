@@ -19,10 +19,12 @@
 - [ChatSpot](https://chatspot.ai/?ref=awe50meAI) `ChatSpot = ChatGPT + the power of HubSpot CRM`
 - [AskThee?](https://askthee.vercel.app/?ref=awe50meAI) `Ever wanted to ask a question to a big thinker, artist or scientist? now is your chance.`
 - [Ai Chat from User.com](https://www.user.com/en/ai-chat/?ref=awe50meAI) `Automate your customer support instantly with AI`
-- [ChatPDF](https://www.chatpdf.com/) `Chat with any PDF!`
-- [Chatbase](https://www.chatbase.co/) `Train ChatGPT on your data and add it to your website`
+- [ChatPDF](https://www.chatpdf.com/?ref=awe50meAI) `Chat with any PDF!`
+- [Chatbase](https://www.chatbase.co/?ref=awe50meAI) `Train ChatGPT on your data and add it to your website`
 
 ## writing tools
+- [Jounce](https://www.jounce.ai/?ref=awe50meAI) `Free AI copywriting and artwork for marketers`
+- [writerly](https://writerly.ai/?ref=awe50meAI) `Writerly artificial intelligence (AI) helps the most innovative businesses, teams, and creators produce hyper-relevant, SEO optimized content in seconds.`
 - [Cohesive](https://cohesive.so/?ref=awe50meAI) `Create magical content with the most powerful AI editor`
 - [grammarly](https://www.grammarly.com/?ref=awe50meAI) `Compose bold, clear, mistake-free writing with Grammarly’s AI-powered writing assistant.`
 - [copy ai](https://www.copy.ai/?ref=awe50meAI) `Write better marketing copy and content with AI`
@@ -58,7 +60,7 @@
 - [GetGenie](https://getgenie.ai/?ref=awe50meAI) `The WordPress AI SuperApp for Content & SEO | GetGenie`
 - [Article Forge](https://www.articleforge.com/?ref=awe50meAI) `High quality, AI content generator - Article Forge`
 - [ProWritingAid](https://prowritingaid.com/?ref=awe50meAI) `ProWritingAid: AI Writing Assistant Software`
-- [QuillBot](https://quillbot.com/?ref=awe50meAI) `QuillBot's AI-powered paraphrasing tool will enhance your writing`
+- [QuillBot](https://quillbotycom/?ref=awe50meAI) `QuillBot's AI-powered paraphrasing tool will enhance your writing`
 - [WriterZen](https://writerzen.net/?ref=awe50meAI) `Proficient SEO Content Workflow Software`
 - [Writecream](https://www.writecream.com/?ref=awe50meAI) `Writecream - Best AI Writer & Content Generator - Writecream`
 - [outranking](https://www.outranking.io/?ref=awe50meAI) `Outranking helps content teams achieve predictable content success with AI assistance.`
@@ -85,6 +87,7 @@
 - [resume worded](https://resumeworded.com/?ref=awe50meAI) `Improve your resume and LinkedIn profile`
 
 ## video tools
+- [Deepbrain ai - ai studios](https://www.deepbrain.io/aistudios?ref=awe50meAI) `Create AI-generated videos using basic text instantly`
 - [Supercreator.ai](https://www.supercreator.ai/?ref=awe50meAI) `Create short form videos 10x faster using artificial intelligence`
 - [veed io](https://www.veed.io/?ref=awe50meAI) `VEED - Edit, Record & Livestream Video - Online`
 - [runway](https://runwayml.com/?ref=awe50meAI) `Everything you need to make content, fast.`
@@ -193,6 +196,7 @@
 - [Tugan.ai](https://www.tugan.ai/?ref=awe50meAI) `Enter a URL or TOPIC To Generate Your Marketing Emails Instantly With AI`
 
 ## design tools
+- [IconifyAI.com](https://www.iconifyai.com/) `Create an Icon that truly represents your app with AI`
 - [beautiful ai](https://www.beautiful.ai/?ref=awe50meAI) `Presentation software that designs for you.`
 - [avatarai](https://avatarai.me/?ref=awe50meAI) `Create your own AI-generated avatars`
 - [profilepicture](https://www.profilepicture.ai/?ref=awe50meAI)
@@ -270,6 +274,7 @@
 - [khroma](https://www.khroma.co/?ref=awe50meAI) `Khroma - The AI color tool for designers`
 - [ColorGPT](https://colorgpt.vercel.app/?ref=awe50meAI) `Generating color name captured from real-world using AI`
 - [Chroma AI](https://chroma.szhao.dev/?ref=awe50meAI) `Generate gradients based on your mood`
+- [PatternedAI](https://www.patterned.ai/?ref=awe50meAI) `Generate unique patterns for your product using AI!`
 
 ## miscellaneous
 - [Browse AI](https://www.browse.ai/?ref=awe50meAI) `The easiest way to extract and monitor data from any website.`
@@ -316,4 +321,4 @@
 - [Reflect](https://reflect.app/?ref=awe50reAI)
 - [waitroom](https://waitroom.com/?ref=awe50meAI) `The solution to better meetings`
 - [Domains GPT](https://oneword.domains/domains-gpt/?ref=awe50meAI) `Generate brandable & memorable domain names using AI. Powered by OpenAI and Vercel Edge Functions.`
-- [Gamma](https://gamma.app/) `A new medium for presenting ideas. Powered by AI.`
+- [Gamma](https://gamma.app/?ref=awe50meAI) `A new medium for presenting ideas. Powered by AI.`
