@@ -21,6 +21,7 @@
 - [Ai Chat from User.com](https://www.user.com/en/ai-chat/?ref=awe50meAI) `Automate your customer support instantly with AI`
 - [ChatPDF](https://www.chatpdf.com/?ref=awe50meAI) `Chat with any PDF!`
 - [Chatbase](https://www.chatbase.co/?ref=awe50meAI) `Train ChatGPT on your data and add it to your website`
+- [Huberman AI](https://huberman.rile.yt/?ref=awe50meAI) `Use AI to explore the wisdom of The Huberman Lab.`
 
 ## writing tools
 - [Jounce](https://www.jounce.ai/?ref=awe50meAI) `Free AI copywriting and artwork for marketers`
@@ -120,6 +121,7 @@
 - [Rephrase Studio](https://www.rephrase.ai/studio/?ref=awe50meAI) `Rephrase Studio is a self-serve text-to-video generation platform that eliminates the complexity of video production, enabling you to create professional-looking videos at scale.`
 - [Genmo](https://alpha.genmo.ai/?ref=awe50meAI) `Go beyond 2D. Create videos from text with AI.`
 - [riverside](https://riverside.fm/?ref=awe50meAI) `Automatically transcribe your audio and video recordings in seconds with our AI-powered technology. It's accurate, reliable, and supports more than 100 languages.`
+- [Zoomscape.ai](https://zoomscape.ai/?ref=awe50meAI) `Create stunning Zoom backgrounds with AI`
 
 ## audio tools
 - [Adobe Podcast](https://podcast.adobe.com/?ref=awe50meAI) `AI-powered audio recording and editing, all on the web`
@@ -173,6 +175,8 @@
 - [Image Creator from Microsoft Bing](https://www.bing.com/images/create/?ref=awe50meAI) `Create images from words with AI`
 - [BlueWillow](https://www.bluewillow.ai/?ref=awe50meAI) `BlueWillow | Free AI Art Generator`
 - [Nero AI](https://ai.nero.com/?ref=awe50meAI) `Enlarge your images without losing quality, automatically detect thousands of images and categorize your albums.`
+- [removal.ai](https://removal.ai/?ref=awe50meAI) `Remove Background From Image for Free Using Artificial Intelligence`
+- [ZMO.AI](https://www.zmo.ai/background-ai/?ref=awe50meAI) `Background Generator & Remover | Background AI`
 
 ## commerce & marketing tools
 - [syte ai](https://www.syte.ai/?ref=awe50meAI) `The World's #1 Product Discovery Platform for eCommerce`
@@ -196,7 +200,8 @@
 - [Tugan.ai](https://www.tugan.ai/?ref=awe50meAI) `Enter a URL or TOPIC To Generate Your Marketing Emails Instantly With AI`
 
 ## design tools
-- [IconifyAI.com](https://www.iconifyai.com/) `Create an Icon that truly represents your app with AI`
+- [PhotoRoom](https://www.photoroom.com/?ref=awe50meAI) `PhotoRoom - Remove Background and Create Product Pictures`
+- [IconifyAI.com](https://www.iconifyai.com/?ref=awe50meAI) `Create an Icon that truly represents your app with AI`
 - [beautiful ai](https://www.beautiful.ai/?ref=awe50meAI) `Presentation software that designs for you.`
 - [avatarai](https://avatarai.me/?ref=awe50meAI) `Create your own AI-generated avatars`
 - [profilepicture](https://www.profilepicture.ai/?ref=awe50meAI)
@@ -322,3 +327,5 @@
 - [waitroom](https://waitroom.com/?ref=awe50meAI) `The solution to better meetings`
 - [Domains GPT](https://oneword.domains/domains-gpt/?ref=awe50meAI) `Generate brandable & memorable domain names using AI. Powered by OpenAI and Vercel Edge Functions.`
 - [Gamma](https://gamma.app/?ref=awe50meAI) `A new medium for presenting ideas. Powered by AI.`
+- [kickresume](https://www.kickresume.com/en/ai-resume-writer/?ref=awe50meAI) `Automate your CV creation with our AI resume builder.`
+- [stability.ai](https://stability.ai/?ref=awe50meAI) `AI by the people for the people`
