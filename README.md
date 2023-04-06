@@ -22,6 +22,7 @@
 - [ChatPDF](https://www.chatpdf.com/?ref=awe50meAI) `Chat with any PDF!`
 - [Chatbase](https://www.chatbase.co/?ref=awe50meAI) `Train ChatGPT on your data and add it to your website`
 - [Huberman AI](https://huberman.rile.yt/?ref=awe50meAI) `Use AI to explore the wisdom of The Huberman Lab.`
+- [ai intern](https://aiintern.io/?ref=awe50meAI) `With AI Intern skip the grind and focus on the big picture.`
 
 ## writing tools
 - [Jounce](https://www.jounce.ai/?ref=awe50meAI) `Free AI copywriting and artwork for marketers`
@@ -272,6 +273,8 @@
 - [Stunning.so](https://stunning.so/?ref=awe50meAI) `Build websites with AI.i`
 - [codeium](https://codeium.com/?ref=awe50meAI) `AI-Powered Autocomplete`
 - [Ghostwriter](https://replit.com/site/ghostwriter/?ref=awe50meAI) `Meet Ghostwriter, your partner in code.`
+- [Lightning AI](https://lightning.ai/?ref=awe50meAI) `The platform for teams to build AI, without the headaches`
+- [CommitAI](https://github.com/fengyiqicoder/CommitAi-Free?ref=awe50meAI) `Let AI Handle Your Commit Messages`
 
 ## color tools
 - [colormind](http://colormind.io/?ref=awe50meAI) `Colormind - the AI powered color palette generator`
@@ -329,3 +332,7 @@
 - [Gamma](https://gamma.app/?ref=awe50meAI) `A new medium for presenting ideas. Powered by AI.`
 - [kickresume](https://www.kickresume.com/en/ai-resume-writer/?ref=awe50meAI) `Automate your CV creation with our AI resume builder.`
 - [stability.ai](https://stability.ai/?ref=awe50meAI) `AI by the people for the people`
+- [EnhaceAI](https://www.enhanceai.dev/?ref=awe50meAI) `Add AI Autocomplete to any website in 2 minutes`
+- [June](https://www.june.so/ai?ref=awe50meAI) `A new way to do product analytics`
+- [Avoma](https://www.avoma.com/v3?ref=awe50meAI) `AI Meeting assistance and collaboration, reimagined.`
+- [SpeakAide](https://speakaide.com/?ref=awe50meAI) `Take your public speaking to the next level with SpeakAide's AI script writing and teleprompter tool.`
