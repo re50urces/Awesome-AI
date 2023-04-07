@@ -24,6 +24,11 @@
 - [Huberman AI](https://huberman.rile.yt/?ref=awe50meAI) `Use AI to explore the wisdom of The Huberman Lab.`
 - [ai intern](https://aiintern.io/?ref=awe50meAI) `With AI Intern skip the grind and focus on the big picture.`
 - [Chatbot UI](https://www.chatbotui.com/) `Chatbot UI is an open source clone of OpenAI's ChatGPT UI.`
+- [Channel](https://www.usechannel.com/) `Ask any data question, in plain English.`
+
+## All-in-one tools
+- [airOps](https://www.airops.com/) `Deploy task-specific AI where you need it most with AirOps Apps. Install and configure in minutes, scalable, and available everywhere.`
+- [Hugging Face](https://huggingface.co/) `The AI community building the future.`
 
 ## writing tools
 - [Jounce](https://www.jounce.ai/?ref=awe50meAI) `Free AI copywriting and artwork for marketers`
@@ -88,6 +93,7 @@
 - [Bearly](https://bearly.ai/?ref=awe50meAI) `Bearly makes you 10x faster by adding the state of the art AI to your workflow. Reading, writing, and content creation all one shortcut away.`
 - [StealthGPT](https://www.stealthgpt.ai/?ref=awe50meAI) `Write Using AI, Get Human Written Results`
 - [resume worded](https://resumeworded.com/?ref=awe50meAI) `Improve your resume and LinkedIn profile`
+- [detangle](https://detangle.ai/) `Summarize any video, audio or text`
 
 ## video tools
 - [Deepbrain ai - ai studios](https://www.deepbrain.io/aistudios?ref=awe50meAI) `Create AI-generated videos using basic text instantly`
@@ -155,6 +161,7 @@
 - [VoicePen](https://voicepen.ai/?ref=awe50meAI) `Audio to Blog Post, in minutes`
 - [podcastle](https://podcastle.ai/?ref=awe50meAI) `The One-Stop Shop for Broadcast Storytelling`
 - [beatoven.ai](https://www.beatoven.ai/?ref=awe50meAI) `Create customisable royalty free music that elevates your story`
+- [altered](https://www.altered.ai/) `Professional Ai Voice Changer Software and Services | Altered`
 
 ## images tools
 - [letsenhance](https://letsenhance.io/?ref=awe50meAI) `Automatic AI editor to increase image resolution without losing quality`
@@ -277,6 +284,7 @@
 - [Lightning AI](https://lightning.ai/?ref=awe50meAI) `The platform for teams to build AI, without the headaches`
 - [CommitAI](https://github.com/fengyiqicoder/CommitAi-Free?ref=awe50meAI) `Let AI Handle Your Commit Messages`
 - [Codewand](https://www.codewand.co/) `Use GPT-4 to build software with natural language.`
+- [kopylot](https://github.com/avsthiago/kopylot) `An AI-Powered assistant for Kubernetes developers`
 
 ## color tools
 - [colormind](http://colormind.io/?ref=awe50meAI) `Colormind - the AI powered color palette generator`
@@ -338,3 +346,5 @@
 - [June](https://www.june.so/ai?ref=awe50meAI) `A new way to do product analytics`
 - [Avoma](https://www.avoma.com/v3?ref=awe50meAI) `AI Meeting assistance and collaboration, reimagined.`
 - [SpeakAide](https://speakaide.com/?ref=awe50meAI) `Take your public speaking to the next level with SpeakAide's AI script writing and teleprompter tool.`
+- [PowerMode](https://powermodeai.com/) `PowerMode is your AI co-founder that will help you ideate and pitch your startup.`
+- [Talk to Books](https://books.google.com/talktobooks/) `Browse passages from books using experimental AI`
