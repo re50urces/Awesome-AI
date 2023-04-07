@@ -23,6 +23,7 @@
 - [Chatbase](https://www.chatbase.co/?ref=awe50meAI) `Train ChatGPT on your data and add it to your website`
 - [Huberman AI](https://huberman.rile.yt/?ref=awe50meAI) `Use AI to explore the wisdom of The Huberman Lab.`
 - [ai intern](https://aiintern.io/?ref=awe50meAI) `With AI Intern skip the grind and focus on the big picture.`
+- [Chatbot UI](https://www.chatbotui.com/) `Chatbot UI is an open source clone of OpenAI's ChatGPT UI.`
 
 ## writing tools
 - [Jounce](https://www.jounce.ai/?ref=awe50meAI) `Free AI copywriting and artwork for marketers`
@@ -275,6 +276,7 @@
 - [Ghostwriter](https://replit.com/site/ghostwriter/?ref=awe50meAI) `Meet Ghostwriter, your partner in code.`
 - [Lightning AI](https://lightning.ai/?ref=awe50meAI) `The platform for teams to build AI, without the headaches`
 - [CommitAI](https://github.com/fengyiqicoder/CommitAi-Free?ref=awe50meAI) `Let AI Handle Your Commit Messages`
+- [Codewand](https://www.codewand.co/) `Use GPT-4 to build software with natural language.`
 
 ## color tools
 - [colormind](http://colormind.io/?ref=awe50meAI) `Colormind - the AI powered color palette generator`
