@@ -23,12 +23,14 @@
 - [Chatbase](https://www.chatbase.co/?ref=awe50meAI) `Train ChatGPT on your data and add it to your website`
 - [Huberman AI](https://huberman.rile.yt/?ref=awe50meAI) `Use AI to explore the wisdom of The Huberman Lab.`
 - [ai intern](https://aiintern.io/?ref=awe50meAI) `With AI Intern skip the grind and focus on the big picture.`
-- [Chatbot UI](https://www.chatbotui.com/) `Chatbot UI is an open source clone of OpenAI's ChatGPT UI.`
-- [Channel](https://www.usechannel.com/) `Ask any data question, in plain English.`
+- [Chatbot UI](https://www.chatbotui.com/?ref=awe50meAI) `Chatbot UI is an open source clone of OpenAI's ChatGPT UI.`
+- [Channel](https://www.usechannel.com/?ref=awe50meAI) `Ask any data question, in plain English.`
+- [wonderchat](https://wonderchat.io/?ref=awe50meAI) `Instantly build an AI chatbot with your knowledge base`
 
 ## All-in-one tools
-- [airOps](https://www.airops.com/) `Deploy task-specific AI where you need it most with AirOps Apps. Install and configure in minutes, scalable, and available everywhere.`
-- [Hugging Face](https://huggingface.co/) `The AI community building the future.`
+- [airOps](https://www.airops.com/?ref=awe50meAI) `Deploy task-specific AI where you need it most with AirOps Apps. Install and configure in minutes, scalable, and available everywhere.`
+- [Hugging Face](https://huggingface.co/?ref=awe50meAI) `The AI community building the future.`
+- [fotor](https://www.fotor.com/?ref=awe50meAI) `Online photo editor for everyone`
 
 ## writing tools
 - [Jounce](https://www.jounce.ai/?ref=awe50meAI) `Free AI copywriting and artwork for marketers`
@@ -93,7 +95,9 @@
 - [Bearly](https://bearly.ai/?ref=awe50meAI) `Bearly makes you 10x faster by adding the state of the art AI to your workflow. Reading, writing, and content creation all one shortcut away.`
 - [StealthGPT](https://www.stealthgpt.ai/?ref=awe50meAI) `Write Using AI, Get Human Written Results`
 - [resume worded](https://resumeworded.com/?ref=awe50meAI) `Improve your resume and LinkedIn profile`
-- [detangle](https://detangle.ai/) `Summarize any video, audio or text`
+- [detangle](https://detangle.ai/?ref=awe50meAI) `Summarize any video, audio or text`
+- [melville](https://usemelville.com/?ref=awe50meAI) `Create amazing show notes 10x faster with AI.`
+- [Swell AI](https://www.swellai.com/?ref=awe50meAI) `Automate writing podcast show notes, articles, social posts and more.`
 
 ## video tools
 - [Deepbrain ai - ai studios](https://www.deepbrain.io/aistudios?ref=awe50meAI) `Create AI-generated videos using basic text instantly`
@@ -130,6 +134,7 @@
 - [Genmo](https://alpha.genmo.ai/?ref=awe50meAI) `Go beyond 2D. Create videos from text with AI.`
 - [riverside](https://riverside.fm/?ref=awe50meAI) `Automatically transcribe your audio and video recordings in seconds with our AI-powered technology. It's accurate, reliable, and supports more than 100 languages.`
 - [Zoomscape.ai](https://zoomscape.ai/?ref=awe50meAI) `Create stunning Zoom backgrounds with AI`
+- [Morise.ai](https://morise.ai/?ref=awe50meAI) `You make the videos, AI will make them go viral`
 
 ## audio tools
 - [Adobe Podcast](https://podcast.adobe.com/?ref=awe50meAI) `AI-powered audio recording and editing, all on the web`
@@ -161,7 +166,21 @@
 - [VoicePen](https://voicepen.ai/?ref=awe50meAI) `Audio to Blog Post, in minutes`
 - [podcastle](https://podcastle.ai/?ref=awe50meAI) `The One-Stop Shop for Broadcast Storytelling`
 - [beatoven.ai](https://www.beatoven.ai/?ref=awe50meAI) `Create customisable royalty free music that elevates your story`
-- [altered](https://www.altered.ai/) `Professional Ai Voice Changer Software and Services | Altered`
+- [altered](https://www.altered.ai/?ref=awe50meAI) `Professional Ai Voice Changer Software and Services | Altered`
+- [Mubert](https://mubert.com/?ref=awe50meAI) `Human AI Generative Music For your video content, podcasts and apps`
+- [listener.fm](https://www.listener.fm/?ref=awe50meAI) `Elevate Your Podcast Post-Production Process with AI-Generated Titles, Descriptions, and Show Notes`
+- [Shownotes](https://www.shownotes.io/?ref=awe50meAI) `Summarize a podcast episode with help from chatGPT.`
+- [Mood](https://usemood.us/?ref=awe50meAI) `Amplify your podcast to 1 billion audiences with generative AI.`
+- [Cleanvoice](https://cleanvoice.ai/?ref=awe50meAI) `Cleanvoice is an artificial intelligence which removes filler sounds, stuttering and mouth sounds from your podcast or audio recording`
+- [snipd - AI Podcast Summaries](https://www.snipd.com/ai-podcast-summaries/?ref=awe50meAI) `Introducing Snipd's AI-generated Podcast  Summaries`
+- [koolio.ai](https://www.koolio.ai/?ref=awe50meAI) `the future of podcast creation.`
+- [sumly.ai](https://www.sumly.ai/?ref=awe50meAI) `AI-generated podcast summaries delivered straight to your inbox.`
+- [podsqueeze](https://podsqueeze.com/?ref=awe50meAI) `Generate shownotes, timestamps, newsletters and more for your podcast with one click!`
+- [Dubb](https://www.dubb.media/?ref=awe50meAI) `An automated, easy-to-use assistant that generates marketing content for your podcast. Dubb turns your podcast episodes into show notes, social media posts, newsletter content, transcripts, and more.`
+- [deciphr](https://www.deciphr.ai/?ref=awe50meAI) `Powered by deep AI, Deciphr timestamps and summarizes your entire podcast transcript for you. In less time than it takes to make coffee. And it's completely free.`
+- [type studio](https://www.typestudio.co/?ref=awe50meAI) `Type Studio is a fast, simple, and joyful way to edit and grow your podcasts, streams, and interviews.`
+- [steosvoice](https://cybervoice.io/en/?ref=awe50meAI) `Your High-Quality Neural Voice AI`
+- [fathom](https://hello.fathom.fm/?ref=awe50meAI) `Discover podcasts at the speed of thought with mind-blowing AI-powered Search, Transcripts, Chapters, Clipping, and Highlights.`
 
 ## images tools
 - [letsenhance](https://letsenhance.io/?ref=awe50meAI) `Automatic AI editor to increase image resolution without losing quality`
@@ -264,6 +283,7 @@
 - [PicWish](https://picwish.com/?ref=awe50meAI) `PicWish AI Photo Editor | Free Online Photo Editing Tools`
 - [Figma AI](https://www.figmaai.io/?ref=awe50meAI) `Integrate GPT Chat into your Figma workflow`
 - [DreamStudio](https://beta.dreamstudio.ai/?ref=awe50meAI) `Tap into the power of our generative text-to-image suite to create new and unique designs.`
+- [Leonardo.Ai](https://leonardo.ai/?ref=awe50meAI) `Create stunning game assets with AI.`
 
 ## Coding tools
 - [GitHub copilot](https://github.com/features/copilot/?ref=awe50meAI) `Your AI pair programmer`
@@ -274,8 +294,8 @@
 - [SourceAI](https://sourceai.dev/?ref=awe50meAI) `Ai-Powered Code Generator`
 - [Microapp](https://www.microapp.ai/build) `AI-Powered Component Generator`
 - [GitFluence](https://www.gitfluence.com/?ref=awe50meAI) `Find the Git Command You Need Now!`
-- [bloop.](https://bloop.ai/) `bloop is a code-search engine that uses GPT-4 to answer questions about your code. Search both your local and remote repositories with natural language, regex and filtered queries.`
-- [codium](https://www.codium.ai/) `Generating meaningful tests for busy devs`
+- [bloop.](https://bloop.ai/?ref=awe50meAI) `bloop is a code-search engine that uses GPT-4 to answer questions about your code. Search both your local and remote repositories with natural language, regex and filtered queries.`
+- [codium](https://www.codium.ai/?ref=awe50meAI) `Generating meaningful tests for busy devs`
 - [drenaline](https://useadrenaline.com/app?ref=awe50meAI) `An AI-powered debugger` - [GitHub repository](https://github.com/shobrook/adrenaline/)
 - [AI CODE](https://aicode-weld.vercel.app/?ref=awe50meAI) `Turn text into HTML&CSS with AI`
 - [Stunning.so](https://stunning.so/?ref=awe50meAI) `Build websites with AI.i`
@@ -283,8 +303,8 @@
 - [Ghostwriter](https://replit.com/site/ghostwriter/?ref=awe50meAI) `Meet Ghostwriter, your partner in code.`
 - [Lightning AI](https://lightning.ai/?ref=awe50meAI) `The platform for teams to build AI, without the headaches`
 - [CommitAI](https://github.com/fengyiqicoder/CommitAi-Free?ref=awe50meAI) `Let AI Handle Your Commit Messages`
-- [Codewand](https://www.codewand.co/) `Use GPT-4 to build software with natural language.`
-- [kopylot](https://github.com/avsthiago/kopylot) `An AI-Powered assistant for Kubernetes developers`
+- [Codewand](https://www.codewand.co/?ref=awe50meAI) `Use GPT-4 to build software with natural language.`
+- [kopylot](https://github.com/avsthiago/kopylot?ref=awe50meAI) `An AI-Powered assistant for Kubernetes developers`
 
 ## color tools
 - [colormind](http://colormind.io/?ref=awe50meAI) `Colormind - the AI powered color palette generator`
@@ -346,5 +366,7 @@
 - [June](https://www.june.so/ai?ref=awe50meAI) `A new way to do product analytics`
 - [Avoma](https://www.avoma.com/v3?ref=awe50meAI) `AI Meeting assistance and collaboration, reimagined.`
 - [SpeakAide](https://speakaide.com/?ref=awe50meAI) `Take your public speaking to the next level with SpeakAide's AI script writing and teleprompter tool.`
-- [PowerMode](https://powermodeai.com/) `PowerMode is your AI co-founder that will help you ideate and pitch your startup.`
-- [Talk to Books](https://books.google.com/talktobooks/) `Browse passages from books using experimental AI`
+- [PowerMode](https://powermodeai.com/?ref=awe50meAI) `PowerMode is your AI co-founder that will help you ideate and pitch your startup.`
+- [Talk to Books](https://books.google.com/talktobooks/?ref=awe50meAI) `Browse passages from books using experimental AI`
+- [SheetAI](https://www.sheetai.app/?ref=awe50meAI) `AI inside Spreadsheets`
+- [Tripnotes](https://tripnotes.ai/app/?ref=awe50meAI) `Intelligent Travel Planner`
