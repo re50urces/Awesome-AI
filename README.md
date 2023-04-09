@@ -370,3 +370,5 @@
 - [Talk to Books](https://books.google.com/talktobooks/?ref=awe50meAI) `Browse passages from books using experimental AI`
 - [SheetAI](https://www.sheetai.app/?ref=awe50meAI) `AI inside Spreadsheets`
 - [Tripnotes](https://tripnotes.ai/app/?ref=awe50meAI) `Intelligent Travel Planner`
+- [Decktopus AI](https://www.decktopus.com/?ref=awe50meAI) `World's #1 AI-Powered Presentation Generator`
+- [Banter AI](https://www.banterai.app/?ref=awe50meAI) `Call up your favorite celebrities Scary realistic AI`
