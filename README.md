@@ -31,6 +31,7 @@
 - [airOps](https://www.airops.com/?ref=awe50meAI) `Deploy task-specific AI where you need it most with AirOps Apps. Install and configure in minutes, scalable, and available everywhere.`
 - [Hugging Face](https://huggingface.co/?ref=awe50meAI) `The AI community building the future.`
 - [fotor](https://www.fotor.com/?ref=awe50meAI) `Online photo editor for everyone`
+- [Kittl](https://www.kittl.com/?ref=awe50meAI) `Speed up your workflows with Kittl's AI-powered design tools and gain instant access to a ton of stunning illustrations, fonts, photos, icons, and textures.`
 
 ## writing tools
 - [Jounce](https://www.jounce.ai/?ref=awe50meAI) `Free AI copywriting and artwork for marketers`
@@ -135,6 +136,7 @@
 - [riverside](https://riverside.fm/?ref=awe50meAI) `Automatically transcribe your audio and video recordings in seconds with our AI-powered technology. It's accurate, reliable, and supports more than 100 languages.`
 - [Zoomscape.ai](https://zoomscape.ai/?ref=awe50meAI) `Create stunning Zoom backgrounds with AI`
 - [Morise.ai](https://morise.ai/?ref=awe50meAI) `You make the videos, AI will make them go viral`
+- [Rask](https://www.rask.ai/?ref=awe50meAI) `Localize videos. Fast. Fun. With AI`
 
 ## audio tools
 - [Adobe Podcast](https://podcast.adobe.com/?ref=awe50meAI) `AI-powered audio recording and editing, all on the web`
@@ -284,6 +286,7 @@
 - [Figma AI](https://www.figmaai.io/?ref=awe50meAI) `Integrate GPT Chat into your Figma workflow`
 - [DreamStudio](https://beta.dreamstudio.ai/?ref=awe50meAI) `Tap into the power of our generative text-to-image suite to create new and unique designs.`
 - [Leonardo.Ai](https://leonardo.ai/?ref=awe50meAI) `Create stunning game assets with AI.`
+- [Spline AI](https://spline.design/ai/?ref=awe50meAI) `The power of AI is coming to the 3rd dimension. Generate objects, animations, and textures using prompts.`
 
 ## Coding tools
 - [GitHub copilot](https://github.com/features/copilot/?ref=awe50meAI) `Your AI pair programmer`
