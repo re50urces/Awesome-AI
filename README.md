@@ -33,6 +33,10 @@
 - [fotor](https://www.fotor.com/?ref=awe50meAI) `Online photo editor for everyone`
 - [Kittl](https://www.kittl.com/?ref=awe50meAI) `Speed up your workflows with Kittl's AI-powered design tools and gain instant access to a ton of stunning illustrations, fonts, photos, icons, and textures.`
 
+## AI Search Engine
+- [phind](https://www.phind.com/?ref=awe50meAI) `The AI search engine for developers.`
+- [you](https://you.com/?ref=awe50meAI) `The AI Search Engine You Control`
+
 ## writing tools
 - [Jounce](https://www.jounce.ai/?ref=awe50meAI) `Free AI copywriting and artwork for marketers`
 - [writerly](https://writerly.ai/?ref=awe50meAI) `Writerly artificial intelligence (AI) helps the most innovative businesses, teams, and creators produce hyper-relevant, SEO optimized content in seconds.`
@@ -99,6 +103,7 @@
 - [detangle](https://detangle.ai/?ref=awe50meAI) `Summarize any video, audio or text`
 - [melville](https://usemelville.com/?ref=awe50meAI) `Create amazing show notes 10x faster with AI.`
 - [Swell AI](https://www.swellai.com/?ref=awe50meAI) `Automate writing podcast show notes, articles, social posts and more.`
+- [Scalenut](https://www.scalenut.com/?ref=awe50meAI) `Scalenut: AI powered SEO and Content Marketing Platform`
 
 ## video tools
 - [Deepbrain ai - ai studios](https://www.deepbrain.io/aistudios?ref=awe50meAI) `Create AI-generated videos using basic text instantly`
@@ -287,6 +292,7 @@
 - [DreamStudio](https://beta.dreamstudio.ai/?ref=awe50meAI) `Tap into the power of our generative text-to-image suite to create new and unique designs.`
 - [Leonardo.Ai](https://leonardo.ai/?ref=awe50meAI) `Create stunning game assets with AI.`
 - [Spline AI](https://spline.design/ai/?ref=awe50meAI) `The power of AI is coming to the 3rd dimension. Generate objects, animations, and textures using prompts.`
+- [NVIDIA Canvas](https://www.nvidia.com/en-in/studio/canvas/?ref=awe50meAI) `Use AI to turn simple brushstrokes into realistic landscape images. Create backgrounds quickly, or speed up your concept exploration so you can spend more time visualizing ideas.`
 
 ## Coding tools
 - [GitHub copilot](https://github.com/features/copilot/?ref=awe50meAI) `Your AI pair programmer`
