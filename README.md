@@ -26,7 +26,8 @@
 - [Chatbot UI](https://www.chatbotui.com/?ref=awe50meAI) `Chatbot UI is an open source clone of OpenAI's ChatGPT UI.`
 - [Channel](https://www.usechannel.com/?ref=awe50meAI) `Ask any data question, in plain English.`
 - [wonderchat](https://wonderchat.io/?ref=awe50meAI) `Instantly build an AI chatbot with your knowledge base`
-
+- [Monica](https://monica.im/?ref=awe50meAI) `YOUR CHATGPT POWERED AI ASSISTANT ON ALL WEBSITES`
+- [alicent](https://alicent.ai/?ref=awe50meAI) `A Gorgeous Extension for ChatGPT`
 ## All-in-one tools
 - [airOps](https://www.airops.com/?ref=awe50meAI) `Deploy task-specific AI where you need it most with AirOps Apps. Install and configure in minutes, scalable, and available everywhere.`
 - [Hugging Face](https://huggingface.co/?ref=awe50meAI) `The AI community building the future.`
@@ -104,6 +105,9 @@
 - [melville](https://usemelville.com/?ref=awe50meAI) `Create amazing show notes 10x faster with AI.`
 - [Swell AI](https://www.swellai.com/?ref=awe50meAI) `Automate writing podcast show notes, articles, social posts and more.`
 - [Scalenut](https://www.scalenut.com/?ref=awe50meAI) `Scalenut: AI powered SEO and Content Marketing Platform`
+- [Sheet+](https://sheetplus.ai/) `Write Google Sheets & Excel formulas 10x faster with AI`
+- [FinalScout](https://finalscout.com/?ref=awe50meAI) `ChatGPT-Powered Email Finding & Outreach at Scale`
+- [HyperWrite](https://www.hyperwriteai.com/?ref=awe50meAI) `Your personal AI writing assistant`
 
 ## video tools
 - [Deepbrain ai - ai studios](https://www.deepbrain.io/aistudios?ref=awe50meAI) `Create AI-generated videos using basic text instantly`
@@ -142,6 +146,7 @@
 - [Zoomscape.ai](https://zoomscape.ai/?ref=awe50meAI) `Create stunning Zoom backgrounds with AI`
 - [Morise.ai](https://morise.ai/?ref=awe50meAI) `You make the videos, AI will make them go viral`
 - [Rask](https://www.rask.ai/?ref=awe50meAI) `Localize videos. Fast. Fun. With AI`
+- [HeyGen](https://www.heygen.com/) `CREATE ENGAGING VIDEOS 10X FASTER WITH AI`
 
 ## audio tools
 - [Adobe Podcast](https://podcast.adobe.com/?ref=awe50meAI) `AI-powered audio recording and editing, all on the web`
@@ -381,3 +386,4 @@
 - [Tripnotes](https://tripnotes.ai/app/?ref=awe50meAI) `Intelligent Travel Planner`
 - [Decktopus AI](https://www.decktopus.com/?ref=awe50meAI) `World's #1 AI-Powered Presentation Generator`
 - [Banter AI](https://www.banterai.app/?ref=awe50meAI) `Call up your favorite celebrities Scary realistic AI`
+- [tweetmonk_](https://tweetmonk.com/?ref=awe50meAI0 `Maximize your Twitter reach with our intelligent editor - create and schedule engaging tweets and threads to boost your growth.`
