@@ -28,6 +28,7 @@
 - [wonderchat](https://wonderchat.io/?ref=awe50meAI) `Instantly build an AI chatbot with your knowledge base`
 - [Monica](https://monica.im/?ref=awe50meAI) `YOUR CHATGPT POWERED AI ASSISTANT ON ALL WEBSITES`
 - [alicent](https://alicent.ai/?ref=awe50meAI) `A Gorgeous Extension for ChatGPT`
+
 ## All-in-one tools
 - [airOps](https://www.airops.com/?ref=awe50meAI) `Deploy task-specific AI where you need it most with AirOps Apps. Install and configure in minutes, scalable, and available everywhere.`
 - [Hugging Face](https://huggingface.co/?ref=awe50meAI) `The AI community building the future.`
@@ -76,7 +77,7 @@
 - [GetGenie](https://getgenie.ai/?ref=awe50meAI) `The WordPress AI SuperApp for Content & SEO | GetGenie`
 - [Article Forge](https://www.articleforge.com/?ref=awe50meAI) `High quality, AI content generator - Article Forge`
 - [ProWritingAid](https://prowritingaid.com/?ref=awe50meAI) `ProWritingAid: AI Writing Assistant Software`
-- [QuillBot](https://quillbotycom/?ref=awe50meAI) `QuillBot's AI-powered paraphrasing tool will enhance your writing`
+- [QuillBot](https://quillbot.com/?ref=awe50meAI) `QuillBot's AI-powered paraphrasing tool will enhance your writing`
 - [WriterZen](https://writerzen.net/?ref=awe50meAI) `Proficient SEO Content Workflow Software`
 - [Writecream](https://www.writecream.com/?ref=awe50meAI) `Writecream - Best AI Writer & Content Generator - Writecream`
 - [outranking](https://www.outranking.io/?ref=awe50meAI) `Outranking helps content teams achieve predictable content success with AI assistance.`
@@ -108,6 +109,8 @@
 - [Sheet+](https://sheetplus.ai/) `Write Google Sheets & Excel formulas 10x faster with AI`
 - [FinalScout](https://finalscout.com/?ref=awe50meAI) `ChatGPT-Powered Email Finding & Outreach at Scale`
 - [HyperWrite](https://www.hyperwriteai.com/?ref=awe50meAI) `Your personal AI writing assistant`
+- [maker.ai](https://maker.ai/?ref=awe50meAI) `Generate written & visual content in seconds through cutting-edge artificial intelligence. Make magical conten`
+- [Thundercontent](https://thundercontent.com/?ref=awe50meAI) `Create any content with Artificial Intelligence in minutes`
 
 ## video tools
 - [Deepbrain ai - ai studios](https://www.deepbrain.io/aistudios?ref=awe50meAI) `Create AI-generated videos using basic text instantly`
@@ -217,6 +220,7 @@
 - [Nero AI](https://ai.nero.com/?ref=awe50meAI) `Enlarge your images without losing quality, automatically detect thousands of images and categorize your albums.`
 - [removal.ai](https://removal.ai/?ref=awe50meAI) `Remove Background From Image for Free Using Artificial Intelligence`
 - [ZMO.AI](https://www.zmo.ai/background-ai/?ref=awe50meAI) `Background Generator & Remover | Background AI`
+- [Stable Diffusion](https://stablediffusionweb.com/?ref=awe50meAI) `Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds.`
 
 ## commerce & marketing tools
 - [syte ai](https://www.syte.ai/?ref=awe50meAI) `The World's #1 Product Discovery Platform for eCommerce`
