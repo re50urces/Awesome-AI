@@ -28,12 +28,14 @@
 - [wonderchat](https://wonderchat.io/?ref=awe50meAI) `Instantly build an AI chatbot with your knowledge base`
 - [Monica](https://monica.im/?ref=awe50meAI) `YOUR CHATGPT POWERED AI ASSISTANT ON ALL WEBSITES`
 - [alicent](https://alicent.ai/?ref=awe50meAI) `A Gorgeous Extension for ChatGPT`
+- [godmode](https://godmode.space/?ref=awe50meAI)
 
 ## All-in-one tools
 - [airOps](https://www.airops.com/?ref=awe50meAI) `Deploy task-specific AI where you need it most with AirOps Apps. Install and configure in minutes, scalable, and available everywhere.`
 - [Hugging Face](https://huggingface.co/?ref=awe50meAI) `The AI community building the future.`
 - [fotor](https://www.fotor.com/?ref=awe50meAI) `Online photo editor for everyone`
 - [Kittl](https://www.kittl.com/?ref=awe50meAI) `Speed up your workflows with Kittl's AI-powered design tools and gain instant access to a ton of stunning illustrations, fonts, photos, icons, and textures.`
+- [clipdrop](https://clipdrop.co/?ref=awe50meAI) `Create stunning visuals in seconds`
 
 ## AI Search Engine
 - [phind](https://www.phind.com/?ref=awe50meAI) `The AI search engine for developers.`
@@ -137,7 +139,6 @@
 - [synthesys](https://synthesys.io/ai-video/?ref=awe50meAI) `Transform Your Text to a Realistic Virtual Video`
 - [beey](https://www.beey.io/en/?ref=awe50meAI) `Beey.io – Beey automatically converts your audio and video files to text.`
 - [papercup](https://www.papercup.com/?ref=awe50meAI) `AI Powered Dubbing`
-- [clipdrop](https://clipdrop.co/?ref=awe50meAI) `Create stunning visuals in seconds`
 - [Friday](https://www.heyfriday.ai/home/?ref=awe50meAI) `Less Writing, More Inspiration.`
 - [Movio](https://www.movio.la/?ref=awe50meAI) `Create Engaging Videos 10x Faster with AI`
 - [clip.fm](https://www.clip.fm/?ref=awe50meAI) `Turn podcasts into viral clips with one click.`
@@ -390,4 +391,5 @@
 - [Tripnotes](https://tripnotes.ai/app/?ref=awe50meAI) `Intelligent Travel Planner`
 - [Decktopus AI](https://www.decktopus.com/?ref=awe50meAI) `World's #1 AI-Powered Presentation Generator`
 - [Banter AI](https://www.banterai.app/?ref=awe50meAI) `Call up your favorite celebrities Scary realistic AI`
-- [tweetmonk_](https://tweetmonk.com/?ref=awe50meAI0 `Maximize your Twitter reach with our intelligent editor - create and schedule engaging tweets and threads to boost your growth.`
+- [tweetmonk_](https://tweetmonk.com/?ref=awe50meAI) `Maximize your Twitter reach with our intelligent editor - create and schedule engaging tweets and threads to boost your growth.`
+- [AgentGPT](https://agentgpt.reworkd.ai/?ref=awe50meAI) `Assemble, configure, and deploy autonomous AI Agents in your browser.`
