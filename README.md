@@ -210,6 +210,7 @@
 | [type studio](https://www.typestudio.co/?ref=awe50meAI) |     Type Studio is a fast, simple, and joyful way to edit and grow your podcasts, streams, and interviews.  |
 | [steosvoice](https://cybervoice.io/en/?ref=awe50meAI) |     Your High-Quality Neural Voice AI  |
 | [fathom](https://hello.fathom.fm/?ref=awe50meAI) |     Discover podcasts at the speed of thought with mind-blowing AI-powered Search, Transcripts, Chapters, Clipping, and Highlights.  |
+| [wavtool](https://wavtool.com/?ref=awe50meAI) | AI-accelerated music production. Make high-quality music with an AI assistant. In the browser, for free. |
 
 ## images tools
 | Awesome | Description |
@@ -237,6 +238,7 @@
 | [removal.ai](https://removal.ai/?ref=awe50meAI) |     Remove Background From Image for Free Using Artificial Intelligence  |
 | [ZMO.AI](https://www.zmo.ai/background-ai/?ref=awe50meAI) |     Background Generator & Remover | Background AI  |
 | [Stable Diffusion](https://stablediffusionweb.com/?ref=awe50meAI) |     Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds.  |
+| [Playground AI](https://playgroundai.com/?ref=awe50meAI) | Create any image from your imagination |
 
 ## commerce & marketing tools
 | Awesome | Description |
@@ -260,6 +262,8 @@
 | [Robin](https://www.hellorobin.ai/?ref=awe50meAI) |     The Future of Sales Automation.  |
 | [cody](https://www.meetcody.ai/?ref=awe50meAI) |     Cody is an intelligent AI assistant like ChatGPT – with the added benefit of being able to train it on your business, your team, your processes, and your clients with your own knowledge base. Use Cody to support your team, answer questions, help with creative work, troubleshoot issues, and brainstorm ideas.  |
 | [Tugan.ai](https://www.tugan.ai/?ref=awe50meAI) |     Enter a URL or TOPIC To Generate Your Marketing Emails Instantly With AI  |
+| [Marketing Co-pilot AI](https://marketingcopilotai.com/?ref=awe50meAI) | The Better Way to Do Marketing |
+| [Domains GPT](https://oneword.domains/domains-gpt/?ref=awe50meAI) | Generate brandable & memorable domain names using AI. Powered by OpenAI and Vercel Edge Functions. |
 
 ## design tools
 | Awesome | Description |
@@ -321,7 +325,9 @@
 | [DreamStudio](https://beta.dreamstudio.ai/?ref=awe50meAI) |     Tap into the power of our generative text-to-image suite to create new and unique designs.  |
 | [Leonardo.Ai](https://leonardo.ai/?ref=awe50meAI) |     Create stunning game assets with AI.  |
 | [Spline AI](https://spline.design/ai/?ref=awe50meAI) |     The power of AI is coming to the 3rd dimension. Generate objects, animations, and textures using prompts.  |
-| [NVIDIA Canvas](https://www.nvidia.com/en-in/studio/canvas/?ref=awe50meAI) |     Use AI to turn simple brushstrokes into realistic landscape images. Create backgrounds quickly, or speed up your concept exploration so you can spend more time visualizing ideas.  |
+| [NVIDIA Canvas](https://www.nvidia.com/en-us/studio/canvas/?ref=awe50meAI) |     Use AI to turn simple brushstrokes into realistic landscape images. Create backgrounds quickly, or speed up your concept exploration so you can spend more time visualizing ideas.  |
+| [Thumbly](https://thumbly.ai/?ref=awe50meAI) | Create YouTube thumbnails that get clicks |
+| [stylized](https://www.stylized.ai/?ref=awe50meAI) | A new way to take product photos. |
 
 ## Coding tools
 | Awesome | Description |
@@ -389,7 +395,7 @@
 | [addcontext](https://addcontext.xyz/?ref=awe50meAI) |     Context is your AI-powered assistant for learning from your favorite websites, e-books, podcasts, videos, and more.  |
 | [context](https://usecontext.io/?ref=awe50meAI) |     A brain for your business.  |
 | [tl;dv](https://tldv.io/?ref=awe50meAI) |     AI-Powered Meeting Recorder for Zoom and Google Meet - tl;dv  |
-| [ttree](https://ttree.ai/?ref=awe50meAI) |     A fulfilling job is one step closer to a more inspiring and purposeful life. At ttree, we build AI-powered technology to match talent with the best opportunities out there.  |
+| [ttree](https://ttree.ai/?ref=awe50meAI) | A fulfilling job is one step closer to a more inspiring and purposeful life. At ttree, we build AI-powered technology to match talent with the best opportunities out there.  |
 | [bardeen](https://www.bardeen.ai/?ref=awe50meAI) |     Automate your manual tasks  |
 | [HUMATA](https://www.humata.ai/?ref=awe50meAI) |     Ask AI anything about your files  |
 | [Onesta](https://www.onestafinance.com/?ref=awe50meAI) |     Take control of your Financial Future  |
@@ -419,3 +425,5 @@
 | [Banter AI](https://www.banterai.app/?ref=awe50meAI) |     Call up your favorite celebrities Scary realistic AI  |
 | [tweetmonk_](https://tweetmonk.com/?ref=awe50meAI) |     Maximize your Twitter reach with our intelligent editor - create and schedule engaging tweets and threads to boost your growth.  |
 | [AgentGPT](https://agentgpt.reworkd.ai/?ref=awe50meAI) |     Assemble, configure, and deploy autonomous AI Agents in your browser.  |
+| [Chatshape](https://www.chatshape.com/?ref=awe50meAI) | Build AI Chatbots from your content, remarkably fast |
+| [numerous.ai](https://numerous.ai/?ref=awe50meAI) | Extract text, categorize, generate formulas, and use ChatGPT right inside your spreadsheet |
