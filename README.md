@@ -211,6 +211,7 @@
 | [steosvoice](https://cybervoice.io/en/?ref=awe50meAI) |     Your High-Quality Neural Voice AI  |
 | [fathom](https://hello.fathom.fm/?ref=awe50meAI) |     Discover podcasts at the speed of thought with mind-blowing AI-powered Search, Transcripts, Chapters, Clipping, and Highlights.  |
 | [wavtool](https://wavtool.com/?ref=awe50meAI) | AI-accelerated music production. Make high-quality music with an AI assistant. In the browser, for free. |
+| [decoherence](https://www.decoherence.co/?ref=awe50meAI) | Make AI Music Videos |
 
 ## images tools
 | Awesome | Description |
@@ -427,3 +428,4 @@
 | [AgentGPT](https://agentgpt.reworkd.ai/?ref=awe50meAI) |     Assemble, configure, and deploy autonomous AI Agents in your browser.  |
 | [Chatshape](https://www.chatshape.com/?ref=awe50meAI) | Build AI Chatbots from your content, remarkably fast |
 | [numerous.ai](https://numerous.ai/?ref=awe50meAI) | Extract text, categorize, generate formulas, and use ChatGPT right inside your spreadsheet |
+| [glass.ai](https://www.glass.ai/?ref=awe50meAI)| Transforming sector and company research with AI |
