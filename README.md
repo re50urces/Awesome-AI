@@ -122,6 +122,7 @@
 | [HyperWrite](https://www.hyperwriteai.com/?ref=awe50meAI) |     Your personal AI writing assistant  |
 | [maker.ai](https://maker.ai/?ref=awe50meAI) |     Generate written & visual content in seconds through cutting-edge artificial intelligence. Make magical conten  |
 | [Thundercontent](https://thundercontent.com/?ref=awe50meAI) |     Create any content with Artificial Intelligence in minutes  |
+| [Chisel Editor](https://egonschiele.github.io/chisel-docs/) | Open source tool for writing books and stories |
 
 ## video tools
 | Awesome | Description |
