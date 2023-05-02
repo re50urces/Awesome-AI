@@ -354,6 +354,7 @@
 | [Codewand](https://www.codewand.co/?ref=awe50meAI) |     Use GPT-4 to build software with natural language.  |
 | [kopylot](https://github.com/avsthiago/kopylot?ref=awe50meAI) |     An AI-Powered assistant for Kubernetes developers  |
 | [Rix](https://hashnode.com/rix/?ref=awe50meAI) |     The Ultimate AI-Powered Chatbot for Developers  |
+| [Kodezi](https://kodezi.com/?ref=awe50meAI) |   Kodezi is a AI developer tool platform that auto-corrects your code in real-time. We’re on a mission to 10x productivity in programming!  |
 
 ## color tools
 | Awesome | Description |
