@@ -123,6 +123,8 @@
 | [HyperWrite](https://www.hyperwriteai.com/?ref=awe50meAI) |     Your personal AI writing assistant  |
 | [maker.ai](https://maker.ai/?ref=awe50meAI) |     Generate written & visual content in seconds through cutting-edge artificial intelligence. Make magical conten  |
 | [Thundercontent](https://thundercontent.com/?ref=awe50meAI) |     Create any content with Artificial Intelligence in minutes  |
+| [Autowrite app](https://autowrite.app/?ref=awe50meAI) |    Create Human-like Search Engine Optimized Articles|
+| [postGenius](https://www.postgeniusapp.com/?ref=awe50meAI) |    Generate your next post using chatGPT  |
 
 ## video tools
 | Awesome | Description |
@@ -163,6 +165,7 @@
 | [Morise.ai](https://morise.ai/?ref=awe50meAI) |     You make the videos, AI will make them go viral  |
 | [Rask](https://www.rask.ai/?ref=awe50meAI) |     Localize videos. Fast. Fun. With AI  |
 | [HeyGen](https://www.heygen.com/) |     CREATE ENGAGING VIDEOS 10X FASTER WITH AI  |
+| [2short.ai](https://2short.ai/?ref=awe50meAI) |     Elevate your YT content with AI generated shorts |
 
 ## audio tools
 | Awesome | Description |
