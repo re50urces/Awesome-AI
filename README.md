@@ -358,6 +358,7 @@
 | [kopylot](https://github.com/avsthiago/kopylot?ref=awe50meAI) |     An AI-Powered assistant for Kubernetes developers  |
 | [Rix](https://hashnode.com/rix/?ref=awe50meAI) |     The Ultimate AI-Powered Chatbot for Developers  |
 | [Kodezi](https://kodezi.com/?ref=awe50meAI) |   Kodezi is a AI developer tool platform that auto-corrects your code in real-time. We’re on a mission to 10x productivity in programming!  |
+| [Google Bard](https://bard.google.com/?ref=awe50meAI) |     Meet Bard: your creative and helpful collaborator, here to supercharge your imagination, boost your productivity, and bring your ideas to life.  |
 
 ## color tools
 | Awesome | Description |
