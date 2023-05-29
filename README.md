@@ -360,6 +360,7 @@
 | [Kodezi](https://kodezi.com/?ref=awe50meAI) |   Kodezi is a AI developer tool platform that auto-corrects your code in real-time. We’re on a mission to 10x productivity in programming!  |
 | [Google Bard](https://bard.google.com/?ref=awe50meAI) |     Meet Bard: your creative and helpful collaborator, here to supercharge your imagination, boost your productivity, and bring your ideas to life.  |
 | [Safurai](https://www.safurai.com/?ref=awe50meAI) |     Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.  |
+| [Wilco Sierra](https://trywilco.com/?ref=awe50meAI) |     A platform that generates engineering challenges for software engineers using AI.  |
 
 ## color tools
 | Awesome | Description |
