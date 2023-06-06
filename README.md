@@ -125,6 +125,8 @@
 | [Thundercontent](https://thundercontent.com/?ref=awe50meAI) |     Create any content with Artificial Intelligence in minutes  |
 | [Autowrite app](https://autowrite.app/?ref=awe50meAI) |    Create Human-like Search Engine Optimized Articles|
 | [postGenius](https://www.postgeniusapp.com/?ref=awe50meAI) |    Generate your next post using chatGPT  |
+| [postwise](https://postwise.ai/?ref=awe50meAI) |  Write Viral Tweets in Seconds |
+| [WriteSparkle](https://writesparkle.ai/?ref=awe50meAI) |  Discover AI-Driven Brilliance, streamline your content creation process by seamlessly integrating Writesparkle with your favorite tools and platforms.  |
 
 ## video tools
 | Awesome | Description |
@@ -166,6 +168,7 @@
 | [Rask](https://www.rask.ai/?ref=awe50meAI) |     Localize videos. Fast. Fun. With AI  |
 | [HeyGen](https://www.heygen.com/) |     CREATE ENGAGING VIDEOS 10X FASTER WITH AI  |
 | [2short.ai](https://2short.ai/?ref=awe50meAI) |     Elevate your YT content with AI generated shorts |
+| [Eightify](https://eightify.app/?ref=awe50meAI) |  YouTube summaries powered by ChatGPT |
 
 ## audio tools
 | Awesome | Description |
@@ -360,6 +363,7 @@
 | [Kodezi](https://kodezi.com/?ref=awe50meAI) |   Kodezi is a AI developer tool platform that auto-corrects your code in real-time. We’re on a mission to 10x productivity in programming!  |
 | [Google Bard](https://bard.google.com/?ref=awe50meAI) |     Meet Bard: your creative and helpful collaborator, here to supercharge your imagination, boost your productivity, and bring your ideas to life.  |
 | [Safurai](https://www.safurai.com/?ref=awe50meAI) |     Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.  |
+| [10Web](https://10web.io/?ref=awe50meAI) |    AI-Powered WordPress Platform  |
 
 ## color tools
 | Awesome | Description |
