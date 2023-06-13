@@ -32,6 +32,7 @@
 | [Monica](https://monica.im/?ref=awe50meAI) |     YOUR CHATGPT POWERED AI ASSISTANT ON ALL WEBSITES  |
 | [alicent](https://alicent.ai/?ref=awe50meAI) |     A Gorgeous Extension for ChatGPT  |
 | [godmode](https://godmode.space/?ref=awe50meAI) |   |
+| [PageLines](https://www.pagelines.com/?ref=awe50meAI) | AI Agents to Enhance Your Website |
 
 ## All-in-one tools
 | Awesome | Description |
