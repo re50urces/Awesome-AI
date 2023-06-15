@@ -364,6 +364,7 @@
 | [Google Bard](https://bard.google.com/?ref=awe50meAI) |     Meet Bard: your creative and helpful collaborator, here to supercharge your imagination, boost your productivity, and bring your ideas to life.  |
 | [Safurai](https://www.safurai.com/?ref=awe50meAI) |     Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.  |
 | [10Web](https://10web.io/?ref=awe50meAI) |    AI-Powered WordPress Platform  |
+| [codium](https://www.codium.ai/?ref=awe50meAI) |  Generating meaningful tests for busy devs  |
 
 ## color tools
 | Awesome | Description |
