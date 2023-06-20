@@ -172,55 +172,55 @@
 | [2short.ai](https://2short.ai/?ref=awe50meAI)                                 | Elevate your YouTube content with AI-generated shorts.                                                                                                                             |
 | [Eightify](https://eightify.app/?ref=awe50meAI)                               | YouTube summaries powered by ChatGPT.                                                                                                                                              |
 
-## audio tools
-| Awesome | Description |
-| --- | --- |
-| [Adobe Podcast](https://podcast.adobe.com/?ref=awe50meAI) |     AI-powered audio recording and editing, all on the web  |
-| [play ht](https://play.ht/?ref=awe50meAI) |     AI powered text to voice generator  |
-| [Murf AI](https://murf.ai/?ref=awe50meAI) |     AI Voice Generator: Versatile Text to Speech Software | Murf AI  |
-| [resemble ai](https://www.resemble.ai/?ref=awe50meAI) |     Your Complete Generative Voice AI Toolkit  |
-| [wellsaid](https://wellsaidlabs.com/?ref=awe50meAI) |     Convert text to voice in real time  |
-| [voicemod](https://www.voicemod.net/?ref=awe50meAI) |     Free Real-Time Voice Changer  |
-| [assemblyai](https://www.assemblyai.com/?ref=awe50meAI) |     Transcribe and understand audio with a single AI-powered API  |
-| [songdonkey](https://songdonkey.ai/?ref=awe50meAI) |     Extract vocals and instruments with artificial intelligence  |
-| [krisp ai](https://krisp.ai/?ref=awe50meAI) |     Krisp’s AI removes background voices, noises and echo from all your calls, giving you peace of mind.  |
-| [aloud](https://aloud.area120.google.com/?ref=awe50meAI) |     Aloud - dubbing for everyone  |
-| [listnr](https://www.listnr.tech/?ref=awe50meAI) |     Generate realistic Text to Speech (TTS) audio using our AI Voice Generator with the best synthetic voices.   |
-| [lovo](https://www.lovo.ai/?ref=awe50meAI) |     LOVO AI | Free Text to Speech Online with Natural Voices  |
-| [speechelo](https://speechelo.com/?ref=awe50meAI) |     Instantly Generate Voice from Text 100% Human-Sounding voiceover with only 3 clicks!  |
-| [bigspeak](https://bigspeak.ai/?ref=awe50meAI) |     Generate English speech from text  |
-| [speechify](https://speechify.com/?ref=awe50meAI) |     Power through docs, articles, PDFs, email — anything you read — by listening with our leading text-to-speech reader.  |
-| [sonix ai](https://sonix.ai/?ref=awe50meAI) |     Automatically convert audio and video to text: Fast, Accurate, & Affordable | Sonix  |
-| [speak ai](https://speakai.co/?ref=awe50meAI) |     Get transcription, research, data analysis and NLP software from Speak Ai  |
-| [rev com](https://www.rev.com/?ref=awe50meAI) |     Transcribe Speech to Text  |
-| [scribie](https://scribie.com/?ref=awe50meAI) |     Audio/Video Transcription | 99% Accuracy, 12-HR Turnaround  |
-| [verbit](https://verbit.ai/?ref=awe50meAI) |     Captioning & Transcription That’s Built for Business  |
-| [fireflies](https://fireflies.ai/?ref=awe50meAI) |     Automatically record and transcribe meetings  |
-| [otter](https://otter.ai/?ref=awe50meAI) |     Capture and share insights from your meetings  |
-| [voicera](https://www.voicera.co/?ref=awe50meAI) |     Give voice to your articles and blogs.  |
-| [revoicer](https://revoicer.com/?ref=awe50meAI) |     The most realistic AI Text To Speech online  |
-| [elevenlabs](https://beta.elevenlabs.io/?ref=awe50meAI) |     The most realistic and versatile AI speech software, ever. Eleven brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling.  |
-| [soundraw](https://soundraw.io/?ref=awe50meAI) |     AI Music Generator  |
-| [VoicePen](https://voicepen.ai/?ref=awe50meAI) |     Audio to Blog Post, in minutes  |
-| [podcastle](https://podcastle.ai/?ref=awe50meAI) |     The One-Stop Shop for Broadcast Storytelling  |
-| [beatoven.ai](https://www.beatoven.ai/?ref=awe50meAI) |     Create customisable royalty free music that elevates your story  |
-| [altered](https://www.altered.ai/?ref=awe50meAI) |     Professional Ai Voice Changer Software and Services | Altered  |
-| [Mubert](https://mubert.com/?ref=awe50meAI) |     Human AI Generative Music For your video content, podcasts and apps  |
-| [listener.fm](https://www.listener.fm/?ref=awe50meAI) |     Elevate Your Podcast Post-Production Process with AI-Generated Titles, Descriptions, and Show Notes  |
-| [Shownotes](https://www.shownotes.io/?ref=awe50meAI) |     Summarize a podcast episode with help from chatGPT.  |
-| [Mood](https://usemood.us/?ref=awe50meAI) |     Amplify your podcast to 1 billion audiences with generative AI.  |
-| [Cleanvoice](https://cleanvoice.ai/?ref=awe50meAI) |     Cleanvoice is an artificial intelligence which removes filler sounds, stuttering and mouth sounds from your podcast or audio recording  |
-| [snipd - AI Podcast Summaries](https://www.snipd.com/ai-podcast-summaries/?ref=awe50meAI) |     Introducing Snipd's AI-generated Podcast  Summaries  |
-| [koolio.ai](https://www.koolio.ai/?ref=awe50meAI) |     the future of podcast creation.  |
-| [sumly.ai](https://www.sumly.ai/?ref=awe50meAI) |     AI-generated podcast summaries delivered straight to your inbox.  |
-| [podsqueeze](https://podsqueeze.com/?ref=awe50meAI) |     Generate shownotes, timestamps, newsletters and more for your podcast with one click!  |
-| [Dubb](https://www.dubb.media/?ref=awe50meAI) |     An automated, easy-to-use assistant that generates marketing content for your podcast. Dubb turns your podcast episodes into show notes, social media posts, newsletter content, transcripts, and more.  |
-| [deciphr](https://www.deciphr.ai/?ref=awe50meAI) |     Powered by deep AI, Deciphr timestamps and summarizes your entire podcast transcript for you. In less time than it takes to make coffee. And it's completely free.  |
-| [type studio](https://www.typestudio.co/?ref=awe50meAI) |     Type Studio is a fast, simple, and joyful way to edit and grow your podcasts, streams, and interviews.  |
-| [steosvoice](https://cybervoice.io/en/?ref=awe50meAI) |     Your High-Quality Neural Voice AI  |
-| [fathom](https://hello.fathom.fm/?ref=awe50meAI) |     Discover podcasts at the speed of thought with mind-blowing AI-powered Search, Transcripts, Chapters, Clipping, and Highlights.  |
-| [wavtool](https://wavtool.com/?ref=awe50meAI) | AI-accelerated music production. Make high-quality music with an AI assistant. In the browser, for free. |
-| [decoherence](https://www.decoherence.co/?ref=awe50meAI) | Make AI Music Videos |
+### Audio Tools
+| Tool                                                                                      | Description                                                                                                                                                                                             |
+|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Adobe Podcast](https://podcast.adobe.com/?ref=awe50meAI)                                 | AI-powered audio recording and editing, all on the web.                                                                                                                                                 |
+| [play ht](https://play.ht/?ref=awe50meAI)                                                 | AI-powered text-to-voice generator.                                                                                                                                                                     |
+| [Murf AI](https://murf.ai/?ref=awe50meAI)                                                 | AI Voice Generator: Versatile Text-to-Speech Software - Murf AI.                                                                                                                                        |
+| [resemble ai](https://www.resemble.ai/?ref=awe50meAI)                                     | Your Complete Generative Voice AI Toolkit.                                                                                                                                                              |
+| [wellsaid](https://wellsaidlabs.com/?ref=awe50meAI)                                       | Convert text to voice in real-time.                                                                                                                                                                     |
+| [voicemod](https://www.voicemod.net/?ref=awe50meAI)                                       | Free Real-Time Voice Changer.                                                                                                                                                                           |
+| [assemblyai](https://www.assemblyai.com/?ref=awe50meAI)                                   | Transcribe and understand audio with a single AI-powered API.                                                                                                                                           |
+| [songdonkey](https://songdonkey.ai/?ref=awe50meAI)                                        | Extract vocals and instruments with Artificial Intelligence.                                                                                                                                            |
+| [krisp ai](https://krisp.ai/?ref=awe50meAI)                                               | Krisp's AI removes background voices, noises, and echo from all your calls, giving you peace of mind.                                                                                                   |
+| [aloud](https://aloud.area120.google.com/?ref=awe50meAI)                                  | Aloud - dubbing for everyone.                                                                                                                                                                           |
+| [listnr](https://www.listnr.tech/?ref=awe50meAI)                                          | Generate realistic Text-to-Speech (TTS) audio using our AI Voice Generator with the best synthetic voices.                                                                                              |
+| [lovo](https://www.lovo.ai/?ref=awe50meAI)                                                | LOVO AI - Free Text-to-Speech Online with Natural Voices.                                                                                                                                               |
+| [speechelo](https://speechelo.com/?ref=awe50meAI)                                         | Instantly Generate Voice from Text. 100% Human-Sounding voiceover with only 3 clicks!                                                                                                                   |
+| [bigspeak](https://bigspeak.ai/?ref=awe50meAI)                                            | Generate English speech from text.                                                                                                                                                                      |
+| [speechify](https://speechify.com/?ref=awe50meAI)                                         | Power through docs, articles, PDFs, email — anything you read — by listening with our leading text-to-speech reader.                                                                                    |
+| [sonix ai](https://sonix.ai/?ref=awe50meAI)                                               | Automatically convert audio and video to text: Fast, Accurate, & Affordable - Sonix.                                                                                                                    |
+| [speak ai](https://speakai.co/?ref=awe50meAI)                                             | Get transcription, research, data analysis, and NLP software from Speak Ai.                                                                                                                             |
+| [rev com](https://www.rev.com/?ref=awe50meAI)                                             | Transcribe Speech to Text.                                                                                                                                                                              |
+| [scribie](https://scribie.com/?ref=awe50meAI)                                             | Audio/Video Transcription - 99% Accuracy, 12-HR Turnaround.                                                                                                                                             |
+| [verbit](https://verbit.ai/?ref=awe50meAI)                                                | Captioning & Transcription That's Built for Business.                                                                                                                                                   |
+| [fireflies](https://fireflies.ai/?ref=awe50meAI)                                          | Automatically record and transcribe meetings.                                                                                                                                                           |
+| [otter](https://otter.ai/?ref=awe50meAI)                                                  | Capture and share insights from your meetings.                                                                                                                                                          |
+| [voicera](https://www.voicera.co/?ref=awe50meAI)                                          | Give voice to your articles and blogs.                                                                                                                                                                  |
+| [revoicer](https://revoicer.com/?ref=awe50meAI)                                           | The most realistic AI Text To Speech online.                                                                                                                                                            |
+| [elevenlabs](https://beta.elevenlabs.io/?ref=awe50meAI)                                   | The most realistic and versatile AI speech software ever. Eleven brings the most compelling, rich, and lifelike voices to creators and publishers seeking the ultimate tools for storytelling.          |
+| [soundraw](https://soundraw.io/?ref=awe50meAI)                                            | AI Music Generator.                                                                                                                                                                                     |
+| [VoicePen](https://voicepen.ai/?ref=awe50meAI)                                            | Audio to Blog Post, in minutes.                                                                                                                                                                         |
+| [podcastle](https://podcastle.ai/?ref=awe50meAI)                                          | The One-Stop Shop for Broadcast Storytelling.                                                                                                                                                           |
+| [beatoven.ai](https://www.beatoven.ai/?ref=awe50meAI)                                     | Create customizable royalty-free music that elevates your story.                                                                                                                                        |
+| [altered](https://www.altered.ai/?ref=awe50meAI)                                          | Professional AI Voice Changer Software and Services - Altered.                                                                                                                                          |
+| [Mubert](https://mubert.com/?ref=awe50meAI)                                               | Human AI Generative Music For your video content, podcasts, and apps.                                                                                                                                   |
+| [listener.fm](https://www.listener.fm/?ref=awe50meAI)                                     | Elevate Your Podcast Post-Production Process with AI-Generated Titles, Descriptions, and Show Notes.                                                                                                    |
+| [Shownotes](https://www.shownotes.io/?ref=awe50meAI)                                      | Summarize a podcast episode with help from chatGPT.                                                                                                                                                     |
+| [Mood](https://usemood.us/?ref=awe50meAI)                                                 | Amplify your podcast to 1 billion audiences with generative AI.                                                                                                                                         |
+| [Cleanvoice](https://cleanvoice.ai/?ref=awe50meAI)                                        | Cleanvoice is an Artificial Intelligence that removes filler sounds, stuttering, and mouth sounds from your podcast or audio recording.                                                                 |
+| [snipd - AI Podcast Summaries](https://www.snipd.com/ai-podcast-summaries/?ref=awe50meAI) | Introducing Snipd's AI-generated Podcast Summaries.                                                                                                                                                     |
+| [koolio.ai](https://www.koolio.ai/?ref=awe50meAI)                                         | The future of podcast creation.                                                                                                                                                                         |
+| [sumly.ai](https://www.sumly.ai/?ref=awe50meAI)                                           | AI-generated podcast summaries delivered straight to your inbox.                                                                                                                                        |
+| [podsqueeze](https://podsqueeze.com/?ref=awe50meAI)                                       | Generate show notes, timestamps, newsletters, and more for your podcast with one click!                                                                                                                 |
+| [Dubb](https://www.dubb.media/?ref=awe50meAI)                                             | An automated, easy-to-use assistant that generates marketing content for your podcast. Dubb turns your podcast episodes into show notes, social media posts, newsletter content, transcripts, and more. |
+| [deciphr](https://www.deciphr.ai/?ref=awe50meAI)                                          | Powered by deep AI, Deciphr timestamps and summarizes your entire podcast transcript for you. In less time than it takes to make coffee. And it's completely free.                                      |
+| [type studio](https://www.typestudio.co/?ref=awe50meAI)                                   | Type Studio is a fast, simple, and joyful way to edit and grow your podcasts, streams, and interviews.                                                                                                  |
+| [steosvoice](https://cybervoice.io/en/?ref=awe50meAI)                                     | Your High-Quality Neural Voice AI.                                                                                                                                                                      |
+| [fathom](https://hello.fathom.fm/?ref=awe50meAI)                                          | Discover podcasts at the speed of thought with mind-blowing AI-powered Search, Transcripts, Chapters, Clipping, and Highlights.                                                                         |
+| [wavtool](https://wavtool.com/?ref=awe50meAI)                                             | AI-accelerated music production. Make high-quality music with an AI assistant. In the browser, for free.                                                                                                |
+| [decoherence](https://www.decoherence.co/?ref=awe50meAI)                                  | Make AI Music Videos.                                                                                                                                                                                   |
 
 ## images tools
 | Awesome | Description |
