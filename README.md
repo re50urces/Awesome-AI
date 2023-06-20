@@ -3,37 +3,37 @@
 
 [Conversational Tools](#conversational-tools) - [All-in-One Tools](#all-in-one-tools) - [AI Search Engines](#ai-search-engines) - [Writing Tools](#writing-tools) - [Video Tools](#video-tools) - [Audio Tools](#audio-tools) - [Image Tools](#image-tools) - [Commerce & Marketing Tools](#commerce--marketing-tools) - [Design Tools](#design-tools) - [Coding Tools](#coding-tools) - [Color Tools](#color-tools) - [Miscellaneous](#miscellaneous)
 
-## conversational AI
-| Awesome | Description |
-| --- | --- |
-| [ChatGPT](https://chat.openai.com/?ref=awe50meAI) |  |
-| [Chat D-ID](https://chat.d-id.com/?ref=awe50meAI) |  |
-| [Dialogflow](https://cloud.google.com/dialogflow/?ref=awe50meAI) |  |
-| [Watson Assistant](https://www.ibm.com/products/watson-assistant/?ref=awe50meAI) |  |
-| [Microsoft Bot Framework](https://dev.botframework.com/?ref=awe50meAI) |  |
-| [Rasa](https://rasa.com/?ref=awe50meAI) |     Conversational AI Platform | Superior Customer Experiences Start Here  |
-| [botpress](https://botpress.com/?ref=awe50meAI) |  |
-| [TARS](https://hellotars.com/?ref=awe50meAI) |  |
-| [Landbot AI](https://landbot.io/ai/?ref=awe50meAI) |  |
-| [SnatchBot](https://snatchbot.me/?ref=awe50meAI) |  |
-| [Botstar](https://www.botstar.com/?ref=awe50meAI) |  |
-| [Ask Your PDF](https://askyourpdf.com/?ref=awe50meAI) |  |
-| [perplexity](https://www.perplexity.ai/?ref=awe50meAI) |  |
-| [Hints](https://hints.so/?ref=awe50meAI) |     AI Assistant that integrates with any software to perform tasks on your behalf  |
-| [ChatSpot](https://chatspot.ai/?ref=awe50meAI) |     ChatSpot = ChatGPT + the power of HubSpot CRM  |
-| [AskThee?](https://askthee.vercel.app/?ref=awe50meAI) |     Ever wanted to ask a question to a big thinker, artist or scientist? now is your chance.  |
-| [Ai Chat from User.com](https://www.user.com/en/ai-chat/?ref=awe50meAI) |     Automate your customer support instantly with AI  |
-| [ChatPDF](https://www.chatpdf.com/?ref=awe50meAI) |     Chat with any PDF!  |
-| [Chatbase](https://www.chatbase.co/?ref=awe50meAI) |     Train ChatGPT on your data and add it to your website  |
-| [Huberman AI](https://huberman.rile.yt/?ref=awe50meAI) |     Use AI to explore the wisdom of The Huberman Lab.  |
-| [ai intern](https://aiintern.io/?ref=awe50meAI) |     With AI Intern skip the grind and focus on the big picture.  |
-| [Chatbot UI](https://www.chatbotui.com/?ref=awe50meAI) |     Chatbot UI is an open source clone of OpenAI's ChatGPT UI.  |
-| [Channel](https://www.usechannel.com/?ref=awe50meAI) |     Ask any data question, in plain English.  |
-| [wonderchat](https://wonderchat.io/?ref=awe50meAI) |     Instantly build an AI chatbot with your knowledge base  |
-| [Monica](https://monica.im/?ref=awe50meAI) |     YOUR CHATGPT POWERED AI ASSISTANT ON ALL WEBSITES  |
-| [alicent](https://alicent.ai/?ref=awe50meAI) |     A Gorgeous Extension for ChatGPT  |
-| [godmode](https://godmode.space/?ref=awe50meAI) |   |
-| [PageLines](https://www.pagelines.com/?ref=awe50meAI) | AI Agents to Enhance Your Website |
+### Conversational Tools
+| Tool                                                                             | Description                                                                              |
+|----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| [ChatGPT](https://chat.openai.com/?ref=awe50meAI)                                |                                                                                          |
+| [Chat D-ID](https://chat.d-id.com/?ref=awe50meAI)                                |                                                                                          |
+| [Dialogflow](https://cloud.google.com/dialogflow/?ref=awe50meAI)                 |                                                                                          |
+| [Watson Assistant](https://www.ibm.com/products/watson-assistant/?ref=awe50meAI) |                                                                                          |
+| [Microsoft Bot Framework](https://dev.botframework.com/?ref=awe50meAI)           |                                                                                          |
+| [Rasa](https://rasa.com/?ref=awe50meAI)                                          | Conversational AI Platform: Superior customer experiences start here.                    |
+| [botpress](https://botpress.com/?ref=awe50meAI)                                  |                                                                                          |
+| [TARS](https://hellotars.com/?ref=awe50meAI)                                     |                                                                                          |
+| [Landbot AI](https://landbot.io/ai/?ref=awe50meAI)                               |                                                                                          |
+| [SnatchBot](https://snatchbot.me/?ref=awe50meAI)                                 |                                                                                          |
+| [Botstar](https://www.botstar.com/?ref=awe50meAI)                                |                                                                                          |
+| [Ask Your PDF](https://askyourpdf.com/?ref=awe50meAI)                            |                                                                                          |
+| [perplexity](https://www.perplexity.ai/?ref=awe50meAI)                           |                                                                                          |
+| [Hints](https://hints.so/?ref=awe50meAI)                                         | AI assistant that integrates with any software to perform tasks on your behalf.          |
+| [ChatSpot](https://chatspot.ai/?ref=awe50meAI)                                   | ChatSpot = ChatGPT + the power of HubSpot CRM.                                           |
+| [AskThee?](https://askthee.vercel.app/?ref=awe50meAI)                            | Ever wanted to ask a question to a big thinker, artist or scientist? Now is your chance. |
+| [Ai Chat from User.com](https://www.user.com/en/ai-chat/?ref=awe50meAI)          | Automate your customer support instantly with AI.                                        |
+| [ChatPDF](https://www.chatpdf.com/?ref=awe50meAI)                                | Chat with any PDF!                                                                       |
+| [Chatbase](https://www.chatbase.co/?ref=awe50meAI)                               | Train ChatGPT on your data and add it to your website.                                   |
+| [Huberman AI](https://huberman.rile.yt/?ref=awe50meAI)                           | Use AI to explore the wisdom of The Huberman Lab.                                        |
+| [ai intern](https://aiintern.io/?ref=awe50meAI)                                  | With AI Intern, skip the grind and focus on the big picture.                             |
+| [Chatbot UI](https://www.chatbotui.com/?ref=awe50meAI)                           | Chatbot UI is an open-source clone of OpenAI's ChatGPT UI.                               |
+| [Channel](https://www.usechannel.com/?ref=awe50meAI)                             | Ask any data question, in plain English.                                                 |
+| [wonderchat](https://wonderchat.io/?ref=awe50meAI)                               | Instantly build an AI chatbot with your knowledge base.                                  |
+| [Monica](https://monica.im/?ref=awe50meAI)                                       | Your ChatGPT-powered AI assistant on all websites.                                       |
+| [alicent](https://alicent.ai/?ref=awe50meAI)                                     | A gorgeous extension for ChatGPT.                                                        |
+| [godmode](https://godmode.space/?ref=awe50meAI)                                  |                                                                                          |
+| [PageLines](https://www.pagelines.com/?ref=awe50meAI)                            | AI Agents to enhance your website.                                                       |
 
 ## All-in-one tools
 | Awesome | Description |
