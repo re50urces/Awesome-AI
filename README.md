@@ -339,34 +339,34 @@
 | [Thumbly](https://thumbly.ai/?ref=awe50meAI)                                            | Create YouTube thumbnails that get clicks.                                                                                                                                         |
 | [stylized](https://www.stylized.ai/?ref=awe50meAI)                                      | A new way to take product photos.                                                                                                                                                  |
 
-## Coding tools
-| Awesome | Description |
-| --- | --- |
-| [GitHub copilot](https://github.com/features/copilot/?ref=awe50meAI) |     Your AI pair programmer  |
-| [tabnine](https://www.tabnine.com/?ref=awe50meAI) |     AI assistant for software developers  |
-| [deepOpinion](https://go.deepopinion.ai/?ref=awe50meAI) |     No-code AI for automation professionals  |
-| [Flatlogic](https://flatlogic.com/blog/chatgpt-flatlogic-generate-fully-functioning-web-apps-based-on-description) |     generate fully-functioning web apps in minutes with OpenAI, simply by describing the app in English!  |
-| [Fronty](https://fronty.com/?ref=awe50meAI) |     convert image to HTML CSS  |
-| [SourceAI](https://sourceai.dev/?ref=awe50meAI) |     Ai-Powered Code Generator  |
-| [Microapp](https://www.microapp.ai/build) |     AI-Powered Component Generator  |
-| [GitFluence](https://www.gitfluence.com/?ref=awe50meAI) |     Find the Git Command You Need Now!  |
-| [bloop.](https://bloop.ai/?ref=awe50meAI) |     bloop is a code-search engine that uses GPT-4 to answer questions about your code. Search both your local and remote repositories with natural language, regex and filtered queries.  |
-| [codium](https://www.codium.ai/?ref=awe50meAI) |     Generating meaningful tests for busy devs  |
-| [drenaline](https://useadrenaline.com/app?ref=awe50meAI) |     An AI-powered debugger   [GitHub repository](https://github.com/shobrook/adrenaline/)  | 
-| [AI CODE](https://aicode-weld.vercel.app/?ref=awe50meAI) |     Turn text into HTML&CSS with AI  |
-| [Stunning.so](https://stunning.so/?ref=awe50meAI) |     Build websites with AI.i  |
-| [codeium](https://codeium.com/?ref=awe50meAI) |     AI-Powered Autocomplete  |
-| [Ghostwriter](https://replit.com/site/ghostwriter/?ref=awe50meAI) |     Meet Ghostwriter, your partner in code.  |
-| [Lightning AI](https://lightning.ai/?ref=awe50meAI) |     The platform for teams to build AI, without the headaches  |
-| [CommitAI](https://github.com/fengyiqicoder/CommitAi-Free?ref=awe50meAI) |     Let AI Handle Your Commit Messages  |
-| [Codewand](https://www.codewand.co/?ref=awe50meAI) |     Use GPT-4 to build software with natural language.  |
-| [kopylot](https://github.com/avsthiago/kopylot?ref=awe50meAI) |     An AI-Powered assistant for Kubernetes developers  |
-| [Rix](https://hashnode.com/rix/?ref=awe50meAI) |     The Ultimate AI-Powered Chatbot for Developers  |
-| [Kodezi](https://kodezi.com/?ref=awe50meAI) |   Kodezi is a AI developer tool platform that auto-corrects your code in real-time. We’re on a mission to 10x productivity in programming!  |
-| [Google Bard](https://bard.google.com/?ref=awe50meAI) |     Meet Bard: your creative and helpful collaborator, here to supercharge your imagination, boost your productivity, and bring your ideas to life.  |
-| [Safurai](https://www.safurai.com/?ref=awe50meAI) |     Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.  |
-| [10Web](https://10web.io/?ref=awe50meAI) |    AI-Powered WordPress Platform  |
-| [codium](https://www.codium.ai/?ref=awe50meAI) |  Generating meaningful tests for busy devs  |
+### Coding Tools
+| Tool                                                                                                               | Description                                                                                                                                                                           |
+|--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [GitHub copilot](https://github.com/features/copilot/?ref=awe50meAI)                                               | Your AI pair programmer.                                                                                                                                                              |
+| [tabnine](https://www.tabnine.com/?ref=awe50meAI)                                                                  | AI assistant for software developers.                                                                                                                                                 |
+| [deepOpinion](https://go.deepopinion.ai/?ref=awe50meAI)                                                            | No-code AI for automation professionals.                                                                                                                                              |
+| [Flatlogic](https://flatlogic.com/blog/chatgpt-flatlogic-generate-fully-functioning-web-apps-based-on-description) | Generate fully-functioning web apps in minutes with OpenAI, simply by describing the app in English!                                                                                  |
+| [Fronty](https://fronty.com/?ref=awe50meAI)                                                                        | Convert image to HTML CSS.                                                                                                                                                            |
+| [SourceAI](https://sourceai.dev/?ref=awe50meAI)                                                                    | AI-Powered Code Generator.                                                                                                                                                            |
+| [Microapp](https://www.microapp.ai/build)                                                                          | AI-Powered Component Generator.                                                                                                                                                       |
+| [GitFluence](https://www.gitfluence.com/?ref=awe50meAI)                                                            | Find the Git Command You Need Now!                                                                                                                                                    |
+| [bloop.](https://bloop.ai/?ref=awe50meAI)                                                                          | Bloop is a code-search engine that uses GPT-4 to answer questions about your code. Search both your local and remote repositories with natural language, regex, and filtered queries. |
+| [codium](https://www.codium.ai/?ref=awe50meAI)                                                                     | Generating meaningful tests for busy devs.                                                                                                                                            |
+| [drenaline](https://useadrenaline.com/app?ref=awe50meAI)                                                           | An AI-powered debugger - [GitHub Repository](https://github.com/shobrook/adrenaline/).                                                                                                | 
+| [AI CODE](https://aicode-weld.vercel.app/?ref=awe50meAI)                                                           | Turn text into HTML&CSS with AI.                                                                                                                                                      |
+| [Stunning.so](https://stunning.so/?ref=awe50meAI)                                                                  | Build websites with AI.                                                                                                                                                               |
+| [codeium](https://codeium.com/?ref=awe50meAI)                                                                      | AI-Powered Autocomplete.                                                                                                                                                              |
+| [Ghostwriter](https://replit.com/site/ghostwriter/?ref=awe50meAI)                                                  | Meet Ghostwriter, your partner in code.                                                                                                                                               |
+| [Lightning AI](https://lightning.ai/?ref=awe50meAI)                                                                | The platform for teams to build AI without the headaches.                                                                                                                             |
+| [CommitAI](https://github.com/fengyiqicoder/CommitAi-Free?ref=awe50meAI)                                           | Let AI Handle Your Commit Messages.                                                                                                                                                   |
+| [Codewand](https://www.codewand.co/?ref=awe50meAI)                                                                 | Use GPT-4 to build software with natural language.                                                                                                                                    |
+| [kopylot](https://github.com/avsthiago/kopylot?ref=awe50meAI)                                                      | An AI-Powered assistant for Kubernetes developers.                                                                                                                                    |
+| [Rix](https://hashnode.com/rix/?ref=awe50meAI)                                                                     | The Ultimate AI-Powered Chatbot for Developers.                                                                                                                                       |
+| [Kodezi](https://kodezi.com/?ref=awe50meAI)                                                                        | Kodezi is an AI developer tool platform that auto-corrects your code in real-time. We’re on a mission to 10x productivity in programming!                                             |
+| [Google Bard](https://bard.google.com/?ref=awe50meAI)                                                              | Meet Bard: your creative and helpful collaborator, here to supercharge your imagination, boost your productivity, and bring your ideas to life.                                       |
+| [Safurai](https://www.safurai.com/?ref=awe50meAI)                                                                  | Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.                                                                                     |
+| [10Web](https://10web.io/?ref=awe50meAI)                                                                           | AI-Powered WordPress Platform.                                                                                                                                                        |
+| [codium](https://www.codium.ai/?ref=awe50meAI)                                                                     | Generating meaningful tests for busy devs.                                                                                                                                            |
 
 ## color tools
 | Awesome | Description |
