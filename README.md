@@ -275,69 +275,69 @@
 | [Marketing Co-pilot AI](https://marketingcopilotai.com/?ref=awe50meAI) | The Better Way to Do Marketing.                                                                                                                                                                                                                                                                                  |
 | [Domains GPT](https://oneword.domains/domains-gpt/?ref=awe50meAI)      | Generate brandable & memorable domain names using AI. Powered by OpenAI and Vercel Edge Functions.                                                                                                                                                                                                               |
 
-## design tools
-| Awesome | Description |
-| --- | --- |
-| [PhotoRoom](https://www.photoroom.com/?ref=awe50meAI) |     PhotoRoom - Remove Background and Create Product Pictures  |
-| [IconifyAI.com](https://www.iconifyai.com/?ref=awe50meAI) |     Create an Icon that truly represents your app with AI  |
-| [beautiful ai](https://www.beautiful.ai/?ref=awe50meAI) |     Presentation software that designs for you.  |
-| [avatarai](https://avatarai.me/?ref=awe50meAI) |     Create your own AI-generated avatars  |
-| [profilepicture](https://www.profilepicture.ai/?ref=awe50meAI) |  |
-| [picofme](https://picofme.io/?ref=awe50meAI) |     Just AI profile picture maker  |
-| [withpoly](https://withpoly.com/?ref=awe50meAI) |     Generate 3D Design Assets in Seconds with AI  |
-| [craiyon](https://www.craiyon.com/?ref=awe50meAI) |     Free online AI image generator from text  |
-| [neural love](https://neural.love/?ref=awe50meAI) |     Online video, images and audio enhancement powered by AI | neural.love  |
-| [Imagen AI](https://imagen-ai.com/?ref=awe50meAI) |     Imagen - Personalized Photo Editing Assistant  |
-| [nightcafe studio](https://nightcafe.studio/?ref=awe50meAI) |     AI Art Generator  |
-| [autodraw](https://www.autodraw.com/?ref=awe50meAI) |     AutoDraw is a new kind of drawing tool. It pairs machine learning with drawings from talented artists to help everyone create anything visual, fast.  |
-| [ai draw](https://ai-draw.tokyo/en/?ref=awe50meAI) |     Convert your photo into line drawing.  |
-| [hotpot ai](https://hotpot.ai/?ref=awe50meAI) |     Hotpot helps you create amazing graphics, pictures, and text.  |
-| [pixray text to image / pixel art](https://pixray.gob.io/?ref=awe50meAI) |  |
-| [designs ai](https://designs.ai/?ref=awe50meAI) |     Create logos, videos, banners, mockups with A.I. in 2 minutes  |
-| [durable website builder](https://durable.co/ai-website-builder/?ref=awe50meAI) |     Build a website in 30 seconds using artificial intelligence  |
-| [makelogo ai](https://makelogoai.com/?ref=awe50meAI) |     Uniques logos, for less than a coffee  |
-| [nightcafe](https://creator.nightcafe.studio/?ref=awe50meAI) |     Create amazing artworks using the power of Artificial Intelligence.  |
-| [DALL·E 2 ](https://openai.com/dall-e-2/?ref=awe50meAI) |     DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language.   |
-| [deep dream generator](https://deepdreamgenerator.com/?ref=awe50meAI) |     HUMAN AI COLLABORATION  |
-| [dream ai](https://dream.ai/?ref=awe50meAI) |     High Quality Artwork In Seconds  |
-| [starryai](https://starryai.com/?ref=awe50meAI) |     Create Art with AI  |
-| [artbreeder](https://www.artbreeder.com/?ref=awe50meAI) |     craft ai art like never before  |
-| [looka](https://looka.com/?ref=awe50meAI) |     Use Looka's AI-powered platform to design a logo and build a brand you love.  |
-| [logoAI](https://www.logoai.com/?ref=awe50meAI) |     Let AI-powered logo maker generate your new logo, create matching stationery, and design a brand you love!  |
-| [logomaster AI](https://logomaster.ai/?ref=awe50meAI) |     Powered by AI,logomaster.ai helps business owners create beautiful logos.  |
-| [durable](https://durable.co/?ref=awe50meAI) |     The AI website builder that generates an entire business website with images and copy in seconds.  |
-| [midjourney](https://midjourney.com/?ref=awe50meAI) |  |
-| [magicstudio](https://magicstudio.com/?ref=awe50meAI) |     Powered by AI, Created by You  |
-| [pfpmaker](https://pfpmaker.com/?ref=awe50meAI) |     Make your new profile picture with AI  |
-| [uizard](https://uizard.io/?ref=awe50meAI) |     Uizard | App, Web, & UI Design Made Easy | Powered By AI  |
-| [ando](https://ando.studio/?ref=awe50meAI) |     Your AI design copilot.  |
-| [pixelz](https://pixelz.ai/?ref=awe50meAI) |     PIXELZ AI AVATAR & IMAGE GENERATOR  |
-| [makelogoai](https://makelogo.ai/?ref=awe50meAI) |     Make Unique logos with AI.  |
-| [flair](https://withflair.ai/?ref=awe50meAI) |     the AI Design Tool for Branded Content.  |
-| [magician](https://magician.design/?ref=awe50meAI) |     A magical design tool for Figma powered by AI.  |
-| [Galileo AI](https://www.usegalileo.ai/?ref=awe50meAI) |     Galileo AI creates delightful, editable UI designs from a simple text description. It empowers you to design faster than ever.  |
-| [stockimg](https://stockimg.ai/?ref=awe50meAI) |     AI image generation for teams - You can easily generate AI logo, AI book covers, AI posters and more - Stockimg AI  |
-| [pixlr](https://pixlr.com/?ref=awe50meAI) |     AI powered photo editor, animation and design.  |
-| [brandmark](https://brandmark.io/?ref=awe50meAI) |     Brandmark Logo Maker - the most advanced AI logo design tool  |
-| [illustroke](https://illustroke.com/?ref=awe50meAI) |     Stunning vector illustrations from text prompts  |
-| [slides AI](https://www.slidesai.io/?ref=awe50meAI) |     Create Presentations Slides with AI in seconds  |
-| [Cleanup.pictures](https://cleanup.pictures/?ref=awe50meAI) |     Remove any unwanted object, defect, people or text from your pictures in seconds  |
-| [SnapEdit](https://snapedit.app/?ref=awe50meAI) |     Remove Object from photo  |
-| [UI-AI](https://ui-ai.com/) |     User Interface Artificial Intelligence  |
-| [Whimsical AI for Mind Maps](https://whimsical.com/ai-mind-maps/?ref=awe50meAI) |     Fresh ideas at your fingertips  |
-| [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html/?ref=Awe50meAI) |     AI Art Generator  |
-| [AILab Tools](https://www.ailabtools.com/?ref=awe50meAI) |  |
-| [IMGCREATOR](https://imgcreator.zmo.ai/?ref=awe50meAI0) |     All-in-one AI Design Art Generator  |
-| [vizcom](https://www.vizcom.ai/?ref=awe50meAI) |     see your drawings come to life in seconds.  |
-| [storyd](https://www.storyd.ai/?ref=awe50meAI) |     AI POWERED PRESENTATIONS  |
-| [PicWish](https://picwish.com/?ref=awe50meAI) |     PicWish AI Photo Editor | Free Online Photo Editing Tools  |
-| [Figma AI](https://www.figmaai.io/?ref=awe50meAI) |     Integrate GPT Chat into your Figma workflow  |
-| [DreamStudio](https://beta.dreamstudio.ai/?ref=awe50meAI) |     Tap into the power of our generative text-to-image suite to create new and unique designs.  |
-| [Leonardo.Ai](https://leonardo.ai/?ref=awe50meAI) |     Create stunning game assets with AI.  |
-| [Spline AI](https://spline.design/ai/?ref=awe50meAI) |     The power of AI is coming to the 3rd dimension. Generate objects, animations, and textures using prompts.  |
-| [NVIDIA Canvas](https://www.nvidia.com/en-us/studio/canvas/?ref=awe50meAI) |     Use AI to turn simple brushstrokes into realistic landscape images. Create backgrounds quickly, or speed up your concept exploration so you can spend more time visualizing ideas.  |
-| [Thumbly](https://thumbly.ai/?ref=awe50meAI) | Create YouTube thumbnails that get clicks |
-| [stylized](https://www.stylized.ai/?ref=awe50meAI) | A new way to take product photos. |
+### Design Tools
+| Tool                                                                                    | Description                                                                                                                                                                        |
+|-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [PhotoRoom](https://www.photoroom.com/?ref=awe50meAI)                                   | PhotoRoom - Remove Background and Create Product Pictures.                                                                                                                         |
+| [IconifyAI.com](https://www.iconifyai.com/?ref=awe50meAI)                               | Create an icon that truly represents your app with AI.                                                                                                                             |
+| [beautiful ai](https://www.beautiful.ai/?ref=awe50meAI)                                 | Presentation software that designs for you.                                                                                                                                        |
+| [avatarai](https://avatarai.me/?ref=awe50meAI)                                          | Create your own AI-generated avatars.                                                                                                                                              |
+| [profilepicture](https://www.profilepicture.ai/?ref=awe50meAI)                          |                                                                                                                                                                                    |
+| [picofme](https://picofme.io/?ref=awe50meAI)                                            | Just AI profile picture maker.                                                                                                                                                     |
+| [withpoly](https://withpoly.com/?ref=awe50meAI)                                         | Generate 3D Design Assets in Seconds with AI.                                                                                                                                      |
+| [craiyon](https://www.craiyon.com/?ref=awe50meAI)                                       | Free online AI image generator from text.                                                                                                                                          |
+| [neural love](https://neural.love/?ref=awe50meAI)                                       | Online video, images, and audio enhancement powered by AI - neural.love.                                                                                                           |
+| [Imagen AI](https://imagen-ai.com/?ref=awe50meAI)                                       | Imagen - Personalized Photo Editing Assistant.                                                                                                                                     |
+| [nightcafe studio](https://nightcafe.studio/?ref=awe50meAI)                             | AI Art Generator.                                                                                                                                                                  |
+| [autodraw](https://www.autodraw.com/?ref=awe50meAI)                                     | AutoDraw is a new kind of drawing tool. It pairs machine learning with drawings from talented artists to help everyone create anything visual, fast.                               |
+| [ai draw](https://ai-draw.tokyo/en/?ref=awe50meAI)                                      | Convert your photo into a line drawing.                                                                                                                                            |
+| [hotpot ai](https://hotpot.ai/?ref=awe50meAI)                                           | Hotpot helps you create amazing graphics, pictures, and text.                                                                                                                      |
+| [pixray text to image / pixel art](https://pixray.gob.io/?ref=awe50meAI)                |                                                                                                                                                                                    |
+| [designs ai](https://designs.ai/?ref=awe50meAI)                                         | Create logos, videos, banners, mockups with A.I. in 2 minutes.                                                                                                                     |
+| [durable website builder](https://durable.co/ai-website-builder/?ref=awe50meAI)         | Build a website in 30 seconds using Artificial Intelligence.                                                                                                                       |
+| [makelogo ai](https://makelogoai.com/?ref=awe50meAI)                                    | Unique logos, for less than a coffee.                                                                                                                                              |
+| [nightcafe](https://creator.nightcafe.studio/?ref=awe50meAI)                            | Create amazing artworks using the power of Artificial Intelligence.                                                                                                                |
+| [DALL·E 2 ](https://openai.com/dall-e-2/?ref=awe50meAI)                                 | DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language.                                                                       |
+| [deep dream generator](https://deepdreamgenerator.com/?ref=awe50meAI)                   | HUMAN AI COLLABORATION.                                                                                                                                                            |
+| [dream ai](https://dream.ai/?ref=awe50meAI)                                             | High-Quality Artwork In Seconds.                                                                                                                                                   |
+| [starryai](https://starryai.com/?ref=awe50meAI)                                         | Create Art with AI.                                                                                                                                                                |
+| [artbreeder](https://www.artbreeder.com/?ref=awe50meAI)                                 | Craft AI art like never before.                                                                                                                                                    |
+| [looka](https://looka.com/?ref=awe50meAI)                                               | Use Looka's AI-powered platform to design a logo and build a brand you love.                                                                                                       |
+| [logoAI](https://www.logoai.com/?ref=awe50meAI)                                         | Let AI-powered logo maker generate your new logo, create matching stationery, and design a brand you love!                                                                         |
+| [logomaster AI](https://logomaster.ai/?ref=awe50meAI)                                   | Powered by AI, logomaster.ai helps business owners create beautiful logos.                                                                                                         |
+| [durable](https://durable.co/?ref=awe50meAI)                                            | The AI website builder that generates an entire business website with images and copy in seconds.                                                                                  |
+| [midjourney](https://midjourney.com/?ref=awe50meAI)                                     |                                                                                                                                                                                    |
+| [magicstudio](https://magicstudio.com/?ref=awe50meAI)                                   | Powered by AI, Created by You.                                                                                                                                                     |
+| [pfpmaker](https://pfpmaker.com/?ref=awe50meAI)                                         | Make your new profile picture with AI.                                                                                                                                             |
+| [uizard](https://uizard.io/?ref=awe50meAI)                                              | Uizard - App, Web, & UI Design Made Easy - Powered By AI.                                                                                                                          |
+| [ando](https://ando.studio/?ref=awe50meAI)                                              | Your AI design copilot.                                                                                                                                                            |
+| [pixelz](https://pixelz.ai/?ref=awe50meAI)                                              | PIXELZ AI AVATAR & IMAGE GENERATOR.                                                                                                                                                |
+| [makelogoai](https://makelogo.ai/?ref=awe50meAI)                                        | Make Unique logos with AI.                                                                                                                                                         |
+| [flair](https://withflair.ai/?ref=awe50meAI)                                            | The AI Design Tool for Branded Content.                                                                                                                                            |
+| [magician](https://magician.design/?ref=awe50meAI)                                      | A magical design tool for Figma powered by AI.                                                                                                                                     |
+| [Galileo AI](https://www.usegalileo.ai/?ref=awe50meAI)                                  | Galileo AI creates delightful, editable UI designs from a simple text description. It empowers you to design faster than ever.                                                     |
+| [stockimg](https://stockimg.ai/?ref=awe50meAI)                                          | AI image generation for teams - You can easily generate AI logos, AI book covers, AI posters, and more - Stockimg AI.                                                              |
+| [pixlr](https://pixlr.com/?ref=awe50meAI)                                               | AI-powered photo editor, animation, and design.                                                                                                                                    |
+| [brandmark](https://brandmark.io/?ref=awe50meAI)                                        | Brandmark Logo Maker - the most advanced AI logo design tool.                                                                                                                      |
+| [illustroke](https://illustroke.com/?ref=awe50meAI)                                     | Stunning vector illustrations from text prompts.                                                                                                                                   |
+| [slides AI](https://www.slidesai.io/?ref=awe50meAI)                                     | Create Presentation Slides with AI in seconds.                                                                                                                                     |
+| [Cleanup.pictures](https://cleanup.pictures/?ref=awe50meAI)                             | Remove any unwanted object, defect, people, or text from your pictures in seconds.                                                                                                 |
+| [SnapEdit](https://snapedit.app/?ref=awe50meAI)                                         | Remove Object from photo.                                                                                                                                                          |
+| [UI-AI](https://ui-ai.com/)                                                             | User Interface Artificial Intelligence.                                                                                                                                            |
+| [Whimsical AI for Mind Maps](https://whimsical.com/ai-mind-maps/?ref=awe50meAI)         | Fresh ideas at your fingertips.                                                                                                                                                    |
+| [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html/?ref=Awe50meAI) | AI Art Generator.                                                                                                                                                                  |
+| [AILab Tools](https://www.ailabtools.com/?ref=awe50meAI)                                |                                                                                                                                                                                    |
+| [IMGCREATOR](https://imgcreator.zmo.ai/?ref=awe50meAI0)                                 | All-in-one AI Design Art Generator.                                                                                                                                                |
+| [vizcom](https://www.vizcom.ai/?ref=awe50meAI)                                          | See your drawings come to life in seconds.                                                                                                                                         |
+| [storyd](https://www.storyd.ai/?ref=awe50meAI)                                          | AI POWERED PRESENTATIONS.                                                                                                                                                          |
+| [PicWish](https://picwish.com/?ref=awe50meAI)                                           | PicWish AI Photo Editor - Free Online Photo Editing Tools.                                                                                                                         |
+| [Figma AI](https://www.figmaai.io/?ref=awe50meAI)                                       | Integrate GPT Chat into your Figma workflow.                                                                                                                                       |
+| [DreamStudio](https://beta.dreamstudio.ai/?ref=awe50meAI)                               | Tap into the power of our generative text-to-image suite to create new and unique designs.                                                                                         |
+| [Leonardo.Ai](https://leonardo.ai/?ref=awe50meAI)                                       | Create stunning game assets with AI.                                                                                                                                               |
+| [Spline AI](https://spline.design/ai/?ref=awe50meAI)                                    | The power of AI is coming to the 3rd dimension. Generate objects, animations, and textures using prompts.                                                                          |
+| [NVIDIA Canvas](https://www.nvidia.com/en-us/studio/canvas/?ref=awe50meAI)              | Use AI to turn simple brushstrokes into realistic landscape images. Create backgrounds quickly, or speed up your concept exploration so you can spend more time visualizing ideas. |
+| [Thumbly](https://thumbly.ai/?ref=awe50meAI)                                            | Create YouTube thumbnails that get clicks.                                                                                                                                         |
+| [stylized](https://www.stylized.ai/?ref=awe50meAI)                                      | A new way to take product photos.                                                                                                                                                  |
 
 ## Coding tools
 | Awesome | Description |
