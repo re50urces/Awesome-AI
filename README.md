@@ -1,7 +1,8 @@
 # Awesome AI
-> A curated list of awesome things related to artificial intelligence (AI).
+> A Curated List of Awesome Things Related to Artificial Intelligence (AI).
 
-[conversational AI](#conversational-ai) - [All-in-one tools](#all-in-one-tools) - [AI Search Engine](#ai-search-engine) - [writing tools](#writing-tools) - [video tools](#video-tools) - [audio tools](#audio-tools) - [images tools](#images-tools) - [commerce & marketing tools](#commerce--marketing-tools) - [design tools](#design-tools) - [Coding tools](#coding-tools) - [color tools](#color-tools) - [miscellaneous](#miscellaneous)
+[Conversational Tools](#conversational-tools) - [All-in-One Tools](#all-in-one-tools) - [AI Search Engines](#ai-search-engines) - [Writing Tools](#writing-tools) - [Video Tools](#video-tools) - [Audio Tools](#audio-tools) - [Image Tools](#image-tools) - [Commerce & Marketing Tools](#commerce--marketing-tools) - [Design Tools](#design-tools) - [Coding Tools](#coding-tools) - [Color Tools](#color-tools) - [Miscellaneous](#miscellaneous)
+
 ## conversational AI
 | Awesome | Description |
 | --- | --- |
