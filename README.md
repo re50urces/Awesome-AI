@@ -130,47 +130,47 @@
 | [postwise](https://postwise.ai/?ref=awe50meAI)                                | Write Viral Tweets in Seconds.                                                                                                                                                                                   |
 | [WriteSparkle](https://writesparkle.ai/?ref=awe50meAI)                        | Discover AI-Driven Brilliance, streamline your content creation process by seamlessly integrating Writesparkle with your favorite tools and platforms.                                                           |
 
-## video tools
-| Awesome | Description |
-| --- | --- |
-| [Deepbrain ai - ai studios](https://www.deepbrain.io/aistudios?ref=awe50meAI) |     Create AI-generated videos using basic text instantly  |
-| [Supercreator.ai](https://www.supercreator.ai/?ref=awe50meAI) |     Create short form videos 10x faster using artificial intelligence  |
-| [veed io](https://www.veed.io/?ref=awe50meAI) |     VEED - Edit, Record & Livestream Video - Online  |
-| [runway](https://runwayml.com/?ref=awe50meAI) |     Everything you need to make content, fast.  |
-| [Fliki](https://fliki.ai/?ref=awe50meAI) |     Turn text into videos with AI voices  |
-| [synthesia](https://www.synthesia.io/?ref=awe50meAI) |     Create videos from plain text in minutes  |
-| [descript](https://www.descript.com/?ref=awe50meAI) |     All-in-one video & audio editing, as easy as a doc.  |
-| [typecast ai](https://typecast.ai/?ref=awe50meAI) |     Video creation made simple with AI voices and avatars  |
-| [bhuman ai](https://www.bhuman.ai/?ref=awe50meAI) |     Produce a single video and personalize it for thousands of recipients. Deliver over any channel and measure results instantly.  |
-| [Jellysmack](https://jellysmack.com/?ref=awe50meAI) |     Creator Content Amplification & Solutions | Jellysmack  |
-| [plask](https://plask.ai/?ref=awe50meAI) |     AI-powered Mocap Animation Tool  |
-| [Rokoko video](https://www.rokoko.com/products/video/?ref=awe50meAI) |     Rokoko Video Free AI motion capture  |
-| [Topaz Video AI](https://www.topazlabs.com/topaz-video-ai/?ref=awe50meAI) |     Production-grade AI models for professional use cases  |
-| [Steve AI](https://www.steve.ai/?ref=awe50meAI) |     Free AI Video Maker App | Online Video Making Software Tool  |
-| [elai](https://elai.io/?ref=awe50meAI) |     Create AI videos from just text.  |
-| [pictory](https://pictory.ai/?ref=awe50meAI) |     Video Marketing Made EASY  |
-| [Lumen5](https://lumen5.com/?ref=awe50meAI) |     Lumen5 - Video Maker | Create Videos Online in Minutes  |
-| [wisecut](https://www.wisecut.video/?ref=awe50meAI) |     Wisecut | Automatic Video Editor  |
-| [synths video](https://synths.video/?ref=awe50meAI) |     Convert articles into video in 1-click  |
-| [invideo](https://invideo.io/?ref=awe50meAI) |     Create publish-worthy videos on day one  |
-| [GliaCloud](https://www.gliacloud.com/en/?ref=awe50meAI) |     Generate videos from news content, social posts, live sport events, and statistical data in minutes!  |
-| [synthesys](https://synthesys.io/ai-video/?ref=awe50meAI) |     Transform Your Text to a Realistic Virtual Video  |
-| [beey](https://www.beey.io/en/?ref=awe50meAI) |     Beey.io – Beey automatically converts your audio and video files to text.  |
-| [papercup](https://www.papercup.com/?ref=awe50meAI) |     AI Powered Dubbing  |
-| [Friday](https://www.heyfriday.ai/home/?ref=awe50meAI) |     Less Writing, More Inspiration.  |
-| [Movio](https://www.movio.la/?ref=awe50meAI) |     Create Engaging Videos 10x Faster with AI  |
-| [clip.fm](https://www.clip.fm/?ref=awe50meAI) |     Turn podcasts into viral clips with one click.  |
-| [D-ID](https://www.d-id.com/?ref=awe50meAI) |     Digital People Text-to-Video  |
-| [vidyo.ai](https://vidyo.ai/?ref=awe50meAI) |     Make short videos from long ones instantly  |
-| [Rephrase Studio](https://www.rephrase.ai/studio/?ref=awe50meAI) |     Rephrase Studio is a self-serve text-to-video generation platform that eliminates the complexity of video production, enabling you to create professional-looking videos at scale.  |
-| [Genmo](https://alpha.genmo.ai/?ref=awe50meAI) |     Go beyond 2D. Create videos from text with AI.  |
-| [riverside](https://riverside.fm/?ref=awe50meAI) |     Automatically transcribe your audio and video recordings in seconds with our AI-powered technology. It's accurate, reliable, and supports more than 100 languages.  |
-| [Zoomscape.ai](https://zoomscape.ai/?ref=awe50meAI) |     Create stunning Zoom backgrounds with AI  |
-| [Morise.ai](https://morise.ai/?ref=awe50meAI) |     You make the videos, AI will make them go viral  |
-| [Rask](https://www.rask.ai/?ref=awe50meAI) |     Localize videos. Fast. Fun. With AI  |
-| [HeyGen](https://www.heygen.com/) |     CREATE ENGAGING VIDEOS 10X FASTER WITH AI  |
-| [2short.ai](https://2short.ai/?ref=awe50meAI) |     Elevate your YT content with AI generated shorts |
-| [Eightify](https://eightify.app/?ref=awe50meAI) |  YouTube summaries powered by ChatGPT |
+### Video Tools
+| Tool                                                                          | Description                                                                                                                                                                        |
+|-------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Deepbrain ai - ai studios](https://www.deepbrain.io/aistudios?ref=awe50meAI) | Create AI-generated videos using basic text instantly.                                                                                                                             |
+| [Supercreator.ai](https://www.supercreator.ai/?ref=awe50meAI)                 | Create short-form videos 10x faster using Artificial Intelligence.                                                                                                                 |
+| [veed io](https://www.veed.io/?ref=awe50meAI)                                 | VEED - Edit, Record & Livestream Video - Online.                                                                                                                                   |
+| [runway](https://runwayml.com/?ref=awe50meAI)                                 | Everything you need to make content, fast.                                                                                                                                         |
+| [Fliki](https://fliki.ai/?ref=awe50meAI)                                      | Turn text into videos with AI voices.                                                                                                                                              |
+| [synthesia](https://www.synthesia.io/?ref=awe50meAI)                          | Create videos from plain text in minutes.                                                                                                                                          |
+| [descript](https://www.descript.com/?ref=awe50meAI)                           | All-in-one video & audio editing, as easy as a doc.                                                                                                                                |
+| [typecast ai](https://typecast.ai/?ref=awe50meAI)                             | Video creation made simple with AI voices and avatars.                                                                                                                             |
+| [bhuman ai](https://www.bhuman.ai/?ref=awe50meAI)                             | Produce a single video and personalize it for thousands of recipients. Deliver over any channel and measure results instantly.                                                     |
+| [Jellysmack](https://jellysmack.com/?ref=awe50meAI)                           | Creator Content Amplification & Solutions - Jellysmack.                                                                                                                            |
+| [plask](https://plask.ai/?ref=awe50meAI)                                      | AI-powered Mocap Animation Tool.                                                                                                                                                   |
+| [Rokoko video](https://www.rokoko.com/products/video/?ref=awe50meAI)          | Rokoko Video - Free AI motion capture.                                                                                                                                             |
+| [Topaz Video AI](https://www.topazlabs.com/topaz-video-ai/?ref=awe50meAI)     | Production-grade AI models for professional use cases.                                                                                                                             |
+| [Steve AI](https://www.steve.ai/?ref=awe50meAI)                               | Free AI Video Maker App - Online Video Making Software Tool.                                                                                                                       |
+| [elai](https://elai.io/?ref=awe50meAI)                                        | Create AI videos from just text.                                                                                                                                                   |
+| [pictory](https://pictory.ai/?ref=awe50meAI)                                  | Video Marketing Made EASY.                                                                                                                                                         |
+| [Lumen5](https://lumen5.com/?ref=awe50meAI)                                   | Lumen5 - Video Maker - Create Videos Online in Minutes.                                                                                                                            |
+| [wisecut](https://www.wisecut.video/?ref=awe50meAI)                           | Wisecut - Automatic Video Editor.                                                                                                                                                  |
+| [synths video](https://synths.video/?ref=awe50meAI)                           | Convert articles into video in 1-click.                                                                                                                                            |
+| [invideo](https://invideo.io/?ref=awe50meAI)                                  | Create publish-worthy videos on day one.                                                                                                                                           |
+| [GliaCloud](https://www.gliacloud.com/en/?ref=awe50meAI)                      | Generate videos from news content, social posts, live sport events, and statistical data in minutes!                                                                               |
+| [synthesys](https://synthesys.io/ai-video/?ref=awe50meAI)                     | Transform Your Text to a Realistic Virtual Video.                                                                                                                                  |
+| [beey](https://www.beey.io/en/?ref=awe50meAI)                                 | Beey.io - Beey automatically converts your audio and video files to text.                                                                                                          |
+| [papercup](https://www.papercup.com/?ref=awe50meAI)                           | AI Powered Dubbing.                                                                                                                                                                |
+| [Friday](https://www.heyfriday.ai/home/?ref=awe50meAI)                        | Less Writing, More Inspiration.                                                                                                                                                    |
+| [Movio](https://www.movio.la/?ref=awe50meAI)                                  | Create Engaging Videos 10x Faster with AI.                                                                                                                                         |
+| [clip.fm](https://www.clip.fm/?ref=awe50meAI)                                 | Turn podcasts into viral clips with one click.                                                                                                                                     |
+| [D-ID](https://www.d-id.com/?ref=awe50meAI)                                   | Digital People Text-to-Video.                                                                                                                                                      |
+| [vidyo.ai](https://vidyo.ai/?ref=awe50meAI)                                   | Make short videos from long ones instantly.                                                                                                                                        |
+| [Rephrase Studio](https://www.rephrase.ai/studio/?ref=awe50meAI)              | Rephrase Studio is a self-serve text-to-video generation platform that eliminates the complexity of video production, enabling you to create professional-looking videos at scale. |
+| [Genmo](https://alpha.genmo.ai/?ref=awe50meAI)                                | Go beyond 2D. Create videos from text with AI.                                                                                                                                     |
+| [riverside](https://riverside.fm/?ref=awe50meAI)                              | Automatically transcribe your audio and video recordings in seconds with our AI-powered technology. It's accurate, reliable, and supports more than 100 languages.                 |
+| [Zoomscape.ai](https://zoomscape.ai/?ref=awe50meAI)                           | Create stunning Zoom backgrounds with AI.                                                                                                                                          |
+| [Morise.ai](https://morise.ai/?ref=awe50meAI)                                 | You make the videos, AI will make them go viral.                                                                                                                                   |
+| [Rask](https://www.rask.ai/?ref=awe50meAI)                                    | Localize videos. Fast. Fun. With AI.                                                                                                                                               |
+| [HeyGen](https://www.heygen.com/)                                             | CREATE ENGAGING VIDEOS 10X FASTER WITH AI.                                                                                                                                         |
+| [2short.ai](https://2short.ai/?ref=awe50meAI)                                 | Elevate your YouTube content with AI-generated shorts.                                                                                                                             |
+| [Eightify](https://eightify.app/?ref=awe50meAI)                               | YouTube summaries powered by ChatGPT.                                                                                                                                              |
 
 ## audio tools
 | Awesome | Description |
