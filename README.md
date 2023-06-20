@@ -368,15 +368,15 @@
 | [10Web](https://10web.io/?ref=awe50meAI)                                                                           | AI-Powered WordPress Platform.                                                                                                                                                        |
 | [codium](https://www.codium.ai/?ref=awe50meAI)                                                                     | Generating meaningful tests for busy devs.                                                                                                                                            |
 
-## color tools
-| Awesome | Description |
-| --- | --- |
-| [colormind](http://colormind.io/?ref=awe50meAI) |     Colormind - the AI powered color palette generator  |
-| [Huemint](https://huemint.com/?ref=awe50meAI) |     AI color palette generator  |
-| [khroma](https://www.khroma.co/?ref=awe50meAI) |     Khroma - The AI color tool for designers  |
-| [ColorGPT](https://colorgpt.vercel.app/?ref=awe50meAI) |     Generating color name captured from real-world using AI  |
-| [Chroma AI](https://chroma.szhao.dev/?ref=awe50meAI) |     Generate gradients based on your mood  |
-| [PatternedAI](https://www.patterned.ai/?ref=awe50meAI) |     Generate unique patterns for your product using AI!  |
+### Color Tools
+| Tool                                                   | Description                                                   |
+|--------------------------------------------------------|---------------------------------------------------------------|
+| [colormind](http://colormind.io/?ref=awe50meAI)        | Colormind - the AI-powered color palette generator.           |
+| [Huemint](https://huemint.com/?ref=awe50meAI)          | AI color palette generator.                                   |
+| [khroma](https://www.khroma.co/?ref=awe50meAI)         | Khroma - The AI color tool for designers.                     |
+| [ColorGPT](https://colorgpt.vercel.app/?ref=awe50meAI) | Generating color names captured from the real world using AI. |
+| [Chroma AI](https://chroma.szhao.dev/?ref=awe50meAI)   | Generate gradients based on your mood.                        |
+| [PatternedAI](https://www.patterned.ai/?ref=awe50meAI) | Generate unique patterns for your product using AI!           |
 
 ## miscellaneous
 | Awesome | Description |
