@@ -366,6 +366,7 @@
 | [Safurai](https://www.safurai.com/?ref=awe50meAI) |     Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.  |
 | [10Web](https://10web.io/?ref=awe50meAI) |    AI-Powered WordPress Platform  |
 | [codium](https://www.codium.ai/?ref=awe50meAI) |  Generating meaningful tests for busy devs  |
+| [blackbox AI](https://www.useblackbox.io/?ref=awe50meAI) |  {Code} As Fast As You Think.  |
 
 ## color tools
 | Awesome | Description |
