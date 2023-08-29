@@ -17,7 +17,7 @@
 | [SnatchBot](https://snatchbot.me/?ref=awe50meAI) |  |
 | [Botstar](https://www.botstar.com/?ref=awe50meAI) |  |
 | [Ask Your PDF](https://askyourpdf.com/?ref=awe50meAI) |  |
-| [perplexity](https://www.perplexity.ai/?ref=awe50meAI) |  |
+| [perplexity](https://www.perplexity.ai/?ref=awe50meAI) | Where knowledge begins |
 | [Hints](https://hints.so/?ref=awe50meAI) |     AI Assistant that integrates with any software to perform tasks on your behalf  |
 | [ChatSpot](https://chatspot.ai/?ref=awe50meAI) |     ChatSpot = ChatGPT + the power of HubSpot CRM  |
 | [AskThee?](https://askthee.vercel.app/?ref=awe50meAI) |     Ever wanted to ask a question to a big thinker, artist or scientist? now is your chance.  |
@@ -227,6 +227,7 @@
 | [letsenhance](https://letsenhance.io/?ref=awe50meAI) |     Automatic AI editor to increase image resolution without losing quality  |
 | [facet ai](https://facet.ai/?ref=awe50meAI) |     Facet is the first AI-powered image editor, empowering artists to do what they do best: create.  |
 | [remove bg](https://www.remove.bg/?ref=awe50meAI) |     Remove backgrounds 100% automatically in 5 seconds with one click  |
+| [ProPhotos](https://prophotos.ai/?ref=awe50meAI) | Upgrade your professional image with AI-powered headshots. |
 | [remini ai](https://remini.ai/?ref=awe50meAI) |     The only photo enhancer you'll ever need  |
 | [avatar ai](https://avatarai.me/?ref=awe50meAI) |     Create your own photorealistic AI Avatars  |
 | [photosonic](https://photosonic.writesonic.com/?ref=awe50meAI) |     The AI that paints your dreams with pixels - for FREE.  |
@@ -344,6 +345,8 @@
 | [GitHub copilot](https://github.com/features/copilot/?ref=awe50meAI) |     Your AI pair programmer  |
 | [tabnine](https://www.tabnine.com/?ref=awe50meAI) |     AI assistant for software developers  |
 | [deepOpinion](https://go.deepopinion.ai/?ref=awe50meAI) |     No-code AI for automation professionals  |
+| [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/?ref=awe50meAI) | Build applications faster and more securely with your AI coding companion |
+| [Android Studio Bot](https://developer.android.com/studio/preview/studio-bot/?ref=awe50meAI) | Studio Bot is your coding companion for Android development. |
 | [Flatlogic](https://flatlogic.com/blog/chatgpt-flatlogic-generate-fully-functioning-web-apps-based-on-description) |     generate fully-functioning web apps in minutes with OpenAI, simply by describing the app in English!  |
 | [Fronty](https://fronty.com/?ref=awe50meAI) |     convert image to HTML CSS  |
 | [SourceAI](https://sourceai.dev/?ref=awe50meAI) |     Ai-Powered Code Generator  |
@@ -443,3 +446,4 @@
 | [Chatshape](https://www.chatshape.com/?ref=awe50meAI) | Build AI Chatbots from your content, remarkably fast |
 | [numerous.ai](https://numerous.ai/?ref=awe50meAI) | Extract text, categorize, generate formulas, and use ChatGPT right inside your spreadsheet |
 | [glass.ai](https://www.glass.ai/?ref=awe50meAI)| Transforming sector and company research with AI |
+| [ROCKSET](https://rockset.com/?ref=awe50meAI)| Build blazing fast search and AI applications in record time |
