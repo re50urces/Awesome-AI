@@ -49,6 +49,7 @@
 | --- | --- |
 | [phind](https://www.phind.com/?ref=awe50meAI) |     The AI search engine for developers.  |
 | [you](https://you.com/?ref=awe50meAI) |     The AI Search Engine You Control  |
+| [SeaGOAT](https://github.com/kantord/SeaGOAT)  | Local AI search engine, focusing on code search  |
 
 ## writing tools
 | Awesome | Description |
