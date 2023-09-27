@@ -49,6 +49,9 @@
 | --- | --- |
 | [phind](https://www.phind.com/?ref=awe50meAI) |     The AI search engine for developers.  |
 | [you](https://you.com/?ref=awe50meAI) |     The AI Search Engine You Control  |
+| [iAsk.AI](https://iask.ai/?ref=awe50meAI) |     Ask AI Questions – Free AI Search Engine  |
+| [komo](https://komo.ai/?ref=awe50meAI) |     Komo search - Ai Search & Explore  |
+| [Andi](https://andisearch.com/?ref=awe50meAI) |     Welcome to the next generation of search using the power of AI  |
 
 ## writing tools
 | Awesome | Description |
@@ -127,7 +130,9 @@
 | [Autowrite app](https://autowrite.app/?ref=awe50meAI) |    Create Human-like Search Engine Optimized Articles|
 | [postGenius](https://www.postgeniusapp.com/?ref=awe50meAI) |    Generate your next post using chatGPT  |
 | [postwise](https://postwise.ai/?ref=awe50meAI) |  Write Viral Tweets in Seconds |
-| [WriteSparkle](https://writesparkle.ai/?ref=awe50meAI) |  Discover AI-Driven Brilliance, streamline your content creation process by seamlessly integrating Writesparkle with your favorite tools and platforms.  |
+| [WriteSparkle](https://writesparkle.ai/?ref=awe50meAI) |  Discover AI-Driven Brilliance, streamline your content creation process by seamlessly integrating Writesparkle with your favorite 
+tools and platforms.  |
+| [flawlessly ai](https://flawlessly.ai/?ref=awe50meAI) |  Flawlessly.Ai transforms your spelling, grammar, tone, and style into professional text in seconds. |
 
 ## video tools
 | Awesome | Description |
