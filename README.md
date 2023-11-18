@@ -445,6 +445,7 @@
 | [Talk to Books](https://books.google.com/talktobooks/?ref=awe50meAI) |     Browse passages from books using experimental AI  |
 | [SheetAI](https://www.sheetai.app/?ref=awe50meAI) |     AI inside Spreadsheets  |
 | [Tripnotes](https://tripnotes.ai/app/?ref=awe50meAI) |     Intelligent Travel Planner  |
+| [Travel Plan AI](https://www.travelplan-ai.com/?ref=awe50meAI) |     Let AI Craft Your Perfect Travel Itinerary  |
 | [Decktopus AI](https://www.decktopus.com/?ref=awe50meAI) |     World's #1 AI-Powered Presentation Generator  |
 | [Banter AI](https://www.banterai.app/?ref=awe50meAI) |     Call up your favorite celebrities Scary realistic AI  |
 | [tweetmonk_](https://tweetmonk.com/?ref=awe50meAI) |     Maximize your Twitter reach with our intelligent editor - create and schedule engaging tweets and threads to boost your growth.  |
