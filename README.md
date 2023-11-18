@@ -353,6 +353,7 @@
 | [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/?ref=awe50meAI) | Build applications faster and more securely with your AI coding companion |
 | [Android Studio Bot](https://developer.android.com/studio/preview/studio-bot/?ref=awe50meAI) | Studio Bot is your coding companion for Android development. |
 | [Flatlogic](https://flatlogic.com/blog/chatgpt-flatlogic-generate-fully-functioning-web-apps-based-on-description) |     generate fully-functioning web apps in minutes with OpenAI, simply by describing the app in English!  |
+| [Code Mentor AI](https://code-mentor.ai?ref=awe50meAI) | Start coding smarter today with the ultimate explainer tool based on Artificial Intelligence for optimizing, refactoring, and reviewing code! |
 | [Fronty](https://fronty.com/?ref=awe50meAI) |     convert image to HTML CSS  |
 | [SourceAI](https://sourceai.dev/?ref=awe50meAI) |     Ai-Powered Code Generator  |
 | [Microapp](https://www.microapp.ai/build) |     AI-Powered Component Generator  |
