@@ -6,6 +6,7 @@
 | Awesome | Description |
 | --- | --- |
 | [ChatGPT](https://chat.openai.com/?ref=awe50meAI) |  |
+| [Poe](https://poe.com/?ref=awe50meAI) | Fast, Helpful AI Chat |
 | [Chat D-ID](https://chat.d-id.com/?ref=awe50meAI) |  |
 | [Dialogflow](https://cloud.google.com/dialogflow/?ref=awe50meAI) |  |
 | [Watson Assistant](https://www.ibm.com/products/watson-assistant/?ref=awe50meAI) |  |
