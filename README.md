@@ -467,3 +467,4 @@
 | [PressPulse AI](https://www.presspulse.ai/?ref=awe50me) | Get personalized media coverage leads every morning. |
 | [GummySearch](https://gummysearch.com/?ref=awe50me) | AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product. |
 | [Lemmy](https://lemmy.co/?ref=awe50me) | Autonomous AI Assistant for Work. |
+| [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator?ref=awe50me) | Forget about frustrating formulas in Google Sheets. |
