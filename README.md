@@ -284,6 +284,7 @@
 | [Domains GPT](https://oneword.domains/domains-gpt/?ref=awe50meAI) | Generate brandable & memorable domain names using AI. Powered by OpenAI and Vercel Edge Functions. |
 | [SiteGPT](https://sitegpt.ai/?ref=awe50me) | Make AI your expert customer support agent. |
 | [GPTHelp.ai](https://gpthelp.ai/?ref=awe50me) | ChatGPT for your website / AI customer support chatbot. |
+| [Taplio](https://taplio.com/?ref=awe50me) | The all-in-one, AI-powered LinkedIn tool. |
 
 ## design tools
 | Awesome | Description |
