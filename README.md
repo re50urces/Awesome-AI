@@ -6,6 +6,7 @@
 | Awesome | Description |
 | --- | --- |
 | [ChatGPT](https://chat.openai.com/?ref=awe50meAI) |  |
+| [Google Gemini](https://gemini.google.com/?ref=awe50meAI) | Gemini gives you direct access to Google AI. Get help with writing, planning, learning, and more.  |
 | [Poe](https://poe.com/?ref=awe50meAI) | Fast, Helpful AI Chat |
 | [Chat D-ID](https://chat.d-id.com/?ref=awe50meAI) |  |
 | [Dialogflow](https://cloud.google.com/dialogflow/?ref=awe50meAI) |  |
@@ -373,7 +374,6 @@
 | [kopylot](https://github.com/avsthiago/kopylot?ref=awe50meAI) |     An AI-Powered assistant for Kubernetes developers  |
 | [Rix](https://hashnode.com/rix/?ref=awe50meAI) |     The Ultimate AI-Powered Chatbot for Developers  |
 | [Kodezi](https://kodezi.com/?ref=awe50meAI) |   Kodezi is a AI developer tool platform that auto-corrects your code in real-time. We’re on a mission to 10x productivity in programming!  |
-| [Google Gemini](https://gemini.google.com/?ref=awe50meAI) | Gemini gives you direct access to Google AI. Get help with writing, planning, learning, and more.  |
 | [Safurai](https://www.safurai.com/?ref=awe50meAI) |     Safurai is the AI Code Assistant that saves you time in changing, optimizing, and searching code.  |
 | [10Web](https://10web.io/?ref=awe50meAI) |    AI-Powered WordPress Platform  |
 | [codium](https://www.codium.ai/?ref=awe50meAI) |  Generating meaningful tests for busy devs  |
