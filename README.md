@@ -258,10 +258,12 @@
 | [Playground AI](https://playgroundai.com/?ref=awe50meAI) | Create any image from your imagination |
 | [VectorArt.ai](https://vectorart.ai/?ref=awe50meAI) | Create vector images with AI |
 
+
 ## commerce & marketing tools
 | Awesome | Description |
 | --- | --- |
 | [syte ai](https://www.syte.ai/?ref=awe50meAI) |     The World's #1 Product Discovery Platform for eCommerce  |
+| [cald ai](https://cald.ai/?ref=awe50meAI) |     AI-Powered Conversational Call Agents helping to reduce Call Center and Customer Support Costs by 90%  |
 | [nureply](https://nureply.com/?ref=awe50meAI) |     Get 2.4x More Replies and Revenue with Cold Emails Powered by Advanced AI  |
 | [zia by zoho](https://www.zoho.com/zia/?ref=awe50meAI) |     Meet Zia, the AI-powered assistant for your business  |
 | [Adzis app](https://app.adzis.com/?ref=awe50meAI) |     AI Content Generator App for eCommerce - Adzis  |
