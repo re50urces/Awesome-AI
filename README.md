@@ -458,3 +458,4 @@
 | [numerous.ai](https://numerous.ai/?ref=awe50meAI) | Extract text, categorize, generate formulas, and use ChatGPT right inside your spreadsheet |
 | [glass.ai](https://www.glass.ai/?ref=awe50meAI)| Transforming sector and company research with AI |
 | [ROCKSET](https://rockset.com/?ref=awe50meAI)| Build blazing fast search and AI applications in record time |
+| [Questly](https://questly.ai/?ref=awe50meAI) | Elevate tabletop RPGs with AI-crafted NPCs, immersive campaigns, session transcriptions, and dynamic quest-building. |
