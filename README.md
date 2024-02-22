@@ -394,6 +394,7 @@
 ## miscellaneous
 | Awesome | Description |
 | --- | --- |
+| [Morpher AI](https://www.morpher.com/ai?ref=awe50meAI) |     Effortless market intelligence right at your fingertips!  |
 | [Browse AI](https://www.browse.ai/?ref=awe50meAI) |     The easiest way to extract and monitor data from any website.  |
 | [interview-warmup by google](https://grow.google/certificates/interview-warmup/?ref=awe50meAI) |  |
 | [fastoutreach](https://www.fastoutreach.ai/?ref=awe50meAI) |     The smartest AI personalization tool for entrepreneurs.  |
