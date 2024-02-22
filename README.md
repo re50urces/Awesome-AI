@@ -257,6 +257,7 @@
 | [Stable Diffusion](https://stablediffusionweb.com/?ref=awe50meAI) |     Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds.  |
 | [Playground AI](https://playgroundai.com/?ref=awe50meAI) | Create any image from your imagination |
 | [VectorArt.ai](https://vectorart.ai/?ref=awe50meAI) | Create vector images with AI |
+| [StockPhotoAI.net](https://www.stockphotoai.net/?ref=awe50me) | Great stock photos, made for you. |
 
 ## commerce & marketing tools
 | Awesome | Description |
@@ -282,6 +283,9 @@
 | [Tugan.ai](https://www.tugan.ai/?ref=awe50meAI) |     Enter a URL or TOPIC To Generate Your Marketing Emails Instantly With AI  |
 | [Marketing Co-pilot AI](https://marketingcopilotai.com/?ref=awe50meAI) | The Better Way to Do Marketing |
 | [Domains GPT](https://oneword.domains/domains-gpt/?ref=awe50meAI) | Generate brandable & memorable domain names using AI. Powered by OpenAI and Vercel Edge Functions. |
+| [SiteGPT](https://sitegpt.ai/?ref=awe50me) | Make AI your expert customer support agent. |
+| [GPTHelp.ai](https://gpthelp.ai/?ref=awe50me) | ChatGPT for your website / AI customer support chatbot. |
+| [Taplio](https://taplio.com/?ref=awe50me) | The all-in-one, AI-powered LinkedIn tool. |
 
 ## design tools
 | Awesome | Description |
@@ -458,3 +462,10 @@
 | [numerous.ai](https://numerous.ai/?ref=awe50meAI) | Extract text, categorize, generate formulas, and use ChatGPT right inside your spreadsheet |
 | [glass.ai](https://www.glass.ai/?ref=awe50meAI)| Transforming sector and company research with AI |
 | [ROCKSET](https://rockset.com/?ref=awe50meAI)| Build blazing fast search and AI applications in record time |
+| [Elephas](https://elephas.app/?ref=awe50me) | Personal AI writing assistant for the Mac. |
+| [Never Jobless LinkedIn Message Generator](https://neverjobless.com/?ref=awe50me) | Maximize Your Interview Chances with AI-Powered LinkedIn Messaging. |
+| [Aispect](https://aispect.io/?ref=awe50me) | New way to experience events. |
+| [PressPulse AI](https://www.presspulse.ai/?ref=awe50me) | Get personalized media coverage leads every morning. |
+| [GummySearch](https://gummysearch.com/?ref=awe50me) | AI-based customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product. |
+| [Lemmy](https://lemmy.co/?ref=awe50me) | Autonomous AI Assistant for Work. |
+| [Google Sheets Formula Generator](https://bettersheets.co/google-sheets-formula-generator?ref=awe50me) | Forget about frustrating formulas in Google Sheets. |
