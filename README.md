@@ -198,6 +198,7 @@
 | [speechify](https://speechify.com/?ref=awe50meAI) |     Power through docs, articles, PDFs, email — anything you read — by listening with our leading text-to-speech reader.  |
 | [sonix ai](https://sonix.ai/?ref=awe50meAI) |     Automatically convert audio and video to text: Fast, Accurate, & Affordable | Sonix  |
 | [speak ai](https://speakai.co/?ref=awe50meAI) |     Get transcription, research, data analysis and NLP software from Speak Ai  |
+| [CreateEasily](https://createeasily.com/?ref=awe50meAI) |     Transcribe your audio into subtitles and text transcripts quickly with summarization - 100% Free |
 | [rev com](https://www.rev.com/?ref=awe50meAI) |     Transcribe Speech to Text  |
 | [scribie](https://scribie.com/?ref=awe50meAI) |     Audio/Video Transcription | 99% Accuracy, 12-HR Turnaround  |
 | [verbit](https://verbit.ai/?ref=awe50meAI) |     Captioning & Transcription That’s Built for Business  |
