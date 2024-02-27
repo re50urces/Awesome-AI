@@ -25,6 +25,7 @@
 | [AskThee?](https://askthee.vercel.app/?ref=awe50meAI) |     Ever wanted to ask a question to a big thinker, artist or scientist? now is your chance.  |
 | [Ai Chat from User.com](https://www.user.com/en/ai-chat/?ref=awe50meAI) |     Automate your customer support instantly with AI  |
 | [ChatPDF](https://www.chatpdf.com/?ref=awe50meAI) |     Chat with any PDF!  |
+| [VoiceSphere](https://voicesphere.co/?ref=awe50meAI) | Revolutionize your document and video interactions with VoiceSphere's AI-driven chat technology. Access quick, intelligent responses directly from a wide range of document formats including PDFs, DOCs, PPTs, and videos. Ideal for professionals across various industries, VoiceSphere enhances information retrieval and boosts productivity by enabling smarter, context-aware document management. |
 | [Chatbase](https://www.chatbase.co/?ref=awe50meAI) |     Train ChatGPT on your data and add it to your website  |
 | [Huberman AI](https://huberman.rile.yt/?ref=awe50meAI) |     Use AI to explore the wisdom of The Huberman Lab.  |
 | [ai intern](https://aiintern.io/?ref=awe50meAI) |     With AI Intern skip the grind and focus on the big picture.  |
