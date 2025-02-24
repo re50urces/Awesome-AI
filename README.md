@@ -35,6 +35,7 @@
 | [alicent](https://alicent.ai/?ref=awe50meAI) |     A Gorgeous Extension for ChatGPT  |
 | [godmode](https://godmode.space/?ref=awe50meAI) |   |
 | [PageLines](https://www.pagelines.com/?ref=awe50meAI) | AI Agents to Enhance Your Website |
+| [Denser AI](https://denser.ai/?ref=awe50meAI) | AI-powered Chatbot Built for Your Website |
 
 ## All-in-one tools
 | Awesome | Description |
