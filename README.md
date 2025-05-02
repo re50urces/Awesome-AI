@@ -459,3 +459,5 @@
 | [glass.ai](https://www.glass.ai/?ref=awe50meAI)| Transforming sector and company research with AI |
 | [ROCKSET](https://rockset.com/?ref=awe50meAI)| Build blazing fast search and AI applications in record time |
 | [fal](https://fal.ai/?ref=awe50meAI)| Build real-time AI applications with lightning fast inference (under ~120ms). |
+| [Notte](https://github.com/nottelabs/notte)| Notte is the fastest, most reliable framework for Browser Using Agents.|
+
