@@ -35,6 +35,7 @@
 | [alicent](https://alicent.ai/?ref=awe50meAI) |     A Gorgeous Extension for ChatGPT  |
 | [godmode](https://godmode.space/?ref=awe50meAI) |   |
 | [PageLines](https://www.pagelines.com/?ref=awe50meAI) | AI Agents to Enhance Your Website |
+| [ZhihuAgent](https://github.com/SamuelGong/ZhihuAgent) | AI-powered Q&A assistant that answers from your Zhihu bookmarks using a custom local knowledge base. |
 
 ## All-in-one tools
 | Awesome | Description |
