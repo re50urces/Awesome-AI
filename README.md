@@ -135,6 +135,7 @@
 | [WriteSparkle](https://writesparkle.ai/?ref=awe50meAI) |  Discover AI-Driven Brilliance, streamline your content creation process by seamlessly integrating Writesparkle with your favorite tools and platforms.  |
 | [flawlessly ai](https://flawlessly.ai/?ref=awe50meAI) |  Flawlessly.Ai transforms your spelling, grammar, tone, and style into professional text in seconds. |
 | [PDFPeer](https://pdfpeer.com/) |  Engage with your PDFs: summarize, ask questions, and simplify tasks! |
+| [Sunday Wordsmith](https://sundaywordsmith.com/) |  AI-Powered Sermon Writing Assistant for Pastors |
 
 ## video tools
 | Awesome | Description |
