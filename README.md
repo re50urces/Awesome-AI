@@ -6,6 +6,7 @@
 | Awesome | Description |
 | --- | --- |
 | [ChatGPT](https://chat.openai.com/?ref=awe50meAI) |  |
+| [scira] (https://scira.ai/?ref=awe50meAI) | Scira AI is a minimalistic AI-powered search engine that helps you find information on the internet. |
 | [Google Gemini](https://gemini.google.com/?ref=awe50meAI) | Gemini gives you direct access to Google AI. Get help with writing, planning, learning, and more.  |
 | [Poe](https://poe.com/?ref=awe50meAI) | Fast, Helpful AI Chat |
 | [Chat D-ID](https://chat.d-id.com/?ref=awe50meAI) |  |
