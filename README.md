@@ -459,3 +459,4 @@
 | [glass.ai](https://www.glass.ai/?ref=awe50meAI)| Transforming sector and company research with AI |
 | [ROCKSET](https://rockset.com/?ref=awe50meAI)| Build blazing fast search and AI applications in record time |
 | [fal](https://fal.ai/?ref=awe50meAI)| Build real-time AI applications with lightning fast inference (under ~120ms). |
+| [Magia Trade](https://magiatrade.com) | Empowering traders with intelligent AI agents for smarter market analysis and trading insights. Get real-time technical and news analysis. |
