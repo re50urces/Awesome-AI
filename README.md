@@ -395,6 +395,7 @@
 | Awesome | Description |
 | --- | --- |
 | [Browse AI](https://www.browse.ai/?ref=awe50meAI) |     The easiest way to extract and monitor data from any website.  |
+| [AIRVAGO AI](https://airvago.ai?ref=awe50meAI) |     An AI-powered travel planner that creates personalized itineraries in seconds. It combines artificial intelligence with real-time data to help travelers find flights, hotels, and activities that match their preferences and budget. Whether planning a weekend getaway or a global adventure.  |
 | [interview-warmup by google](https://grow.google/certificates/interview-warmup/?ref=awe50meAI) |  |
 | [fastoutreach](https://www.fastoutreach.ai/?ref=awe50meAI) |     The smartest AI personalization tool for entrepreneurs.  |
 | [getleon](https://getleon.ai/?ref=awe50meAI) |     Leon is your open-source personal assistant who can live on your server.  |
