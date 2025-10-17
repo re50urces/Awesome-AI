@@ -409,6 +409,7 @@
 | [zyro ai tools](https://zyro.com/tools/?ref=awe50meAI) |     Free AI tools to set your business up for success  |
 | [personal ai](https://www.personal.ai/?ref=awe50meAI) |     Generate new ideas, recall key concepts, and write original content and at the speed of thought.  |
 | [monterey ai](https://www.monterey.ai/?ref=awe50meAI) |     Copilot for Product Development  |
+| [Metorial](https://metorial.com) |     Connect AI agents to 600+ integrations with a single interface - OAuth, scaling, and monitoring included  |
 | [kalendar ai](https://www.kalendar.ai/?ref=awe50meAI) |     Book new revenue on autopilot with AI  |
 | [akkio](https://www.akkio.com/?ref=awe50meAI) |     Modern Business Runs on AI  |
 | [cortex](https://www.meetcortex.com/?ref=awe50meAI) |     Enhance Your Creative with Powerful AI  |
