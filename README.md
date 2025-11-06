@@ -175,6 +175,7 @@
 | [Morise.ai](https://morise.ai/?ref=awe50meAI) |     You make the videos, AI will make them go viral  |
 | [Rask](https://www.rask.ai/?ref=awe50meAI) |     Localize videos. Fast. Fun. With AI  |
 | [HeyGen](https://www.heygen.com/) |     CREATE ENGAGING VIDEOS 10X FASTER WITH AI  |
+| [Tavus](https://tavus.io/) |     Create personalized AI avaatars and videos with realistic faces and voices |
 | [2short.ai](https://2short.ai/?ref=awe50meAI) |     Elevate your YT content with AI generated shorts |
 | [Eightify](https://eightify.app/?ref=awe50meAI) |  YouTube summaries powered by ChatGPT |
 
