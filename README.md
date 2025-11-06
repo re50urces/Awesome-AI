@@ -205,6 +205,7 @@
 | [otter](https://otter.ai/?ref=awe50meAI) |     Capture and share insights from your meetings  |
 | [voicera](https://www.voicera.co/?ref=awe50meAI) |     Give voice to your articles and blogs.  |
 | [revoicer](https://revoicer.com/?ref=awe50meAI) |     The most realistic AI Text To Speech online  |
+| [cartesia](https://cartesia.ai/) |     The fastest and most accurate AI voice cloning platform for creating natural, human-like speech |
 | [elevenlabs](https://beta.elevenlabs.io/?ref=awe50meAI) |     The most realistic and versatile AI speech software, ever. Eleven brings the most compelling, rich and lifelike voices to creators and publishers seeking the ultimate tools for storytelling.  |
 | [soundraw](https://soundraw.io/?ref=awe50meAI) |     AI Music Generator  |
 | [VoicePen](https://voicepen.ai/?ref=awe50meAI) |     Audio to Blog Post, in minutes  |
