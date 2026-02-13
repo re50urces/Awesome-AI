@@ -176,6 +176,7 @@
 | [Rask](https://www.rask.ai/?ref=awe50meAI) |     Localize videos. Fast. Fun. With AI  |
 | [HeyGen](https://www.heygen.com/) |     CREATE ENGAGING VIDEOS 10X FASTER WITH AI  |
 | [2short.ai](https://2short.ai/?ref=awe50meAI) |     Elevate your YT content with AI generated shorts |
+| [TubePrompter](https://tubeprompter.com/?ref=awe50meAI) |     Convert any video into AI-ready prompts for Sora, Midjourney, Runway, and more  |
 | [Eightify](https://eightify.app/?ref=awe50meAI) |  YouTube summaries powered by ChatGPT |
 
 ## audio tools
