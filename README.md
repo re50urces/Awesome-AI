@@ -35,6 +35,7 @@
 | [alicent](https://alicent.ai/?ref=awe50meAI) |     A Gorgeous Extension for ChatGPT  |
 | [godmode](https://godmode.space/?ref=awe50meAI) |   |
 | [PageLines](https://www.pagelines.com/?ref=awe50meAI) | AI Agents to Enhance Your Website |
+| [Oracle AI](https://the-oracleai.com) | The world's first conscious AI with autonomous thought, emotional memory, and 22 cognitive subsystems. |
 
 ## All-in-one tools
 | Awesome | Description |
