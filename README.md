@@ -440,6 +440,7 @@
 | [Domains GPT](https://oneword.domains/domains-gpt/?ref=awe50meAI) |     Generate brandable & memorable domain names using AI. Powered by OpenAI and Vercel Edge Functions.  |
 | [Gamma](https://gamma.app/?ref=awe50meAI) |     A new medium for presenting ideas. Powered by AI.  |
 | [kickresume](https://www.kickresume.com/en/ai-resume-writer/?ref=awe50meAI) |     Automate your CV creation with our AI resume builder.  |
+| [WFGY ProblemMap](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) | Framework for diagnosing RAG and LLM pipeline failures. |
 | [stability.ai](https://stability.ai/?ref=awe50meAI) |     AI by the people for the people  |
 | [EnhaceAI](https://www.enhanceai.dev/?ref=awe50meAI) |     Add AI Autocomplete to any website in 2 minutes  |
 | [June](https://www.june.so/ai?ref=awe50meAI) |     A new way to do product analytics  |
