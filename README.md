@@ -390,6 +390,7 @@
 | [ColorGPT](https://colorgpt.vercel.app/?ref=awe50meAI) |     Generating color name captured from real-world using AI  |
 | [Chroma AI](https://chroma.szhao.dev/?ref=awe50meAI) |     Generate gradients based on your mood  |
 | [PatternedAI](https://www.patterned.ai/?ref=awe50meAI) |     Generate unique patterns for your product using AI!  |
+| [EnigmaEasel](https://enigmaeasel.com/?ref=awe50meAI) |     AI Color Palette and Gradient Generator  |
 
 ## miscellaneous
 | Awesome | Description |
