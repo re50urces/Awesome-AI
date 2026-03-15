@@ -143,6 +143,7 @@
 | [Supercreator.ai](https://www.supercreator.ai/?ref=awe50meAI) |     Create short form videos 10x faster using artificial intelligence  |
 | [veed io](https://www.veed.io/?ref=awe50meAI) |     VEED - Edit, Record & Livestream Video - Online  |
 | [runway](https://runwayml.com/?ref=awe50meAI) |     Everything you need to make content, fast.  |
+| [PopcornAI](https://popcornai.art/) |     AI video and image generator for branded short clips, launch visuals, and campaign-ready creative assets  |
 | [Fliki](https://fliki.ai/?ref=awe50meAI) |     Turn text into videos with AI voices  |
 | [synthesia](https://www.synthesia.io/?ref=awe50meAI) |     Create videos from plain text in minutes  |
 | [descript](https://www.descript.com/?ref=awe50meAI) |     All-in-one video & audio editing, as easy as a doc.  |
