@@ -139,6 +139,7 @@
 ## video tools
 | Awesome | Description |
 | --- | --- |
+| [MaxVideoAI](https://maxvideoai.com/models?ref=awe50meAI) | Compare multi-engine AI video models with specs, pricing, examples, and engine-level comparisons before you generate. |
 | [Deepbrain ai - ai studios](https://www.deepbrain.io/aistudios?ref=awe50meAI) |     Create AI-generated videos using basic text instantly  |
 | [Supercreator.ai](https://www.supercreator.ai/?ref=awe50meAI) |     Create short form videos 10x faster using artificial intelligence  |
 | [veed io](https://www.veed.io/?ref=awe50meAI) |     VEED - Edit, Record & Livestream Video - Online  |
