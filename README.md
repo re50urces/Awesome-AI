@@ -35,6 +35,7 @@
 | [alicent](https://alicent.ai/?ref=awe50meAI) |     A Gorgeous Extension for ChatGPT  |
 | [godmode](https://godmode.space/?ref=awe50meAI) |   |
 | [PageLines](https://www.pagelines.com/?ref=awe50meAI) | AI Agents to Enhance Your Website |
+| [AnveVoice](https://anvevoice.app/?ref=awe50meAI) | AI voice agent for websites — trains on site content, navigates pages, fills forms, and books appointments in 50+ languages with <700ms latency |
 
 ## All-in-one tools
 | Awesome | Description |
