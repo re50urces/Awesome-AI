@@ -189,6 +189,7 @@
 | [voicemod](https://www.voicemod.net/?ref=awe50meAI) |     Free Real-Time Voice Changer  |
 | [assemblyai](https://www.assemblyai.com/?ref=awe50meAI) |     Transcribe and understand audio with a single AI-powered API  |
 | [songdonkey](https://songdonkey.ai/?ref=awe50meAI) |     Extract vocals and instruments with artificial intelligence  |
+| [voicetoinstrument.com](https://voicetoinstrument.com) |     Convert voice to instrumental tracks using AI  |
 | [krisp ai](https://krisp.ai/?ref=awe50meAI) |     Krisp’s AI removes background voices, noises and echo from all your calls, giving you peace of mind.  |
 | [aloud](https://aloud.area120.google.com/?ref=awe50meAI) |     Aloud - dubbing for everyone  |
 | [listnr](https://www.listnr.tech/?ref=awe50meAI) |     Generate realistic Text to Speech (TTS) audio using our AI Voice Generator with the best synthetic voices.   |
