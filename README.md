@@ -459,3 +459,6 @@
 | [glass.ai](https://www.glass.ai/?ref=awe50meAI)| Transforming sector and company research with AI |
 | [ROCKSET](https://rockset.com/?ref=awe50meAI)| Build blazing fast search and AI applications in record time |
 | [fal](https://fal.ai/?ref=awe50meAI)| Build real-time AI applications with lightning fast inference (under ~120ms). |
+| [Midas AI Job Risk Calculator](https://www.midastools.co/ai-job-risk) | Free tool to check if AI will replace your job — 40+ occupations with risk scores, timelines, and safe skills. |
+| [Midas AI Prompt Enhancer](https://www.midastools.co/prompt-enhancer) | Paste any AI prompt and get 5 enhanced expert-level versions — Professional, Creative, Data-Driven, Viral, Expert. |
+| [Midas AI Image Prompt Builder](https://www.midastools.co/image-prompt-builder) | Visual prompt builder for Midjourney, DALL-E, ChatGPT images — 12 art styles including Ghibli, Cyberpunk, 3D Clay. |
