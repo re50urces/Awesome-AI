@@ -96,6 +96,7 @@
 | [Article Forge](https://www.articleforge.com/?ref=awe50meAI) |     High quality, AI content generator - Article Forge  |
 | [ProWritingAid](https://prowritingaid.com/?ref=awe50meAI) |     ProWritingAid: AI Writing Assistant Software  |
 | [QuillBot](https://quillbot.com/?ref=awe50meAI) |     QuillBot's AI-powered paraphrasing tool will enhance your writing  |
+| [ToneSwap](https://toneswap.app/?ref=awe50meAI) |     AI rewriter that learns your personal writing style. Rewrite in 9 tones, write fiction with genre-specific craft rules, and voice matching.  |
 | [WriterZen](https://writerzen.net/?ref=awe50meAI) |     Proficient SEO Content Workflow Software  |
 | [Writecream](https://www.writecream.com/?ref=awe50meAI) |     Writecream - Best AI Writer & Content Generator - Writecream  |
 | [outranking](https://www.outranking.io/?ref=awe50meAI) |     Outranking helps content teams achieve predictable content success with AI assistance.  |
