@@ -37,6 +37,7 @@
 | [PageLines](https://www.pagelines.com/?ref=awe50meAI) | AI Agents to Enhance Your Website |
 
 ## All-in-one tools
+- [skill-taxonomy](https://github.com/SeeleAI/skill-taxonomy) - Structured taxonomy for AI agent skills: discovery, classification and routing across multi-agent workflows.
 | Awesome | Description |
 | --- | --- |
 | [airOps](https://www.airops.com/?ref=awe50meAI) |     Deploy task-specific AI where you need it most with AirOps Apps. Install and configure in minutes, scalable, and available everywhere.  |
