@@ -2,6 +2,7 @@
 > A curated list of awesome things related to artificial intelligence (AI).
 
 [conversational AI](#conversational-ai) - [All-in-one tools](#all-in-one-tools) - [AI Search Engine](#ai-search-engine) - [writing tools](#writing-tools) - [video tools](#video-tools) - [audio tools](#audio-tools) - [images tools](#images-tools) - [commerce & marketing tools](#commerce--marketing-tools) - [design tools](#design-tools) - [Coding tools](#coding-tools) - [color tools](#color-tools) - [miscellaneous](#miscellaneous)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for multi-agent orchestration with Claude Code. MIT licensed.
 ## conversational AI
 | Awesome | Description |
 | --- | --- |
