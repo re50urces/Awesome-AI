@@ -243,6 +243,7 @@
 | [ai image enlarger](https://imglarger.com/?ref=awe50meAI) |     All-in-one AI toolkits help you enhance and upscale images. Increases image resolution without losing quality  |
 | [DeOldify](https://github.com/jantic/DeOldify/?ref=awe50meAI) |     A Deep Learning based project for colorizing and restoring old images (and video!)   |
 | [imagecolorizer](https://imagecolorizer.com/?ref=awe50meAI) |     We use AI technology to restore old photos automatically  |
+| [ArtImageHub](https://artimagehub.com/old-photo-restoration/?ref=awe50meAI) |     AI-powered old photo restoration using CodeFormer + GFPGAN + Real-ESRGAN; repairs scratches, fading, and reconstructs blurry faces on old family photographs  |
 | [evoto](https://www.evoto.ai/?ref=awe50meAI) |     EVOTO, AI-powered Image Editor  |
 | [imagineme](https://imagineme.app/ref/3/?ref=awe50meAI) |     Personal AI Art Generator  |
 | [restorephotos.io](https://www.restorephotos.io/?ref=awe50meAI) |     Restoring old photos using AI for everyone.  |
