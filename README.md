@@ -35,6 +35,7 @@
 | [alicent](https://alicent.ai/?ref=awe50meAI) |     A Gorgeous Extension for ChatGPT  |
 | [godmode](https://godmode.space/?ref=awe50meAI) |   |
 | [PageLines](https://www.pagelines.com/?ref=awe50meAI) | AI Agents to Enhance Your Website |
+| [Netwrck](https://netwrck.com/?ref=awe50meAI) | AI character chat platform with voice, art generation, and API |
 
 ## All-in-one tools
 | Awesome | Description |
@@ -257,6 +258,7 @@
 | [Stable Diffusion](https://stablediffusionweb.com/?ref=awe50meAI) |     Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds.  |
 | [Playground AI](https://playgroundai.com/?ref=awe50meAI) | Create any image from your imagination |
 | [VectorArt.ai](https://vectorart.ai/?ref=awe50meAI) | Create vector images with AI |
+| [AI Art Generator](https://ebank.nz/?ref=awe50meAI) | AI art generation with style presets and upscaling |
 
 ## commerce & marketing tools
 | Awesome | Description |
@@ -459,3 +461,5 @@
 | [glass.ai](https://www.glass.ai/?ref=awe50meAI)| Transforming sector and company research with AI |
 | [ROCKSET](https://rockset.com/?ref=awe50meAI)| Build blazing fast search and AI applications in record time |
 | [fal](https://fal.ai/?ref=awe50meAI)| Build real-time AI applications with lightning fast inference (under ~120ms). |
+| [Text-Generator.io](https://text-generator.io/?ref=awe50meAI) | Unified text, vision, and speech API with privacy-first design |
+| [ExperimentFlow](https://experimentflow.com/?ref=awe50meAI) | A/B testing and AI personalisation with neural bandits |
