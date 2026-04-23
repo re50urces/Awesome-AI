@@ -177,6 +177,7 @@
 | [HeyGen](https://www.heygen.com/) |     CREATE ENGAGING VIDEOS 10X FASTER WITH AI  |
 | [2short.ai](https://2short.ai/?ref=awe50meAI) |     Elevate your YT content with AI generated shorts |
 | [Eightify](https://eightify.app/?ref=awe50meAI) |  YouTube summaries powered by ChatGPT |
+| [Melies](https://melies.co/?ref=awe50meAI) |  AI video and image generation tools for filmmakers |
 
 ## audio tools
 | Awesome | Description |
