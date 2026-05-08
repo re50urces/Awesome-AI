@@ -49,6 +49,7 @@
 ## AI Search Engine
 | Awesome | Description |
 | --- | --- |
+| [AI Hotlist](https://aihot.bt199.com/) | Chinese AI tools, agents, models, and AI news hotlist updated every 6 hours. |
 | [phind](https://www.phind.com/?ref=awe50meAI) |     The AI search engine for developers.  |
 | [you](https://you.com/?ref=awe50meAI) |     The AI Search Engine You Control  |
 | [iAsk.AI](https://iask.ai/?ref=awe50meAI) |     Ask AI Questions – Free AI Search Engine  |
