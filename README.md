@@ -369,6 +369,7 @@
 | [codeium](https://codeium.com/?ref=awe50meAI) |     AI-Powered Autocomplete  |
 | [Ghostwriter](https://replit.com/site/ghostwriter/?ref=awe50meAI) |     Meet Ghostwriter, your partner in code.  |
 | [Lightning AI](https://lightning.ai/?ref=awe50meAI) |     The platform for teams to build AI, without the headaches  |
+| [EuroForge AI Cost Calculator](https://euroforge-autopilot.vercel.app/chatgpt-team-cost-calculator/?utm_source=awesome_ai_resources) |     Estimate wasted ChatGPT Team seats, duplicate AI subscriptions, and LLM API spend.  |
 | [CommitAI](https://github.com/fengyiqicoder/CommitAi-Free?ref=awe50meAI) |     Let AI Handle Your Commit Messages  |
 | [Codewand](https://www.codewand.co/?ref=awe50meAI) |     Use GPT-4 to build software with natural language.  |
 | [kopylot](https://github.com/avsthiago/kopylot?ref=awe50meAI) |     An AI-Powered assistant for Kubernetes developers  |
