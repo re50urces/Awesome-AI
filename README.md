@@ -5,6 +5,7 @@
 ## conversational AI
 | Awesome | Description |
 | --- | --- |
+| [LandscapioAI](https://www.landscapioai.com/?ref=awe50meAI) | AI landscape design tool that turns yard photos into outdoor design concepts for gardens, patios, lighting, and hardscapes. |
 | [ChatGPT](https://chat.openai.com/?ref=awe50meAI) |  |
 | [Google Gemini](https://gemini.google.com/?ref=awe50meAI) | Gemini gives you direct access to Google AI. Get help with writing, planning, learning, and more.  |
 | [Poe](https://poe.com/?ref=awe50meAI) | Fast, Helpful AI Chat |
