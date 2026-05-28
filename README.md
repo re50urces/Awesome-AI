@@ -45,6 +45,7 @@
 | [Kittl](https://www.kittl.com/?ref=awe50meAI) |     Speed up your workflows with Kittl's AI-powered design tools and gain instant access to a ton of stunning illustrations, fonts, photos, icons, and textures.  |
 | [clipdrop](https://clipdrop.co/?ref=awe50meAI) |     Create stunning visuals in seconds  |
 | [Replicate](https://replicate.com/?ref=awe50meAI) | Machine learning doesn’t need to be so hard. |
+| [Future AGI](https://github.com/future-agi/future-agi) | Open-source self-hostable end-to-end agent engineering and optimization platform unifying tracing, evaluation, simulation, datasets, gateway, and guardrails in one feedback loop. |
 
 ## AI Search Engine
 | Awesome | Description |
