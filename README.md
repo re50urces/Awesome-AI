@@ -234,6 +234,7 @@
 | [letsenhance](https://letsenhance.io/?ref=awe50meAI) |     Automatic AI editor to increase image resolution without losing quality  |
 | [facet ai](https://facet.ai/?ref=awe50meAI) |     Facet is the first AI-powered image editor, empowering artists to do what they do best: create.  |
 | [remove bg](https://www.remove.bg/?ref=awe50meAI) |     Remove backgrounds 100% automatically in 5 seconds with one click  |
+| [igly.ai](https://igly.ai) |     AI image editor for background removal, inpainting, upscaling, and generative fill  |
 | [ProPhotos](https://prophotos.ai/?ref=awe50meAI) | Upgrade your professional image with AI-powered headshots. |
 | [remini ai](https://remini.ai/?ref=awe50meAI) |     The only photo enhancer you'll ever need  |
 | [avatar ai](https://avatarai.me/?ref=awe50meAI) |     Create your own photorealistic AI Avatars  |
