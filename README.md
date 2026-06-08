@@ -459,3 +459,4 @@
 | [glass.ai](https://www.glass.ai/?ref=awe50meAI)| Transforming sector and company research with AI |
 | [ROCKSET](https://rockset.com/?ref=awe50meAI)| Build blazing fast search and AI applications in record time |
 | [fal](https://fal.ai/?ref=awe50meAI)| Build real-time AI applications with lightning fast inference (under ~120ms). |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) |  Trust scoring MCP server for AI agents on Solana. Verify agent wallet identity before x402 micropayments. 4 free tools: resolve_agent, score_agent, preflight_check, verify_trust_receipt. Remote streamable-http MCP — zero install. |
