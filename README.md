@@ -177,6 +177,7 @@
 | [HeyGen](https://www.heygen.com/) |     CREATE ENGAGING VIDEOS 10X FASTER WITH AI  |
 | [2short.ai](https://2short.ai/?ref=awe50meAI) |     Elevate your YT content with AI generated shorts |
 | [Eightify](https://eightify.app/?ref=awe50meAI) |  YouTube summaries powered by ChatGPT |
+| [VideoOverlayKit](https://github.com/alichherawalla/video-overlay-kit) | Renders 4-6s animated b-roll overlay mp4s for short-form social (LinkedIn, IG Reels, YouTube Shorts, TikTok). AI-driven via MCP: paste your script into Claude Code / Cursor / Codex, the model writes the scene spec and renders the mp4. Free, MIT, local. |
 
 ## audio tools
 | Awesome | Description |
