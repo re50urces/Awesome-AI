@@ -416,6 +416,7 @@
 | [naming magic](https://www.namingmagic.com/?ref=awe50meAI) |     Use AI to name your company and find a domain.  |
 | [poised](https://www.poised.com/?ref=awe50meAI) |     Poised is the AI-powered communication coach that helps you speak with confidence and clarity.  |
 | [mem](https://get.mem.ai/?ref=awe50meAI) |     Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.  |
+| [Remio](https://remio.ai/) |     Local-first AI memory and knowledge base desktop app that parses files, webpages, recordings, emails, messages, images, and notes into local indexes and vectors for fast personal context retrieval.  |
 | [tome](https://beta.tome.app/?ref=awe50meAI) |     Unlock your best work with Tome's AI-powered storytelling format.  |
 | [custom GPT](https://customgpt.ai/?ref=awe50meAI) |     Build Your Own ChatBOT With Your Data  |
 | [rationale](https://rationale.jina.ai/?ref=awe50meAI) |     a revolutionary AI to assist business owners, managers, and individuals in making tough decisions.  |
