@@ -114,6 +114,7 @@
 | [ChatGPT Writer](https://chatgptwriter.ai/?ref=Awe50meAI) |     Free Chrome extension to generate entire emails and messages using ChatGPT AI. All sites are supported and enhanced support for Gmail.  |
 | [FocusFlow](https://focusflow.ai/?ref=awe50meAI) |     Track your daily progress, highlights, and improvements in just 20 seconds.  |
 | [NovelAI](https://novelai.net/?ref=awe50meAI) |     The AI Storyteller  |
+| [Auferet](https://auferet.com) | AI game master for solo text adventures and tabletop RPGs, with long-term memory and uploadable lore |
 | [narrato](https://narrato.io/?ref=awe50meAI) |     AI Content Creation and Collaboration Platform  |
 | [WriteMe](https://writeme.ai/?ref=awe50meAI) |     WriteMe.ai - Ai Writer - Content Writing Assistant & Creator  |
 | [Magical AI](https://www.getmagical.com/ai?ref=awe50meAI) |     Call on Magical AI to do all the work stuff you hate doing. Create messages from scratch, update forms instantly, and automate annoying tasks—anywhere, anytime.  |
