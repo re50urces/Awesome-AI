@@ -139,6 +139,7 @@
 ## video tools
 | Awesome | Description |
 | --- | --- |
+| [Sparkiz.ai](https://sparkiz.ai) | Product link to a ready-to-launch AI video ad (avatar, voiceover, captions) in 60s |
 | [Deepbrain ai - ai studios](https://www.deepbrain.io/aistudios?ref=awe50meAI) |     Create AI-generated videos using basic text instantly  |
 | [Supercreator.ai](https://www.supercreator.ai/?ref=awe50meAI) |     Create short form videos 10x faster using artificial intelligence  |
 | [veed io](https://www.veed.io/?ref=awe50meAI) |     VEED - Edit, Record & Livestream Video - Online  |
