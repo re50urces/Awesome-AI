@@ -45,6 +45,7 @@
 | [Kittl](https://www.kittl.com/?ref=awe50meAI) |     Speed up your workflows with Kittl's AI-powered design tools and gain instant access to a ton of stunning illustrations, fonts, photos, icons, and textures.  |
 | [clipdrop](https://clipdrop.co/?ref=awe50meAI) |     Create stunning visuals in seconds  |
 | [Replicate](https://replicate.com/?ref=awe50meAI) | Machine learning doesn’t need to be so hard. |
+| [NoteRich](https://noterich.com) | AI-powered notes with built-in RAG search. Import documents, ask questions, 41 languages. Free tier. |
 
 ## AI Search Engine
 | Awesome | Description |
