@@ -350,6 +350,7 @@
 ## Coding tools
 | Awesome | Description |
 | --- | --- |
+| [SuperCompress](https://supercompress.vercel.app/?ref=awe50meAI) | Cut LLM token costs by 65% with a learned compression policy that scores context against your query |
 | [GitHub copilot](https://github.com/features/copilot/?ref=awe50meAI) |     Your AI pair programmer  |
 | [tabnine](https://www.tabnine.com/?ref=awe50meAI) |     AI assistant for software developers  |
 | [deepOpinion](https://go.deepopinion.ai/?ref=awe50meAI) |     No-code AI for automation professionals  |
