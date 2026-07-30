@@ -244,6 +244,7 @@
 | [DeOldify](https://github.com/jantic/DeOldify/?ref=awe50meAI) |     A Deep Learning based project for colorizing and restoring old images (and video!)   |
 | [imagecolorizer](https://imagecolorizer.com/?ref=awe50meAI) |     We use AI technology to restore old photos automatically  |
 | [evoto](https://www.evoto.ai/?ref=awe50meAI) |     EVOTO, AI-powered Image Editor  |
+| [AIImageChanger.app](https://aiimagechanger.app/) | Edit backgrounds, objects, clothing, colors, and styles with plain-language prompts. |
 | [imagineme](https://imagineme.app/ref/3/?ref=awe50meAI) |     Personal AI Art Generator  |
 | [restorephotos.io](https://www.restorephotos.io/?ref=awe50meAI) |     Restoring old photos using AI for everyone.  |
 | [booth ai](https://www.booth.ai/?ref=awe50meAI) |     Create pro quality product photography with AI  |
