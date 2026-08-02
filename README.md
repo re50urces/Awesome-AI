@@ -346,6 +346,7 @@
 | [NVIDIA Canvas](https://www.nvidia.com/en-us/studio/canvas/?ref=awe50meAI) |     Use AI to turn simple brushstrokes into realistic landscape images. Create backgrounds quickly, or speed up your concept exploration so you can spend more time visualizing ideas.  |
 | [Thumbly](https://thumbly.ai/?ref=awe50meAI) | Create YouTube thumbnails that get clicks |
 | [stylized](https://www.stylized.ai/?ref=awe50meAI) | A new way to take product photos. |
+| [Pixel Pet](https://letmethink.cc/app/pixel-pet/) | Generate a deterministic ASCII pixel companion from a personality description. |
 
 ## Coding tools
 | Awesome | Description |
