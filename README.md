@@ -34,7 +34,8 @@
 | [Monica](https://monica.im/?ref=awe50meAI) |     YOUR CHATGPT POWERED AI ASSISTANT ON ALL WEBSITES  |
 | [alicent](https://alicent.ai/?ref=awe50meAI) |     A Gorgeous Extension for ChatGPT  |
 | [godmode](https://godmode.space/?ref=awe50meAI) |   |
-| [PageLines](https://www.pagelines.com/?ref=awe50meAI) | AI Agents to Enhance Your Website |
+| [PageLines
+| [Chirp AI](https://ghostinc.online/chirpai/?ref=awe50meAI) |     AI assistant that lives in your texts; read-only links to Google Calendar, Todoist, Notion, Fitbit  |](https://www.pagelines.com/?ref=awe50meAI) | AI Agents to Enhance Your Website |
 
 ## All-in-one tools
 | Awesome | Description |
