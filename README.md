@@ -413,6 +413,7 @@
 | [akkio](https://www.akkio.com/?ref=awe50meAI) |     Modern Business Runs on AI  |
 | [cortex](https://www.meetcortex.com/?ref=awe50meAI) |     Enhance Your Creative with Powerful AI  |
 | [validatorAI](https://www.validatorai.com/?ref=awe50meAI) |     Validate and receive constructive feedback on any startup idea, powered by AI!  |
+| [IdeaHunter](https://ideahunter.today/) | AI research for demand-backed app and micro-SaaS ideas. |
 | [naming magic](https://www.namingmagic.com/?ref=awe50meAI) |     Use AI to name your company and find a domain.  |
 | [poised](https://www.poised.com/?ref=awe50meAI) |     Poised is the AI-powered communication coach that helps you speak with confidence and clarity.  |
 | [mem](https://get.mem.ai/?ref=awe50meAI) |     Mem is the world's first AI-powered workspace that's personalized to you. Amplify your creativity, automate the mundane, and stay organized automatically.  |
