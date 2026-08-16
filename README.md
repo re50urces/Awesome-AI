@@ -155,6 +155,7 @@
 | [Steve AI](https://www.steve.ai/?ref=awe50meAI) |     Free AI Video Maker App | Online Video Making Software Tool  |
 | [elai](https://elai.io/?ref=awe50meAI) |     Create AI videos from just text.  |
 | [pictory](https://pictory.ai/?ref=awe50meAI) |     Video Marketing Made EASY  |
+| [videos.social](https://videos.social/?utm_source=awesome-ai&utm_medium=directory&utm_campaign=listing-wave-d) |     Editable faceless videos from blogs, PDFs, and prompts. 1 free render. Packs from $10.  |
 | [Lumen5](https://lumen5.com/?ref=awe50meAI) |     Lumen5 - Video Maker | Create Videos Online in Minutes  |
 | [wisecut](https://www.wisecut.video/?ref=awe50meAI) |     Wisecut | Automatic Video Editor  |
 | [synths video](https://synths.video/?ref=awe50meAI) |     Convert articles into video in 1-click  |
