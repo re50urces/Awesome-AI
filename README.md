@@ -282,6 +282,7 @@
 | [Tugan.ai](https://www.tugan.ai/?ref=awe50meAI) |     Enter a URL or TOPIC To Generate Your Marketing Emails Instantly With AI  |
 | [Marketing Co-pilot AI](https://marketingcopilotai.com/?ref=awe50meAI) | The Better Way to Do Marketing |
 | [Domains GPT](https://oneword.domains/domains-gpt/?ref=awe50meAI) | Generate brandable & memorable domain names using AI. Powered by OpenAI and Vercel Edge Functions. |
+| [AdMapix](https://www.admapix.com/) | AI-native advertising intelligence for researching competitor ad creatives and comparing creative patterns across games, AI apps, and ecommerce. |
 
 ## design tools
 | Awesome | Description |
