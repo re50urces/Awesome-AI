@@ -120,6 +120,7 @@
 | [Bearly](https://bearly.ai/?ref=awe50meAI) |     Bearly makes you 10x faster by adding the state of the art AI to your workflow. Reading, writing, and content creation all one shortcut away.  |
 | [StealthGPT](https://www.stealthgpt.ai/?ref=awe50meAI) |     Write Using AI, Get Human Written Results  |
 | [resume worded](https://resumeworded.com/?ref=awe50meAI) |     Improve your resume and LinkedIn profile  |
+| [ResumeAI](https://withresumeai.com/) |     Free ATS checker + State of ATS 2026 dataset (738 employers, 704 portal-verified)  |
 | [detangle](https://detangle.ai/?ref=awe50meAI) |     Summarize any video, audio or text  |
 | [melville](https://usemelville.com/?ref=awe50meAI) |     Create amazing show notes 10x faster with AI.  |
 | [Swell AI](https://www.swellai.com/?ref=awe50meAI) |     Automate writing podcast show notes, articles, social posts and more.  |
