@@ -8,6 +8,7 @@
 | [ChatGPT](https://chat.openai.com/?ref=awe50meAI) |  |
 | [Google Gemini](https://gemini.google.com/?ref=awe50meAI) | Gemini gives you direct access to Google AI. Get help with writing, planning, learning, and more.  |
 | [Poe](https://poe.com/?ref=awe50meAI) | Fast, Helpful AI Chat |
+| [WSUP AI: Free AI Character Chat](https://wsupai.app/?ref=awe50meAI) | Free AI character chat in the browser — talk to AI characters with no sign up. |
 | [Chat D-ID](https://chat.d-id.com/?ref=awe50meAI) |  |
 | [Dialogflow](https://cloud.google.com/dialogflow/?ref=awe50meAI) |  |
 | [Watson Assistant](https://www.ibm.com/products/watson-assistant/?ref=awe50meAI) |  |
