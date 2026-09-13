@@ -177,6 +177,7 @@
 | [HeyGen](https://www.heygen.com/) |     CREATE ENGAGING VIDEOS 10X FASTER WITH AI  |
 | [2short.ai](https://2short.ai/?ref=awe50meAI) |     Elevate your YT content with AI generated shorts |
 | [Eightify](https://eightify.app/?ref=awe50meAI) |  YouTube summaries powered by ChatGPT |
+| [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | Local-first CLI and MCP toolkit for coding agents to compose, edit, and generate videos from editable plan.json timelines. |
 
 ## audio tools
 | Awesome | Description |
