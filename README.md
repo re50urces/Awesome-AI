@@ -45,6 +45,7 @@
 | [Kittl](https://www.kittl.com/?ref=awe50meAI) |     Speed up your workflows with Kittl's AI-powered design tools and gain instant access to a ton of stunning illustrations, fonts, photos, icons, and textures.  |
 | [clipdrop](https://clipdrop.co/?ref=awe50meAI) |     Create stunning visuals in seconds  |
 | [Replicate](https://replicate.com/?ref=awe50meAI) | Machine learning doesn’t need to be so hard. |
+| [Orkas](https://orkas.ai/?source=gh_re50) | Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. |
 
 ## AI Search Engine
 | Awesome | Description |
