@@ -39,6 +39,7 @@
 ## All-in-one tools
 | Awesome | Description |
 | --- | --- |
+| [MagicKit](https://kaketiti.github.io) | Free AI tools collection - 66+ tools, zero registration, zero API key required |
 | [airOps](https://www.airops.com/?ref=awe50meAI) |     Deploy task-specific AI where you need it most with AirOps Apps. Install and configure in minutes, scalable, and available everywhere.  |
 | [Hugging Face](https://huggingface.co/?ref=awe50meAI) |     The AI community building the future.  |
 | [fotor](https://www.fotor.com/?ref=awe50meAI) |     Online photo editor for everyone  |
