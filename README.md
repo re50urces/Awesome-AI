@@ -408,6 +408,10 @@
 | [open ai](https://openai.com/api/?ref=awe50meAI) |     Build next-gen apps with OpenAI’s powerful models.  |
 | [zyro ai tools](https://zyro.com/tools/?ref=awe50meAI) |     Free AI tools to set your business up for success  |
 | [personal ai](https://www.personal.ai/?ref=awe50meAI) |     Generate new ideas, recall key concepts, and write original content and at the speed of thought.  |
+
+
+
+
 | [monterey ai](https://www.monterey.ai/?ref=awe50meAI) |     Copilot for Product Development  |
 | [kalendar ai](https://www.kalendar.ai/?ref=awe50meAI) |     Book new revenue on autopilot with AI  |
 | [akkio](https://www.akkio.com/?ref=awe50meAI) |     Modern Business Runs on AI  |
@@ -459,3 +463,7 @@
 | [glass.ai](https://www.glass.ai/?ref=awe50meAI)| Transforming sector and company research with AI |
 | [ROCKSET](https://rockset.com/?ref=awe50meAI)| Build blazing fast search and AI applications in record time |
 | [fal](https://fal.ai/?ref=awe50meAI)| Build real-time AI applications with lightning fast inference (under ~120ms). |
+## AI API gateways
+| Awesome | Description |
+| --- | --- |
+| [APIClaw](https://apiclaw.biz) | Flat-rate OpenAI-compatible AI API gateway with Claude, GPT, Kimi, Qwen, DeepSeek, and GLM access; plans from $19/month with 50 free trial requests. |
