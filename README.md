@@ -142,6 +142,7 @@
 | [Deepbrain ai - ai studios](https://www.deepbrain.io/aistudios?ref=awe50meAI) |     Create AI-generated videos using basic text instantly  |
 | [Supercreator.ai](https://www.supercreator.ai/?ref=awe50meAI) |     Create short form videos 10x faster using artificial intelligence  |
 | [veed io](https://www.veed.io/?ref=awe50meAI) |     VEED - Edit, Record & Livestream Video - Online  |
+| [ReelWorkshop](https://reelworkshop.com) |     Browser compilation maker: import/arrange/trim/preview free; export vertical 9:16 H.264 on Starter  |
 | [runway](https://runwayml.com/?ref=awe50meAI) |     Everything you need to make content, fast.  |
 | [Fliki](https://fliki.ai/?ref=awe50meAI) |     Turn text into videos with AI voices  |
 | [synthesia](https://www.synthesia.io/?ref=awe50meAI) |     Create videos from plain text in minutes  |
