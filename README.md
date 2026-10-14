@@ -257,6 +257,7 @@
 | [Stable Diffusion](https://stablediffusionweb.com/?ref=awe50meAI) |     Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds.  |
 | [Playground AI](https://playgroundai.com/?ref=awe50meAI) | Create any image from your imagination |
 | [VectorArt.ai](https://vectorart.ai/?ref=awe50meAI) | Create vector images with AI |
+| [PhoText](https://photext.ai) | PhoText - free AI editor: click any text in an image or screenshot and retype it directly, with font matching, AI chat editing, OCR and image translation. |
 
 ## commerce & marketing tools
 | Awesome | Description |
@@ -346,6 +347,7 @@
 | [NVIDIA Canvas](https://www.nvidia.com/en-us/studio/canvas/?ref=awe50meAI) |     Use AI to turn simple brushstrokes into realistic landscape images. Create backgrounds quickly, or speed up your concept exploration so you can spend more time visualizing ideas.  |
 | [Thumbly](https://thumbly.ai/?ref=awe50meAI) | Create YouTube thumbnails that get clicks |
 | [stylized](https://www.stylized.ai/?ref=awe50meAI) | A new way to take product photos. |
+| [PhoText Font Finder](https://photext.ai/FontFinder/?utm_source=awesome-ai) | Upload an image and AI identifies the font, then matches similar fonts that are free for commercial use. |
 
 ## Coding tools
 | Awesome | Description |
