@@ -109,6 +109,7 @@
 | [wordkraft](https://wordkraft.ai/?ref=awe50meAI) |     Create High-Quality Content Instantly With AI  |
 | [merlin](https://merlin.foyer.work/?ref=awe50meAI) |     Open AI’s GPT powered extension to use anywhere!  |
 | [kickresume](https://www.kickresume.com/en/?ref=awe50meAI) |     Let artificial intelligence write your resume.  |
+| [JobEmerge](https://www.jobemerge.work) | AI resume builder with job-fit analysis, text-based mock interviews, and application tracking. |
 | [AISEO](https://aiseo.ai/?ref=awe50meAI) |     AISEO - AI writing assistant, Copywriting & Paraphrasing Tool  |
 | [yaara.ai](https://yaara.ai/?ref=awe50meAI) |     The Future Of Writing is Finally Here  |
 | [ChatGPT Writer](https://chatgptwriter.ai/?ref=Awe50meAI) |     Free Chrome extension to generate entire emails and messages using ChatGPT AI. All sites are supported and enhanced support for Gmail.  |
