@@ -42,6 +42,7 @@
 | [airOps](https://www.airops.com/?ref=awe50meAI) |     Deploy task-specific AI where you need it most with AirOps Apps. Install and configure in minutes, scalable, and available everywhere.  |
 | [Hugging Face](https://huggingface.co/?ref=awe50meAI) |     The AI community building the future.  |
 | [fotor](https://www.fotor.com/?ref=awe50meAI) |     Online photo editor for everyone  |
+| [Ideoy](https://ideoy.ai) | Remake this week's viral meme videos from one selfie (MiniMax H3, 9:16) | Freemium | — |
 | [Kittl](https://www.kittl.com/?ref=awe50meAI) |     Speed up your workflows with Kittl's AI-powered design tools and gain instant access to a ton of stunning illustrations, fonts, photos, icons, and textures.  |
 | [clipdrop](https://clipdrop.co/?ref=awe50meAI) |     Create stunning visuals in seconds  |
 | [Replicate](https://replicate.com/?ref=awe50meAI) | Machine learning doesn’t need to be so hard. |
