@@ -282,6 +282,7 @@
 | [Tugan.ai](https://www.tugan.ai/?ref=awe50meAI) |     Enter a URL or TOPIC To Generate Your Marketing Emails Instantly With AI  |
 | [Marketing Co-pilot AI](https://marketingcopilotai.com/?ref=awe50meAI) | The Better Way to Do Marketing |
 | [Domains GPT](https://oneword.domains/domains-gpt/?ref=awe50meAI) | Generate brandable & memorable domain names using AI. Powered by OpenAI and Vercel Edge Functions. |
+| [OpenSparta](https://opensparta.com/en) | Telegram marketing workspace for account/proxy operations and campaign workflows. The [Lead Radar module ($9/month)](https://opensparta.com/en/pricing) monitors selected communities for buying requests, ranks opportunities with AI, and shows original messages with match evidence. |
 
 ## design tools
 | Awesome | Description |
