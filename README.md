@@ -281,6 +281,7 @@
 | [cody](https://www.meetcody.ai/?ref=awe50meAI) |     Cody is an intelligent AI assistant like ChatGPT – with the added benefit of being able to train it on your business, your team, your processes, and your clients with your own knowledge base. Use Cody to support your team, answer questions, help with creative work, troubleshoot issues, and brainstorm ideas.  |
 | [Tugan.ai](https://www.tugan.ai/?ref=awe50meAI) |     Enter a URL or TOPIC To Generate Your Marketing Emails Instantly With AI  |
 | [Marketing Co-pilot AI](https://marketingcopilotai.com/?ref=awe50meAI) | The Better Way to Do Marketing |
+| [mach-gtm-mcp](https://github.com/verma6uc/mach-gtm-mcp) | Open-source MCP server for B2B outbound sales: build ICPs, research prospects with verified buying signals, score leads 0-100, draft cold emails and LinkedIn messages, and generate multi-touch outreach sequences. Human approval required before sending. MIT. |
 | [Domains GPT](https://oneword.domains/domains-gpt/?ref=awe50meAI) | Generate brandable & memorable domain names using AI. Powered by OpenAI and Vercel Edge Functions. |
 
 ## design tools
