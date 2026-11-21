@@ -177,6 +177,7 @@
 | [HeyGen](https://www.heygen.com/) |     CREATE ENGAGING VIDEOS 10X FASTER WITH AI  |
 | [2short.ai](https://2short.ai/?ref=awe50meAI) |     Elevate your YT content with AI generated shorts |
 | [Eightify](https://eightify.app/?ref=awe50meAI) |  YouTube summaries powered by ChatGPT |
+| [GetYouTubeTranscript](https://getyoutubetranscript.com/) |     Timestamped YouTube transcripts in about a second, with AI summaries, a Chrome extension, REST API and MCP server  |
 
 ## audio tools
 | Awesome | Description |
