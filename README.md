@@ -246,7 +246,7 @@
 | [evoto](https://www.evoto.ai/?ref=awe50meAI) |     EVOTO, AI-powered Image Editor  |
 | [imagineme](https://imagineme.app/ref/3/?ref=awe50meAI) |     Personal AI Art Generator  |
 | [restorephotos.io](https://www.restorephotos.io/?ref=awe50meAI) |     Restoring old photos using AI for everyone.  |
-| [booth ai](https://www.booth.ai/?ref=awe50meAI) |     Create pro quality product photography with AI  |
+| [Caspa AI](https://www.caspa.ai/) |     Create product photos and videos with AI  |
 | [phosus](https://phosus.com/?ref=awe50meAI) |     AI-Powered Image Enhancement Tools and API Provider | Phosus  |
 | [Vance.AI](https://vance.ai/?ref=awe50meAI) |     Upscale Image with AI  |
 | [Image Creator from Microsoft Bing](https://www.bing.com/images/create/?ref=awe50meAI) |     Create images from words with AI  |
